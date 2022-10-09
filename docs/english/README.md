@@ -1,3 +1,3 @@
-- [Key Structures](/english/NCE-Key-Structures.md)
 - [Notes on the Text](/english/NCE-Notes-on-the-Text.md)
+- [Key Structures](/english/NCE-Key-Structures.md)
 - [Special Difficulties](/english/NCE-Special-Difficulties.md)

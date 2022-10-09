@@ -1,4 +1,4 @@
-## 0202
+### 0202
 在英语中往往可以用 what 引导的感叹句来表示惊奇、愤怒、赞赏、喜悦等感情。在感叹句中主谓语采用正常语序。如课文中的例句"What a day!" 。注意以下例句：
 
 | Instead of saying | We can say |
@@ -6,7 +6,7 @@
 | It's a terrible day! | What a terrible day! |
 | This is a beautiful picture! | What a beautiful picture! <br> What a beautiful picture this is! |
 
-## 0203
+### 0203
 英语中有些动词可以带两个宾语，这些动词大多具有“给予”的含义。如课文中第三行的句子“He lent me a book”中，动词 lent  后面带有表示动作结果的直接宾语（a book）和表示动作目标的间接宾语（me）。间接宾语大多数时间置于直接宾语之前，如果间接宾语在后，间接宾语前必须加“to”（表示动作对什么人而做）或“for”（表示动作为什么人而做），因此，课文中的句子也可以改写成：He lent a book to me. 注意以下例句。
 
 | Instead of saying | We can say |
@@ -17,12 +17,12 @@
 | She bought me a tie. | She bought a tie for me. |
 | She made me a cake. | She made a cake for me. |
 
-## 0204 Words often confused 经常容易混淆的词
+### 0204 Words often confused 经常容易混淆的词
 *Receive* and *Take*  
 **receive:** I *have* just *received* a letter from my brother. 接收  
 **take:** Someone *has taken* my pen. 拿走
 
-## 0205 Words often confused or misused 经常容易混淆和误用的词
+### 0205 Words often confused or misused 经常容易混淆和误用的词
 Phrases with the word *way* 带 way 的短语  
 课文的第 8-9 行有这样一句话，"In this way, he has begun his own private 'telephone' service" 以下是与 way 这个词组成的短语。
 |  |  |
@@ -33,7 +33,7 @@ Phrases with the word *way* 带 way 的短语
 | **By the way** | *By the way*, have you seen Harry recently? 顺便问一句 |
 | **In a way** | *In a way*, it is an important book. 在某种意义上 |
 
-## 0206 短语动词
+### 0206 短语动词
 Some verbs change in meaning when we put short words after them. Read these sentences. Do you know what the verbs in italics mean?  
 有些动词的后面加上介词或副词以后久会改变词义。这种新的组合被称作短语动词。注意下面的斜体字，和这些短语动词的词义。
 * I *put* your book on the shelf.
@@ -53,7 +53,7 @@ Read these sentences. Each one contains the verb *knock*. THe verb has a differe
 * A car *knocked* the boy *over*. 撞倒 (hit him and made him fall)
 * In the fight, the thief *knocked* the policeman *out*. 打昏
 
-## 0242 Pick
+### 0242 Pick
 Study these sentences. Each sentence contains the verb *pick*. This verb has a different meaning in each sentence:  
 细读以下句子，每句中均有动词 pick，但词义各不相同。
 * He *picked up* a long pipe which was covered with coins. 拿起
@@ -61,7 +61,7 @@ Study these sentences. Each sentence contains the verb *pick*. This verb has a d
 * I *picked up * a lot of English while I was in England. (I learnt.) 学到了不少英语
 * There are so many beautiful cards on display, I can't *pick out* the ones I like post. (I can't choose.) 挑不出
 
-## 0207
+### 0207
 Now read these sentences.
 | Instead of saying | We can say |
 |--|--|
@@ -69,7 +69,7 @@ Now read these sentences.
 | He put out the fire.  | He put the fire out. He put it out.   |
 | She put on her hat.   | She put her hat on. She put it on.    |
 
-## 0227
+### 0227
 Study these sentences. Each one contains the verb *put*. The verb has a different meaning in each sentence.
 * ... the boys *put up* their tent in the middle of a field. 搭起
 * ... they *put out* the fire and crept into their tent. 扑灭
@@ -79,7 +79,7 @@ Study these sentences. Each one contains the verb *put*. The verb has a differen
 * We cannot have the meeting tonight. We shall have to *put* it *off* until tomorrow. 推迟
 * Close your books and *put* them *away*. 放到一边
 
-## 0208
+### 0208
 ### Everyone, Everybody, Everything 与 every 一起复合而成的不定代词是单数形式
 Read these sentences.
 * *Everybody* enters for 'The Nicest Garden Competition'.
@@ -94,7 +94,7 @@ Read these sentences. 注意下列句子中动词 enter 和动词短语 enter fo
 * The lights went out just as we *entered* the cinema. 走进
 * How many people have entered for the race? 参加
 
-## 0209 Any, Not ... Any and No
+### 0209 Any, Not ... Any and No
 We can answer these questions in two ways. Both answers mean the same thing.  
 可以用两种不同的方式对以下疑问句做出否定的回答。这两种回答的意思是相同的。
 | Question | Answer|
@@ -105,7 +105,7 @@ We can answer these questions in two ways. Both answers mean the same thing.
 | Is there anything in the box? | There isn't anything in the box. <br> There's nothing in the box. |
 | Did you go anywhere yesterday? | I didn't go anywhere yesterday. <br> I went nowhere yesterday. |
 
-## 0210 Made in, Made of, Made from, Made by 与被动语态的 made 连用的几个介词
+### 0210 Made in, Made of, Made from, Made by 与被动语态的 made 连用的几个介词
 **Made in** (a country) 表示产地：  
 It *was made in* Germany.  
 **Made of** (a material) 表示用某种材料制成：  
@@ -115,7 +115,7 @@ Glass is *made from* sand and lime.
 **Made by** (someoen) 表示制造的人：  
 This cake *was made by* my sister.
 
-## 0211 I asked him to lend me twenty pounds
+### 0211 I asked him to lend me twenty pounds
 语序：有些动词的后面先加上一个名词或代词作宾语，再加上动词不定式作为宾语补足语。  
 Study the word order in these sentences.  
 注意以下句子的语序，在动词后面均有一个代词或名词（斜体）。
@@ -125,7 +125,7 @@ Study the word order in these sentences.
 * We advised *them* to stay at home.
 * They did not allow *us* to enter the museum before 9 o'clock.
 
-## 0212
+### 0212
 In each sentence, *be* combines with a different adverb. Each combination has a different meaning.  
 各句中的 be 与不同的副词连用，意思各个不同。
 * He *will be away* for two months. 离开两个月。
@@ -142,7 +142,7 @@ Now look at the verb *set* in these sentences.
 * Tom and I *set off* early in the morning. 出发。
 * Jansen *set up* a new world record for the 400 metres. 创造。
 
-## 0213 The Workers' Club 名词的所有格
+### 0213 The Workers' Club 名词的所有格
 Read these questions and answers. Pay close attention to the position of the apostrophe(') in each answer.  
 读一读下面的问题和回答，注意名词所有格的形式。其规则为：（a）在单数名词及不以 -s 结尾的人名后加 's；（b）在不以 -s 结尾的复数名词后面加 's；（c）在规则的复数名词的 -s 后面加所有格符号 '；（d）在以 -s 结尾的人名后面既可以用 's 也可以用所有格符号 '。
 |  |  |
@@ -157,7 +157,7 @@ Read these questions and answers. Pay close attention to the position of the apo
 | When will he arrive? | He will arrive in three hours' time. |
 | How much minced meat do you want? | I want ten pounds' worth of minced meat. |
 
-## 0214 Words often confused 经常容易弄混的词
+### 0214 Words often confused 经常容易弄混的词
 *Ask* and *Ask for*. He *asked* me *for* a lift.  
 **Ask** (a question) 问（一个问题）: After the lesson, he *asked* me a question.  
 **Ask for** (something) 要求（某样东西）: He *asked for* an apple.
@@ -176,7 +176,7 @@ We use these words when we refer to *two* persons or things.
 * I like *neither of* them.
 * I bought *both of* them.
 
-## 0215 Words often confused and misused 经常容易混淆和误用的词
+### 0215 Words often confused and misused 经常容易混淆和误用的词
 ### *Nervous* and *Irritable*
 **Nervous** 紧张不安的（restless or uneasy）: Examinations make me *nervous*.  
 **Irritable** 易怒的（easily made angry）: He is such an *irritable* person, you can hardly speak to him.
@@ -191,7 +191,7 @@ We use these words when we refer to *two* persons or things.
 * You can *afford* this model. It's not very expensive.
 * I haven't been to the cinema lately, I can't *afford* the time.
 
-## 0216 Words often confused and misused 经常容易混淆和误用的词
+### 0216 Words often confused and misused 经常容易混淆和误用的词
 ### *Police*
 * Traffic police *are* sometimes very polite.
 * The police *are* looking for him. *They have* not found him.
@@ -219,7 +219,7 @@ If *you* receive a request like this...
 'You' can have the sense of 'anyone'.  
 英语中第二人称代词 you 还有“任何人”的意思。
 
-## 0217 Words often confused and misused 经常容易混淆和误用的词
+### 0217 Words often confused and misused 经常容易混淆和误用的词
 ### *As*
 * She often appears on the stage *as* a young girl. 扮演
 * I cannot come *as* I am busy. (because) 由于
@@ -238,7 +238,7 @@ If *you* receive a request like this...
 * Children *grow* quickly. The grass has *grown* very high. 长得快，长得高。
 * Some people never *grow up*. (mature in mind) 成熟
 
-## 0218
+### 0218
 ### give
 Read these sentences. Each one contains the verb *give*. The verb has a different meaning in each sentence.  
 读一读以下句子，每句话中都有动词 give，但含义不同。
@@ -254,13 +254,13 @@ Read these sentences. Each one contains the verb *give*. The verb has a differen
 * Come and sit *beside* me. (next to me)
 * *Besides* this photograph, I have a number of others. (in addition to)
 
-## 0219
+### 0219
 | Instead of saying | We can say |
 |--|--|
 | I am sorry. | I'm sorry. |
 | We have sold out. | We've sold out |
 
-## 0220 Words often confused 经常容易混淆的词
+### 0220 Words often confused 经常容易混淆的词
 * a *Interested* and *Interesting*. *Excited* and *Exciting*.
   * Fishing is not *interesting*. I am not really *interested* in fishing.
   * The match was very *exciting*. The crowd got very *excited*.
@@ -275,7 +275,7 @@ Read these sentences. Each one contains the verb *give*. The verb has a differen
   * He didn't *realize* that he had made a mistake.
   * I don't *understand* English.
 
-## 0221 Words often confused and misused 经常容易混淆和误用的词
+### 0221 Words often confused and misused 经常容易混淆和误用的词
 * a *Drive*
   * Aeroplanes are slowly *driving* me mad.
   * He *drives* his car very badly.
@@ -286,14 +286,14 @@ Read these sentences. Each one contains the verb *give*. The verb has a differen
   * After work I always go *home*. I stay at *home* during the weekend. There is no place like *home*.
   * They are building many new *houses* in our district. *Houses* are very expensive. I paid a lot of money for a new *house*.
 
-## 0223 There is and It is
+### 0223 There is and It is
 * The house has many large rooms and *there is* a lovely garden. *It is* a very modern house, so it looks strange to some people.
 * *There is* a new school in our neighbourhood. *It was* only built last year. *There are* 250 pupils at the school. Last year *there were* only 180. Next year *there will be* over 300.
 * What's the time? *It is* five o'clock.
 * How far away is the station from here? *It is* five miles away.
 * What's the weather like? *It is* very cold.
 
-## 0226 Speech marks 引号
+### 0226 Speech marks 引号
 In written conversation, we put speech marks '...' or "..." round the words that are actually spoken.  
 在书面会话中，我们会使用单引号（'）或者双引号（"）把实际的对话括起来。  
 Read this carefully.
@@ -314,7 +314,7 @@ Some things to notice:
 * We begin a new paragraph each time a new speaker is introduced.
   * 当一个新的说话人开始讲话时，要另起一段。
 
-## 0228 Who, Which, That, and Whose
+### 0228 Who, Which, That, and Whose
 在 whom，which，that 引导的定语从句中，如果关系代词 whom，which，that 充当从句中的宾语，关系代词可以省略。
 | Instead of saying | We can say |
 |--|--|
@@ -329,7 +329,7 @@ We *cannot* leave out *who*, *which*, *that* or *whose* in these sentences:
 * This is the island *that* was bought by a millonaire.
 * The pilot *whose* plane landed in a field was not hurt.
 
-## 0229 Words often confused 经常容易混淆的词
+### 0229 Words often confused 经常容易混淆的词
 * a. *Refuse* and *Deny*.
   * **Refuse** (a request or somthing offered) 拒绝（一个请求或给予的某种东西）：Captain Fawcett has just *refused* a strange request from a businessman.
   * **Deny** (an accusation) 否认（一种指控）：He *denied* that he had stolen the money.
@@ -341,7 +341,7 @@ We *cannot* leave out *who*, *which*, *that* or *whose* in these sentences:
   * **Very**（很，非常）：I arrived *very* late but I caught the train.
   * **Too**（太，过于）：I arrived *too* late and I missed the train.
 
-## 0231 Words often misused and confused 经常容易混淆和误用的词
+### 0231 Words often misused and confused 经常容易混淆和误用的词
 * a. *Experience*
   * Frank Hawkins was telling me about his *experiences*. 经历
   * This job requires a lot of *experience*. 经验
@@ -353,14 +353,14 @@ We *cannot* leave out *who*, *which*, *that* or *whose* in these sentences:
   * It was his *job* to repair bicycles. 工作
   * I've just found a new *job*. I begin *work* on Monday. 工作，上班
 
-## 0232 Words often confused 经常容易混淆的词 *A* and *One*
+### 0232 Words often confused 经常容易混淆的词 *A* and *One*
 * *A* detective watched *a* well-dressed woman.
 * *One* Monday, there were fewer people in the shop.
 * Compare
   * There is *a* boy in the classroom.
   * There is only *one* boy in the classroom. (And not two or more.)
 
-## 0233 Words often confused and misused 经常容易混淆和误用的词
+### 0233 Words often confused and misused 经常容易混淆和误用的词
 * a. *Passed* and *Past*
   * Nearly a week passed... 过了一周
   * He *passed* my house this morning. 动词，路过
@@ -372,7 +372,7 @@ We *cannot* leave out *who*, *which*, *that* or *whose* in these sentences:
   * We arrived in Paris on Tuesday evening. The *next* day we went sightseeing. 第二天
   * I saw Mary the *other* day. (A few days ago) 日前
 
-## 0234 *Call*
+### 0234 *Call*
 Read these sentences. Each sentence contains the verb *call*. The verb has a different meaning in each sentence:  
 细读以下句子，每句中均有动词 call，但意义不同。
 * He was asked to *call at* the station. 拜访
@@ -381,14 +381,14 @@ Read these sentences. Each sentence contains the verb *call*. The verb has a dif
 * She'll *call you up* tomorrow. (She will telephone you.) 给你打电话
 * It began to rain so we *called off* the match. (We canceled it.) 取消
 
-## 0235 So and Such
+### 0235 So and Such
 Study these examples:
 * The one with the money got *such* a fright that he dropped the bag.
 * He was *so* tired that he could not wake up.
 * You should not speak to *such* people. (People of this sort.)
 * You mustn't be *so* impatient.
 
-## 0236 Words often confused 经常容易混淆的词
+### 0236 Words often confused 经常容易混淆的词
 * a. *Watch*, *Look at*, *Follow*.
   * **Watch** (something happening) 观看（正在发生的事）：Tomorrow he *will be watching* her anxiusly.
   * **Look at** 看：*Look at* the blackboard. *Look at* your book. *Look at* this picture.
@@ -401,7 +401,7 @@ Study these examples:
     * (not lenient) 严格的：You must be very *firm* with that child.
   * **Stable** (often describing character) 坚定的：He is a very *stable* person.
 
-## 0237 Hold and Look
+### 0237 Hold and Look
 * a. *Hold* The Olympic Games will be *held* in our country.  
   This verb may be used in the sense of 'conduct', 'observe' or 'celebrate'.  
   这个动词可以用来表示进行、纪念或庆祝的意思。
@@ -417,7 +417,7 @@ Study these examples:
     * (get information from a reference book) 查阅：I don't understand this word. I shall *look it up* in a dictionary.
     * (visit) 拜访：Don't forget to *look me up* when you return.
 
-## 0238 Words often confused and misused 经常容易混淆和误用的词
+### 0238 Words often confused and misused 经常容易混淆和误用的词
 * a. *No sooner ... than*（一……就）*hardly ... when*（几乎未来得及……就……）
   * He had *no sooner* returned *than* he bought a house.
   * He had *hardly* had time to settle down *when* he sold the house.
@@ -429,7 +429,7 @@ Study these examples:
   * It rained *continually*. (i.e. At frequent intervals.)
   * The river flows under this bridge *continuously*. (i.e. It does not stop at all.)
 
-## 0240 Make and Do
+### 0240 Make and Do
 * a. Make
   * I tried to *make conversation*. （找个话题）聊聊
   * When she had *made the beds* she went downstairs. 整理床铺
@@ -451,13 +451,13 @@ Study these examples:
   * I *did a lot of shopping* yesterday. 买了很多东西
   * That shop *does very good business*. 生意很好
 
-## 0241 Remark, Observe, and Notice
+### 0241 Remark, Observe, and Notice
 * 'We mustn't buy things we don't need,' I *remarked*. 评论，发表意见
 * 'We mustn't buy things we don't need,' I *observed*. 评论
 * He *observed* me carefully. (He looked at me.) 看着我
 * Did you *notice* how she was dressed? 注意到
 
-## 0243 Phrases with *At* 含有 at 的词组
+### 0243 Phrases with *At* 含有 at 的词组
 * *At first* Byrd and his mem were able to take photographs. 首先，开始
 * Byrd *at once* ordered his men to throw out two food sacks. 马上，立即
 * Billy is *at home* *at present*. He's *at school*. 不在家；现在；在学校
@@ -468,11 +468,11 @@ Study these examples:
 * He behaves very strangely *at times*. 有时
 * I don't know what I can do about it. I'm completely *at a loss*. 一点主意也没有了，不知所措，不知说（做）什么
 
-## 0244 Catch and Run
+### 0244 Catch and Run
 * When she *caught up with* them, she saw that they had sat down. (When she reached them...)
 * They dropped the bag and *ran away*.
 
-## 0245 Words often confused 经常容易混淆的词
+### 0245 Words often confused 经常容易混淆的词
 * a. *Steal* and *Rob*
   * **Steal** (something from someone or somewhere) 偷（从某人或某处）：A thief broke into the building last night and *stole* some money from the safe. 从保险箱中偷走了一些浅。
   * **Rob**
@@ -482,7 +482,7 @@ Study these examples:
   * All Sam's money was *paid back*. (It was repaied.) 还了回来
   * I'll *pay* you *back* for what you did to me. (I'll get my revenge on you for what you did to me.) 你对我这样，我一定会报仇的。
 
-## 0250 Words often confused 经常容易混淆的词
+### 0250 Words often confused 经常容易混淆的词
 * a. *Lose*, *Loose*, *Miss*
   * I don't like *losing* my way. 迷路
   * Take care not to *lose* your passport. 丢
@@ -493,7 +493,7 @@ Study these examples:
   * My trip took me longer than I *expected*. 预计，预期
   * I am *expecting* Jack to arrive at six o'clock, but I shall not *wait for* him if he is not here by 6.15. 期待 —— 等待
 
-## 0251 Verbs often confused 经常容易混淆的动词
+### 0251 Verbs often confused 经常容易混淆的动词
 * a. *Raise* and *Rise* (vt. and vi.)
   * That boy always *raises* his hand when I ask question. 举手
   * That shelf was too low so we *raised* it a few inches. 抬高了几英寸
@@ -512,7 +512,7 @@ Study these examples:
   * Arsenal *beat* Manchester United last Saturday.
   * Arsenal *won* the game.
 
-## 0252 I have been working hard all morning. 形容词和相应的副词
+### 0252 I have been working hard all morning. 形容词和相应的副词
 Compare these pairs of sentences:
 * She has a beautiful voice. She sings beautifully. 嗓音好。动听。
 * He is a slow worker. He works slowly.
@@ -529,7 +529,7 @@ Now compare these pairs of sentences:
 * He made sure it was safe before he went near. 近
 * He was nearly run over by a car. 差一点儿
 
-## 0253 Words often confused 经常容易混淆的词
+### 0253 Words often confused 经常容易混淆的词
 * a. *Throw to*, *THrow at*, and *Throw away*
   * Forest fires are often caused by cigarette ends which people carelessly *throw away*. 扔掉
   * He *threw* the ball *to* me and I caught it. 把球扔给我
@@ -546,9 +546,22 @@ Now compare these pairs of sentences:
   * A bird *had dropped* the snake on the wires. 扔，丢
   * He *fell* down the stairs and broke his leg. 摔，跌
 
-## 0255 Words often confused 经常容易混淆的词
+### 0255 Words often confused 经常容易混淆的词
 * *I use*, *I am used to*, *I used to*
   * The machine has been *used* to detect gold which has been buried in the ground. The machine was *used* in a cave near the seashore where - it is said - pirates *used to* hide gold. 被用于；被用于；过去常常
   * I am *used to* staying up late. 习惯于
   * I am *used to* looking after myself. 习惯于
   * She didn't like this district at first, but she is *used to* it now. 习惯了
+
+### 0256 Words often confused and misused 经常容易混淆和误用的词
+* a. *Handsome*, *Beautiful*, *Pretty*, *Good-looking*
+  * He is a very *handsome* young man. 清秀，英俊，漂亮
+  * She used to be very *pretty* as a child. She is now a *beautiful* woman. 好看；漂亮
+  * She's a very *good-looking* girl, and her boyfriend's *good-looking* too. 好看的
+* b. *Reach* and *Arrive in/at*
+  * The winning car *reached* a speed of forty miles an hour. 达到了
+  * Will you pass me that book please? I can't *reach* it. 我够不着。
+  * We *arrived in* New York yesterday. We *arrived at* the station in good time. 到达纽约；到站
+* c. *Take Part* and *Take Place*
+  * It was the oldest car *taking part*. 参与，参赛
+  * The next race will *take place* in a year's time. 举行

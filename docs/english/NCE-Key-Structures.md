@@ -1,4 +1,4 @@
-## 0201 Word order in simple statements 简单陈述句的语序
+### 0201 Word order in simple statements 简单陈述句的语序
 1. A statement(陈述句) tells us about something. All the sentences in the passage are statements. Each of these statements contains one idea. Each statement tells us about *one thing*. A statement that tells us about one thing is a *simple statement*(简单句).
 2. The order of the words in a statement is very important. Look at these two statements. They both contain the words but they do not mean the same thing.
    * The policeman arrested the thief.
@@ -6,7 +6,7 @@
 3. A simple statement can have six parts, but is does not always have so many. Note that column 6 (When?) can be at the beginning or at the end of a statement.
    * [ When? ] ( Who? | Which? | What? ) ( Action ) [ Who? | Which? | What? ] [ How? ] [ Where ] ([ When? ])
 
-## 0225 Word order in compound statements 并列句中的语序
+### 0225 Word order in compound statements 并列句中的语序
 We can join simple statements together to make *compound statements*. Here are som of the joining words we use:
 * and, but, so, yet, or, both...and, either...or, neither...nor, no only...but...as well (or also).
 
@@ -34,7 +34,7 @@ Study these sentences carefully. Pay close attention to the way  they have been 
 * You must wash the dishes. You must sweep the floor.
   * You must *not only* wash the dishes *but* sweep the floor *as well*.
 
-## 0249 Word order in complex statements 复合句的语序
+### 0249 Word order in complex statements 复合句的语序
 We can join simple statements together to make *complex statements*. Here are some of the joining words we use:
 * when, until, after, as soon as, while, before, because, as, since, to, in order to, although, who, which and that.
 
@@ -54,7 +54,7 @@ Study these simple statements carefully. Pay close attention to the way they hav
 * The city was destroyed during the war. It has now been completely rebuilt.
   * *Destroyed* during the war, the city has now been completely rebuilt.
 
-## 0202 Now, Often and Always 表示现在和经常发生的动作
+### 0202 Now, Often and Always 表示现在和经常发生的动作
 Study these statements and questions from the passage.
 * *Now*  
   * It's raining.
@@ -74,7 +74,7 @@ Here are some more sentences:
 * I am reading in bed.
 * Do you ever read in bed?
 
-## 0226 These things always happen 经常发生的事情
+### 0226 These things always happen 经常发生的事情
 * a.
   * Do you always get up so late?
 * b.
@@ -87,7 +87,7 @@ Here are some more sentences:
     * I *hear* that you *like* classical music.
     * I *remember* Tom very well. *Do you know* him?
 
-## 0250 These things always happen 表示习惯性动作
+### 0250 These things always happen 表示习惯性动作
 Here are some more verbs that tell us what always happens.  
 下面是一些表示习惯性动作的动词。  
 belong to, consist of, contain, desire, detest, dislike, hate, hope, love, matter, mean, mind, need, want, wish.
@@ -96,7 +96,7 @@ belong to, consist of, contain, desire, detest, dislike, hate, hope, love, matte
 * He *needs* a new pair of shoes.
 * I *hate* writing letters.
 
-## 0203 What happened? 一般过去时
+### 0203 What happened? 一般过去时
 Read this short conversation. Pay close attention to the verbs in italics. Each of these verbs tells us *what happened*.
 |  |  |
 |--|--|
@@ -109,20 +109,20 @@ Read this short conversation. Pay close attention to the verbs in italics. Each 
 | POLICEMAN | Why did you do that? Were you afraid of the car? |
 | MAN | I wasn't afraid of the car. I was afraid of the driver. The driver *got out* of the car and *began shouting* at me. He was very angry with me. You see, it was my dog. |
 
-## 0227 What happened? 一般过去时
+### 0227 What happened? 一般过去时
 Read these sentences carefully. The verbs in italics tell us what happened.
 * I *lost* my umbrella a few days ago.
 * I *bought* this coat yesterday.
 * I *dreamt* of you last night.
 * She *paid* the bill and *left* the shop.
 
-## 0251 What happened? 一般过去时
+### 0251 What happened? 一般过去时
 Study these sentences carefully. The verbs in italics tell us what happened:
 * I *got on* the bus and *sat* down.
 * The magazine I *ordered* *was sent* to the wrong address.
 * A fire *broke out* in our town recently and a large factory *was burnt* to the ground.
 
-## 0204 What has happened? 现在完成时
+### 0204 What has happened? 现在完成时
 These sentences are from the passage. Study them carefully. Pay close attention to the words in italics.
 * I have *just* received a letter from my brother, Tim.
 * He has *just* bought an Australian car and has one to Alice Springs.
@@ -130,7 +130,7 @@ These sentences are from the passage. Study them carefully. Pay close attention 
 * He has *already* visited a great number of different places.
 * My brother has *never* been abroad before.
 
-## 0228 What has happened? 现在完成时
+### 0228 What has happened? 现在完成时
 Study these sentences carefully. Pay close attention to the words in italics:
 * I have *just* received a letter from my brother, Tim.
 * I have not seen Tim *since* last January.
@@ -144,7 +144,7 @@ Study these sentences carefully. Pay close attention to the words in italics:
 * Have you seen this film?
 * Have you read this book?
 
-## 0252 What has happened? What has been happening? 现在完成时和现在完成进行时
+### 0252 What has happened? What has been happening? 现在完成时和现在完成进行时
 Compare these pairs of sentences:
 * It *hasn't rained* for six weeks.
 * It *has been raining* hard since yesterday and it is still raining.
@@ -155,7 +155,7 @@ Compare these pairs of sentences:
 * I *have read* 'Oliver Twist' five times.
 * I *have been reading* all afternoon.
 
-## 0205 What happened? What has happened? 一般过去时与现在完成时
+### 0205 What happened? What has happened? 一般过去时与现在完成时
 Study these sentences. Pay close attention to the words in italics.  
 *What happened?* **(KS3)**  
 在第三课的“关键句型”部分，我们讨论了英语中的一般过去时。一般过去时用来表示过去某一特定时间发生的事情或动作，因此，句中常有表示过去某一时刻的短语。请注意以下句子中斜体的表示时间的短语。
@@ -175,7 +175,7 @@ Study these sentences. Pay close attention to the words in italics.
 * There have been a great number of accidents *lately*.
 * *Up till now* he has won five prizes.
 
-## 0229 What happened? What has happened? 对比一般过去时与现在完成时
+### 0229 What happened? What has happened? 对比一般过去时与现在完成时
 Study these pairs of sentences. Pay close attention to the words in italics:
 * I saw him *in 1994*.
   * I have not seen him *since 1994*.
@@ -186,12 +186,12 @@ Study these pairs of sentences. Pay close attention to the words in italics:
 * I went abroad *last year*.
   * *Up till now*, I have never been abroad *before*.
 
-## 0253 What happened? What has happened? What has been happening? 一般过去时、现在完成时和现在完成进行时
+### 0253 What happened? What has happened? What has been happening? 一般过去时、现在完成时和现在完成进行时
 * I stayed at this hotel five years ago.
 * Have you ever stayed at this hotel?
 * I have been staying at this hotel for three weeks.
 
-## 0206 A, The and Some
+### 0206 A, The and Some
 ### *A* and *Some*. 不定冠词和表示不确定数量的 some
 We can say:
 * a pen, some pens; a book, some books; a picture, some pictures; a glass of milk, some milk; a bag of flour, some flour; a bar of soap, some soap.
@@ -210,7 +210,7 @@ Read this paragraph. Pay close attention to the words *a* and *the*:
 We cannot put *a* and *the* in front of names. 姓名前不能用不定冠词或定冠词。
 * John lives in England. He has a house in London. His house is in Duke Street. Last year he went to Madrid. John likes Spain very much. He goes there every summer.
 
-## 0230 A, The, Some and Any
+### 0230 A, The, Some and Any
 * a. *Some* and *Any*.  
   Note the use of *some* and *any* in these sentences:
   * Is there *any* milk in the bottle?
@@ -236,7 +236,7 @@ We cannot put *a* and *the* in front of names. 姓名前不能用不定冠词或
     | I went to America last year. | I went to *the* United States of America last year. |
     | Would you like to go to China. | Would you like to go to *the* People's Republic of China? |
 
-## 0254 A, The, Some and Any
+### 0254 A, The, Some and Any
 * a. *Some* and *Any*
   * Did you get *any* information? I want *some* information.
   * Is there *any* news in the paper? There is *some* interesting news in the paper.
@@ -259,7 +259,7 @@ We cannot put *a* and *the* in front of names. 姓名前不能用不定冠词或
   * It is *the biggest* shop in London.
   * *Most* shops are closed on Saturday afternoons.
 
-## 0207 What were you doing when I telephoned? 过去进行时
+### 0207 What were you doing when I telephoned? 过去进行时
 Study these sentances carefully.Pay close attention to the words in italics.
 * *When* I was watering the garden, it bengan to rain.
 * I was having breakfast *when* the telephone rang.
@@ -269,7 +269,7 @@ Study these sentances carefully.Pay close attention to the words in italics.
 * Someone knocked at the door *just as* I was getting into the bath.
 * The plane was late and detectives were waiting at the airport *all morning*.
 
-## 0231 He used to work fourteen hours a day.
+### 0231 He used to work fourteen hours a day.
 * *used to do*
 * I *used to go* to work by bus. Now I go by car.
 * He *used to be* a postman a long time ago. He's a taxi driver now.
@@ -277,7 +277,7 @@ Study these sentances carefully.Pay close attention to the words in italics.
 * I *used to collect* stamps when I was a boy.
 * My uncle *used to live* in New Zealand but he's now living in Australia.
 
-## 0255 Pirates would often bury gold in the cave and then fail to collect it. 表示过去习惯性动作
+### 0255 Pirates would often bury gold in the cave and then fail to collect it. 表示过去习惯性动作
 * A. Study these sentences carefully
   * I dropped my briefcase as I was getting off the bus.
   * I *used to* go to work by bus. Now I go by car.
@@ -289,7 +289,7 @@ Study these sentances carefully.Pay close attention to the words in italics.
   请注意 would 在下列句子中的用法：
   * When I was young I used to have a lot more free time than I do now. I used to live near my work and *would* always get home early. Sometimes I *would* do a bit of gardening or go for a long walk. Now I never have time for anything like that.
 
-## 0208 The best and the worst 比较
+### 0208 The best and the worst 比较
 Read these sentences carefully.
 * Mary is tall, but Jane is taller. Jane is taller than Mary. Caroline is very tall. She is the tallest girl in the class.
 * Jane's handwriting is bad, but Mary's is worse. Caroline's handwriting is very bad. It is the worst handwriting I have ever seen.
@@ -297,7 +297,7 @@ Read these sentences carefully.
 * Mary's collection of photos is not very good. Jane's is better. Caroline's collection is the best.
 * Last week the three girls bought expensive dresses. Caroline's dress was more expensive than Jane's. Mary's was more expensive than Caroline's. Mary's dress was the most expensive.
 
-## 0232 People are not so honest as they once were
+### 0232 People are not so honest as they once were
 * a.
   * He is *as old as* I am.
   * He unlocked the door *as quickly as* he could.
@@ -313,7 +313,26 @@ Read these sentences carefully.
   | There isn't much whisky in this bottle,but <br> you can have *some* if you want it. | There isn't much whisky in this bottle, but <br> you can have *a little* if you want it. |
   | There aren't many apples on the tree, but <br> you can pick *some* if you want to. | There aren't many apples on the tree, but <br> you can pick *a few* if you want to. |
 
-## 0209 When did you arrive? I arrived at 10 o'clock
+### 0256 A lot of cars entered for this race.
+* a. Do you remember these sentences?
+  * He is *as* old *as* I am.
+  * She is *not as* intelligent *as* we think.
+  * There is *little* I can do to help him.
+  * There were *few* people in the shop.
+  * There isn't much whisky, but you can have *a little*.
+  * There aren't many apples, but you can pick *a few*.
+* b. Now study these sentences
+  | Instead of saying | We can say |
+  |--|--|
+  | There isn't *much* I can do to help him. | There isn't *a lot* I can do to help him. <br> There isn't *a great deal* I can do to help him. |
+  | *Many of* our products are sold overseas. | *A lot of* our products are sold overseas. <br> *A great many of* our products are sold overseas. <br> *A great number of* our products are sold overseas. |
+* c. Study these sentences
+  | Instead of saying | We can say |
+  |--|--|
+  | My jacket is *like* yours. | My jacket is *the same as* yours. |
+  | My jacket *isn't like* yours. | My jacket is *different from* yours. |
+
+### 0209 When did you arrive? I arrived at 10 o'clock
 Read these sentences carefully. Pay close attention to the phrases in italics. We can use phrases like these to answer questions beginning with *When*.  
 我们可以用这些表示时间的短语来回答以 When 开头的疑问句
 
@@ -335,7 +354,7 @@ My brother will arrive from Germany *on April 27th*. He will return *on May 5th*
 * It rained heavily *during the night*.  
 * He will not arrive *until 10 o'clock*.
 
-## 0233 Where did he go? He went to the cinema.
+### 0233 Where did he go? He went to the cinema.
 Read these sentences carefully. Pay close attention to the words in italics. We can often use phrases like these to answer questions beginning with *Where* or *Which direction*.  
 细读以下句子，特别注意斜体的词组。我们经常可以用这些词组来回答用 Where 或 Which direction 开头的问题。
 * a. Phrases with *to* and *from* 带 to 和 from 的短语
@@ -353,7 +372,7 @@ Read these sentences carefully. Pay close attention to the words in italics. We 
   * The boy threw a stone *at a dog*.
   * It is rude to point *at people*.
 
-## 0210 It was made in Germany in 1681. （一般过去时中的）被动语态
+### 0210 It was made in Germany in 1681. （一般过去时中的）被动语态
 ### 主动 vs. 被动
 Who built this bridge?  
 Prisoners of war built this bridge in 1942.  
@@ -382,7 +401,7 @@ The first sentence in each pair tell us about *a person*. The second sentence te
 | He gave me a present. | I was given a present. |
 | The headmaster has punished the boy. | The boy has been punished (by the headmaster). |
 
-## 0234 He was asked to call at the station.
+### 0234 He was asked to call at the station.
 * They asked me to make a speech. 他们邀请我做一次讲演。
 * I was asked to make a speech. 我应邀做一次讲演。
 
@@ -396,7 +415,7 @@ You will notice that the form of the verb depends on the person or thing we ment
 | They have found *your wallet*. | *Your wallet* has been found. |
 | He never expected them to find *the bicycle*. | He never expected *the bicycle* to be found. |
 
-## 0212 I'll see you tomorrow. 一般将来时
+### 0212 I'll see you tomorrow. 一般将来时
 These sentences tell us about the future. Read them carefully. Pay close attention to the words in italics.  
 这些句子讲的是将来要发生的事情。一般将来时用 shall 或 will 加上动词原形来表示，shall 常用在第一人称的代词 I 或 we 的后面；而 will 则可用于所有人称，在书写时和口语中，常可缩略为 'll。仔细读一读下面的例句，要特别注意用斜体印出的部分。
 * *I will see* you tomorrow. *I'll see* you at 3 o'clock.
@@ -407,7 +426,7 @@ These sentences tell us about the future. Read them carefully. Pay close attenti
 * *You will miss* the train. *You'll be* late.
 * *They will come* here on foot. *They'll walk* from the station.
 
-## 0236 She is going to swim across the Channel tomorrow
+### 0236 She is going to swim across the Channel tomorrow
 | Instead of saying | We can say |
 |--|--|
 | I shall travel by air. | I am going to travel by air. |
@@ -420,7 +439,7 @@ We can often use *going to* in place of *shall* or *will* in simple statements a
 在陈述句和疑问句中，我们常常可用 going to 来代替 shall 或 will。在类似下列的句子中我们不能用 going to：
 * You will enjoy yourself if you travel by sea.
 
-## 0213 What will you be doing tomorrow? 将来进行时
+### 0213 What will you be doing tomorrow? 将来进行时
 Read these sentences carefully. Pay close attention to the verbs in italics.  
 仔细阅读以下句子，特别注意斜体部分。
 | *Now* | *Tomorrow* |
@@ -442,7 +461,7 @@ Now read these pairs of sentences. Each pair has the same meaning.
 | *I'll see* you next week. | *I'll be seeing* you next week. |
 | *She'll meet* him at the station. | *She'll be meeting* him at the station. |
 
-## 0237 Workers will have completed the new roads by then end of this year. 将来完成时
+### 0237 Workers will have completed the new roads by then end of this year. 将来完成时
 * b Compare these two questions and answers:
   * When will they finish this bridge?
     * They will finish it next year.
@@ -454,7 +473,7 @@ Now read these pairs of sentences. Each pair has the same meaning.
   * You will have learnt the results of examination by then.
   * I shall have received a reply by this time tomorrow.
 
-## 0214 After he had finished work he went home 过去完成时
+### 0214 After he had finished work he went home 过去完成时
 有人认为，过去完成时表示“很久以前发生的事情”，这个概念是错误的。过去完成时往往用来表示发生在过去的两个事件，哪一个发生在前。  
 Read these two sentences.  
 **He finished work. He went home.**  
@@ -471,7 +490,7 @@ Note how these sentences have been joined. Pay close attention to the words in i
 * I did not understand the problem. He explained it.
 * I did not understand the problem *until he had explained it*.
 
-## 0238 He acted as if he had never lived in England before. 过去完成时
+### 0238 He acted as if he had never lived in England before. 过去完成时
 Study these sentences. They tell us *what happened some time ago* and *what had happened some time before*.  
 仔细阅读以下句子，它们告诉我们过去某一个时间发生的事情和过去某一个时刻之前发生的事情。
 * He *lived* in Scotland fifteen years ago.
@@ -480,7 +499,7 @@ Study these sentences. They tell us *what happened some time ago* and *what had 
 * He *had spent* the last two nights near a farmhouse. The police *took* him home at once. 
 * When sha *saw* him, his mother *burst* into tears. She *said* he *had never run away before*.
 
-## 0215 He said that... He told me... 间接引语
+### 0215 He said that... He told me... 间接引语
 在把直接引语改为间接引语时，除了用动词 say 之外，还可以用动词 tell，后面可跟人名或代词作间接宾语，然后是以 that 引导的引语作直接宾语。
 
 * 
@@ -514,7 +533,7 @@ Study these sentences. They tell us *what happened some time ago* and *what had 
   * The teacher said that you could go now.
   * The teacher told the pupil that he could go now.
 
-## 0239 He said that... He told me... He asked 间接引语
+### 0239 He said that... He told me... He asked 间接引语
 * 
   * 'I am very tired,' he said.
   * What did he say?
@@ -538,7 +557,7 @@ Study these sentences. They tell us *what happened some time ago* and *what had 
   * What did Jane ask?
   * Jane *ask why* I hadn't written to her.
 
-## 0216 If you open the door you will get a surprise. 条件句
+### 0216 If you open the door you will get a surprise. 条件句
 下面的条件句主要是用来询问或者谈论十分可能的事情。在这些条件句中，if 从句用现在时，主句用将来时 will。
 * a
   * *If he is out*, I'll call tomorrow.
@@ -554,7 +573,7 @@ Study these sentences. They tell us *what happened some time ago* and *what had 
   * *If you don't like the food*, don't eat it.
   * Please don't disturb him *if he is busy*.
 
-## 0240 If you ate more and talked less, we would both enjoy our dinner!
+### 0240 If you ate more and talked less, we would both enjoy our dinner!
 Now study these sentences carefully:  
 细读以下句子：  
 在这一类条件句中，if 从句谈论想象的情况，主句则推测想象的结果。在从句中要用动词的过去时，这并不表明过去的某一特定时间或过去某一动作，因此常被称作“非真实的过去”，整个条件句也被称为非真实条件句。如果 if 从句中的动词是 be，那么应该在第一和第三人称单数名词之后用 were。
@@ -565,7 +584,7 @@ Now study these sentences carefully:
 * He would help you *if he were* here.
 * *If you could* make him change his mind, you would save him a lot of trouble.
 
-## 0217 Must
+### 0217 Must
 情态动词 must 常常用来表示不可逃避的义务，这种义务在说话人看来是没有选择余地的。另外，还可以用 have to 或 have got to 来代替 must。这 3 种形式就它们表达的意义而言，一般可以互换。而 have to 这个短语可以与更多的时态连用。
 * a
   | Instead of saying | We can say |
@@ -585,7 +604,7 @@ Now study these sentences carefully:
   | I, personally, think he is mad. | He must be mad. |
   | I, personally, think she is over forty. | She must be over forty. |
 
-## 0441 Must, Have to and Need
+### 0241 Must, Have to and Need
 * b 
   * I *need* a new hat. I *must* buy one.
   * He *needs* a haircut. He *must* have one.
@@ -605,7 +624,7 @@ Now study these sentences carefully:
   * You *needn't* come with us if you don't want to.
     * You *don't have to (haven't got to)* come with us if you don't want to.
 
-## 0218 Have
+### 0218 Have
 Study these uses of *have*  
 研究一下 have 的多种用法  
 * a
@@ -626,7 +645,7 @@ Study these uses of *have*
   | I enjoyed myself at the party. | I *had* a good time at the party. |
   | I received a letter from him yesterday. | I *had* a letter from him yesterday. |
 
-## 0242 Have
+### 0242 Have
 * b. Sometiems we can use *have*+noun in place of an ordinary verb.  
      有时我们可以用 have + 名词来代替普通动词。
   | Instead of saying | We can say |
@@ -636,7 +655,7 @@ Study these uses of *have*
   | We *will talk* about the problem tomorrow. | We *will have a talk* about the problem tomorrow. |
   | *Look* at this. | *Have a look* at this. |
 
-## 0219 Can and May
+### 0219 Can and May
 * a 表示请求
   | Instead of saying | We can say |
   |--|--|
@@ -652,7 +671,7 @@ Study these uses of *have*
   * Do you think he'll pass that exam?
   * He'll never pass. He *might as well* give up. 还不如放弃
 
-## 0243 Can and Be able to
+### 0243 Can and Be able to
 * b.
   | Insteand of saying | We can say |
   |--|--|
@@ -666,7 +685,7 @@ Study these uses of *have*
   * He didn't agree with me at first but I *was able to* persuade him.
   * He *was able to* leave Europe before the war began.
 
-## 0220 You must give up fishing 动名词
+### 0220 You must give up fishing 动名词
 * a 动名词作主语
   * *Eating* is always a pleasure.
   * *Watching* television is my favourite pastime.
@@ -693,7 +712,7 @@ Study these uses of *have*
     * He congratulated me on *winning* the competition.
     * He congratulated me on *having won* the competition.
 
-## 0244 Both men started running through the trees.
+### 0244 Both men started running through the trees.
 * b. 
   * I am looking forward to *seeing* him tomorrow.
   * I am accustomed to *getting up* early.
@@ -716,7 +735,7 @@ Study these uses of *have*
   * My shirt is torn. It needs *mending*.
   * Those windows are dirty. They want *washing*.
 
-## 0221 Passing planes can be heard night and day. 被动语态
+### 0221 Passing planes can be heard night and day. 被动语态
 * a The first sentence in each pair tells us about a person (Who). The second tells us about a thing (What or Which).
   * He *will repair* your watch. (Who)
   * Your watch *will be repaired*. (What)
@@ -741,14 +760,14 @@ Study these uses of *have*
   | You must pay me for this. | I must be paied for this. |
   | They cannot find him. | He cannot be found. |
 
-## 0245 被动语态
+### 0245 被动语态
 * b 
   | Instead of saying | We can say |
   |--|--|
   | I found out that *someone had sent the parcel* to the wrong address. | I found out that *the parcel had been sent* to the wrong address. |
   | He told me *the police had arrested the thief*. | He told me *the thief had been arrested (by the police)*. |
 
-## 0222 Verbs followed by *Of, from, in* and *on* 后面可跟 of from in 和 on 的动词
+### 0222 Verbs followed by *Of, from, in* and *on* 后面可跟 of from in 和 on 的动词
 * OF
   * accuse 控告
   * approve 赞成
@@ -827,7 +846,7 @@ Study these uses of *have*
   * vote (*on* a motion; *for* someone) 对……表决；投……的票
   * write (or about) 写……的事
 
-## 0246 Verbs followd by *to, at, for* and *with* 与 to at for 和 with 连用的动词
+### 0246 Verbs followd by *to, at, for* and *with* 与 to at for 和 with 连用的动词
 * TO
   * accustom(ed) 习惯于
   * amount 达到
