@@ -573,3 +573,15 @@ Now compare these pairs of sentences:
 * Don't let him *persuade* you.
 * Let me *try*.
 * Don't let the children *touch* anything in this room please.
+
+### 0258 Verbs often confused 经常容易混淆的动词
+* a. *Increase* and *Grow*
+  * The number of visitors to Frinley has now *increased/grown*.
+  * She has *grown* so much. She is nearly as tall as I am.
+* b. *Gain* and *Earn*
+  * It has *gained/earned* an evil reputation.
+  * He has gone abroad and I hear he is *earning* a lot of money.
+* c. *Pick* and *Cut*
+  * The tourists have been *picking* the leaves and cutting their names on the tree-trunk.
+  * She was *picked* a lot of flowers.
+  * She *cut* the apple in two.

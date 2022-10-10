@@ -440,6 +440,19 @@ You will notice that the form of the verb depends on the person or thing we ment
 | They have found *your wallet*. | *Your wallet* has been found. |
 | He never expected them to find *the bicycle*. | He never expected *the bicycle* to be found. |
 
+### 0258 Frinley is said to possess a 'cursed tree' 被动语态
+* a. Do you remember these sentences?
+  * He *is being sent* abroad.
+  * I *was told to* wait for him.
+  * Your wallet *has been found*.
+* b. Now study these sentences
+  | Instead of saying | We can say |
+  |--|--|
+  | People say he is a genius. | *He is said to* be a genius. <br> *It is said that* he is a genius. |
+  | People say that there is oil under the North Sea. | *There is said to be* oil under the North Sea. <br> *It is said that* there is oil under the North Sea. |
+  | She gave me pen | *I was given* a pen. <br> *A pen was giben* to me. |
+  | The manager offered the vacant post to him. | *He was offered* the vacant post. <br> *The vacant post was offered* to him. |
+
 ### 0212 I'll see you tomorrow. 一般将来时
 These sentences tell us about the future. Read them carefully. Pay close attention to the words in italics.  
 这些句子讲的是将来要发生的事情。一般将来时用 shall 或 will 加上动词原形来表示，shall 常用在第一人称的代词 I 或 we 的后面；而 will 则可用于所有人称，在书写时和口语中，常可缩略为 'll。仔细读一读下面的例句，要特别注意用斜体印出的部分。
