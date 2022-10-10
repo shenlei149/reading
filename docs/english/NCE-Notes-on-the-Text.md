@@ -372,3 +372,11 @@
 * some drivers spent more time under their cars than in them! 有些驾驶员花在汽车低下的时间比坐在车子里面的时间还要长。under the car 指在车下面修理，in the car 是指正常驾驶。句中的 under 和 in 都是斜体，主要是用来对比，有强调的意味，要重度。
 * its driver had a lot of trouble trying to stop it 驾驶员费了很大劲才把车停了下来。
 * but no less exciting 但激动人心的程度并不亚于现代汽车大赛。这是一句省略句，完整的句子应是 but it was no less exciting than modern car races.
+
+### 0256
+* Can I help you, Madam? 您要买什么，夫人？这是售货员的常用语。
+* A women in jeans 一位穿着牛仔裤的妇女。
+* She returned to the shop the following morning dressed in a fur coat, with a handbag in one hand and a long umbrella in the other. 第二天上午，她又来到这家商店，穿着一件裘皮大衣，一手拎着一只手提包，另一只手拿着一把长柄伞。dressed in a fur coat 是过去分词短语作状语，表示伴随状态。
+* seek out 找出，找到
+* Not realizing who she was 没有认出他是谁。这是现在分词短语的否定形式。
+* She enjoyed herself making the assistant bring almost everything in the window. 她开心的迫使那位售货员把橱窗里几乎所有的东西都拿了出来。enjoy oneself, 开心。

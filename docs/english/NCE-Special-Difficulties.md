@@ -565,3 +565,11 @@ Now compare these pairs of sentences:
 * c. *Take Part* and *Take Place*
   * It was the oldest car *taking part*. 参与，参赛
   * The next race will *take place* in a year's time. 举行
+
+### 0257 Make and Let
+* She enjoyed herself making the assistant *bring* almost everything in the window.
+* I can't make him *change* his mind.
+* The teacher made the boy *write* the exercise again.
+* Don't let him *persuade* you.
+* Let me *try*.
+* Don't let the children *touch* anything in this room please.

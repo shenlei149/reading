@@ -372,6 +372,31 @@ Read these sentences carefully. Pay close attention to the words in italics. We 
   * The boy threw a stone *at a dog*.
   * It is rude to point *at people*.
 
+### 0257 At, In, Off and With
+* a. Study these sentences carefully. Pay close attention to the words in italics.
+  * Phrases with *at*
+    * He lives *at 27 West Street*.
+    * A large crowd was waiting *at the bus stop*.
+    * I'll see you *at the station*.
+    * On the way home, we stopped *at a small village called Puddleton*.
+    * Someone is *at the door*. 在门口，敲门
+  * Phrases with *in*
+    * There were a lot of people *in the street*.
+    * I would like to live *in a warm country*.
+    * He lives *in Berlin*.
+    * Let's go for a walk *in the park*.
+    * Where's Tom? He's *in his room*.
+  * Phrases with *off*
+    * The lid came *off* easily. 盖子很容易掉。
+    * Take your coat *off*.
+    * The pencil rolled *off* the table.
+* b. Now study these phrases with *in* and *with*
+  * Can you see that women *in the blue coat*?
+  * He was dressed *in a black suit*.
+  * That man *with long hair* is supposed to be a poet.
+  * The police are looking for a man *with a scar* on his face.
+  * The woman *with the brown handbag and long umbrelaa* is a famous novelist.
+
 ### 0210 It was made in Germany in 1681. （一般过去时中的）被动语态
 ### 主动 vs. 被动
 Who built this bridge?  
