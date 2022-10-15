@@ -387,3 +387,9 @@
 * but it is only in recent years that it has gained an evil reputation. 但是只是近年来才得到了一个坏名声。句中的 it 是强调结构，结构是 it is (was) + 被强调的部分 + that (who) 从句。
 * to have the tree cut down 把这棵树砍掉。在这个短语中 cut down 是动词 have 的宾语 the tree 的补足语，常用来表示叫别人完成的动作。
 * In spite of all that has been said 是介词短语，在句中作让步状语。that has been said 是定语从句，修饰 all，关系代词 that 在从句中作主语，不能省略。
+
+### 0259
+* every time 此处是连词，作“每当”、“无论何时”讲，引出时间状语从句。
+* Rex soon became an expert at opening the gate. 很快雷克斯成了开门专家。become an expert at 作“成了……能手讲”。
+* This time he was barking so that someone would let him out. 这次它叫着让人把它放出去。so that 是连词，作“为的是”讲，引导状语从句。
+* Rex got so annoyed we have not seen him since. 雷克斯很生气，此后我们便再也没有见到它。句中含有一个 so annoyed that... 的状语从句，表示结果，但 that 被省略了。

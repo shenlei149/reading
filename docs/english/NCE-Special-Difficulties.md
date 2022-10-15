@@ -585,3 +585,22 @@ Now compare these pairs of sentences:
   * The tourists have been *picking* the leaves and cutting their names on the tree-trunk.
   * She was *picked* a lot of flowers.
   * She *cut* the apple in two.
+
+### 0259 To, in order to, so as to, so that, in order that 表示目的的几种方式
+Note the way these pairs of sentences have been joined:  
+注意下面各对句子连接的方法。
+* He ran to the station. He wanted to catch the train.
+  * He ran to the station *to* catch the train.
+* I told him about it. I wanted to help you.
+  * I told him about it *in order to* help you.
+* I opened the door quietly. I did not want to disturb him.
+  * I opened the door quietly *so as not to* disturb him.
+* He works hard. He wants to pass his exams.
+  * He works hard *in order that he may* pass his exams.
+* He left the letter on the table. He wanted me to see it.
+  * He left the letter on the table *in order that might(should)* to see it.
+* He was barking. He wanted someone to let him out.
+  * He was barking *so that someone to* let him out.
+* He sent a fax. He wanted his mother to learn the good news.
+  * He sent a fax *in order that his mother might(should)* to learn the good news.
+  * He sent a fax *for his mother to* learn the good news.
