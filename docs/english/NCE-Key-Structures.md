@@ -260,8 +260,8 @@ We cannot put *a* and *the* in front of names. 姓名前不能用不定冠词或
   * *Most* shops are closed on Saturday afternoons.
 
 ### 0207 What were you doing when I telephoned? 过去进行时
-Study these sentances carefully.Pay close attention to the words in italics.
-* *When* I was watering the garden, it bengan to rain.
+Study these sentences carefully.Pay close attention to the words in italics.
+* *When* I was watering the garden, it began to rain.
 * I was having breakfast *when* the telephone rang.
 * *While* we were having a party, the lights went out.
 * George was reading *while* his wife was listening to the radio.
@@ -395,7 +395,7 @@ Read these sentences carefully. Pay close attention to the words in italics. We 
   * He was dressed *in a black suit*.
   * That man *with long hair* is supposed to be a poet.
   * The police are looking for a man *with a scar* on his face.
-  * The woman *with the brown handbag and long umbrelaa* is a famous novelist.
+  * The woman *with the brown handbag and long umbrella* is a famous novelist.
 
 ### 0210 It was made in Germany in 1681. （一般过去时中的）被动语态
 ### 主动 vs. 被动
@@ -450,7 +450,7 @@ You will notice that the form of the verb depends on the person or thing we ment
   |--|--|
   | People say he is a genius. | *He is said to* be a genius. <br> *It is said that* he is a genius. |
   | People say that there is oil under the North Sea. | *There is said to be* oil under the North Sea. <br> *It is said that* there is oil under the North Sea. |
-  | She gave me pen | *I was given* a pen. <br> *A pen was giben* to me. |
+  | She gave me pen | *I was given* a pen. <br> *A pen was given* to me. |
   | The manager offered the vacant post to him. | *He was offered* the vacant post. <br> *The vacant post was offered* to him. |
 
 ### 0212 I'll see you tomorrow. 一般将来时
@@ -477,6 +477,25 @@ We can often use *going to* in place of *shall* or *will* in simple statements a
 在陈述句和疑问句中，我们常常可用 going to 来代替 shall 或 will。在类似下列的句子中我们不能用 going to：
 * You will enjoy yourself if you travel by sea.
 
+### 0260 The moment you leave this tent, you will get a big surprise.表示将要发生的事情
+* a. Do you remember these sentences.
+  * I am going to travel by air.
+  * You will enjoy yourself if you travel by sea.
+* b. Now study these sentences carefully.
+    | Instead of saying | We can say |
+    |--|--|
+    | He will arrive tomorrow. | He is arriving tomorrow. |
+    | He will come at four o'clock. | He is coming at four o'clock. |
+    | She will leave in two days' time. | She is leaving in two days' time. |
+* c. Study these sentences. Pay close attention to the words in italics.
+  * *If it rains* tomorrow we shall stay at home.
+  * *The moment he arrives*, I shall let you know.
+  * I shall wait here *until he comes*.
+  * *As soon as the rain stops*, we shall go out.
+  * You must finish your dinner *before you leave the table*.
+  * We'll go into the living room *after we finish dinner*.
+  * I'll give him the message *when he returns*.
+
 ### 0213 What will you be doing tomorrow? 将来进行时
 Read these sentences carefully. Pay close attention to the verbs in italics.  
 仔细阅读以下句子，特别注意斜体部分。
@@ -494,7 +513,7 @@ Now read these pairs of sentences. Each pair has the same meaning.
 | Instead of | We can say |
 |--|--|
 | *I'll come* to your house tomorrow. | *I'll be coming* to your house tomorrow. |
-| *He'll arrive* in a minute. | *He'll be arriving* in a munite. |
+| *He'll arrive* in a minute. | *He'll be arriving* in a minute. |
 | *He'll catch* the 4 o'clock train. | *He'll be catching* the 4 o'clock tain. |
 | *I'll see* you next week. | *I'll be seeing* you next week. |
 | *She'll meet* him at the station. | *She'll be meeting* him at the station. |
@@ -575,7 +594,7 @@ Study these sentences. They tell us *what happened some time ago* and *what had 
 * 
   * 'I am very tired,' he said.
   * What did he say?
-  * He *saied that* he was very tired.
+  * He *said that* he was very tired.
   * He *told me that* he was very tired.
   * 'Are you tired?' she asked.
   * What did she ask?
@@ -630,7 +649,7 @@ Now study these sentences carefully:
   | I must leave now. | I have to leave now. <br> I have got to leave now. |
   | He must leave now. | He has to leave now. <br> He has got to leave now. |
   | Must you leave now? | Do you have to leave now? <br> Have you got to leave now? |
-  | We must leave early tomorrow. | We have to leave early tomorrow. <br> We have got to leave early tomorrow. <br> We shall got to leeave early tomorrow. |
+  | We must leave early tomorrow. | We have to leave early tomorrow. <br> We have got to leave early tomorrow. <br> We shall got to leave early tomorrow. |
   | He said he must leave early. | He said he would have to leave early. <br> （有间接引语的时态变化） |
 * b We cannot use *must* in this sentence.
   * 在过去时的句子中，要用 had to 来表示“必须”。
@@ -684,7 +703,7 @@ Study these uses of *have*
   | I received a letter from him yesterday. | I *had* a letter from him yesterday. |
 
 ### 0242 Have
-* b. Sometiems we can use *have*+noun in place of an ordinary verb.  
+* b. Sometimes we can use *have*+noun in place of an ordinary verb.  
      有时我们可以用 have + 名词来代替普通动词。
   | Instead of saying | We can say |
   |--|--|
@@ -711,7 +730,7 @@ Study these uses of *have*
 
 ### 0243 Can and Be able to
 * b.
-  | Insteand of saying | We can say |
+  | Instead of saying | We can say |
   |--|--|
   | He will come if he *can*. | He will come if he *is able to*. |
   | I *can* see you tomorrow. | I *am able to* see you tomorrow. |
@@ -795,7 +814,7 @@ Study these uses of *have*
   | Instead of saying | We can say |
   |--|--|
   | The police will arrest the thieves. | The thieves will be arrested (by the police). |
-  | You must pay me for this. | I must be paied for this. |
+  | You must pay me for this. | I must be paid for this. |
   | They cannot find him. | He cannot be found. |
 
 ### 0245 被动语态
@@ -884,7 +903,7 @@ Study these uses of *have*
   * vote (*on* a motion; *for* someone) 对……表决；投……的票
   * write (or about) 写……的事
 
-### 0246 Verbs followd by *to, at, for* and *with* 与 to at for 和 with 连用的动词
+### 0246 Verbs followed by *to, at, for* and *with* 与 to at for 和 with 连用的动词
 * TO
   * accustom(ed) 习惯于
   * amount 达到

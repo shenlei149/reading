@@ -146,7 +146,7 @@
 * It's a new one. 这是一幅新画。句中的 one 用来代替前一句中的名词 picture，以免重复。
 
 ### 0227
-* late in the afternon 快到傍晚的时候
+* late in the afternoon 快到傍晚的时候
 * put up (=set up) 搭起
 * put out 熄灭（灯、火）
 * wake up 醒来
@@ -357,7 +357,7 @@
 * a registered letter 挂号信
 
 ### 0255
-* Dreams of finding lost treasure almost came true recently. 最近，找到失踪宝藏的梦想差一点变成了现实。come ture，变成现实。
+* Dreams of finding lost treasure almost came true recently. 最近，找到失踪宝藏的梦想差一点变成了现实。come true，变成现实。
 * it is said 是插入语，当“据说”讲。课文中用破折号把插入语与正文隔开，给人以临时插入的感觉。
 * The pirates would often bury gold in the cave and then fail to collect it. 海盗们过去常把金子埋藏在洞里，但后来却没能取走。would 表示过去的习惯性动作，fail 后面接动词不定式表示否定。
 * armed with the new machine 由于装备着这台新机器。这里过去分词短语作状语，表示伴随状态。
@@ -393,3 +393,9 @@
 * Rex soon became an expert at opening the gate. 很快雷克斯成了开门专家。become an expert at 作“成了……能手讲”。
 * This time he was barking so that someone would let him out. 这次它叫着让人把它放出去。so that 是连词，作“为的是”讲，引导状语从句。
 * Rex got so annoyed we have not seen him since. 雷克斯很生气，此后我们便再也没有见到它。句中含有一个 so annoyed that... 的状语从句，表示结果，但 that 被省略了。
+
+### 0260
+* a relation of yours 您的一个亲戚，这是名词双重所有格的又一个例子。
+* The moment you leave the tent 您一走出帐篷，the moment 起连词作用，相当于 as soon as。
+* A woman you know well 一个您很熟悉的女人。you know well 作 woman 的定语，引导词（whom 或 that）被省略了。
+* That is all. 就这些。

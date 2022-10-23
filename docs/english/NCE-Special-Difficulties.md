@@ -112,7 +112,7 @@ It *was made in* Germany.
 The tea pot *is made of* silver.  
 **Made from** (a number of materials) 表示用数种材料制成：  
 Glass is *made from* sand and lime.  
-**Made by** (someoen) 表示制造的人：  
+**Made by** (someone) 表示制造的人：  
 This cake *was made by* my sister.
 
 ### 0211 I asked him to lend me twenty pounds
@@ -326,12 +326,12 @@ We *cannot* leave out *who*, *which*, *that* or *whose* in these sentences:
 在以下句子中，我们不能省略 who，which，that，whose 关系代词（作主语）。
 * Jasper White is on of those rare people *who* believes in ancient myths.
 * This is the hotel *which* was built last year.
-* This is the island *that* was bought by a millonaire.
+* This is the island *that* was bought by a millionaire.
 * The pilot *whose* plane landed in a field was not hurt.
 
 ### 0229 Words often confused 经常容易混淆的词
 * a. *Refuse* and *Deny*.
-  * **Refuse** (a request or somthing offered) 拒绝（一个请求或给予的某种东西）：Captain Fawcett has just *refused* a strange request from a businessman.
+  * **Refuse** (a request or something offered) 拒绝（一个请求或给予的某种东西）：Captain Fawcett has just *refused* a strange request from a businessman.
   * **Deny** (an accusation) 否认（一种指控）：He *denied* that he had stolen the money.
 * b. *Bring*, *Take* and *Fetch*.
   * **Bring** (come from somewhere with something) 带来（由某处带来某物）：He *brought* the book with him when he came to see me.
@@ -365,10 +365,10 @@ We *cannot* leave out *who*, *which*, *that* or *whose* in these sentences:
   * Nearly a week passed... 过了一周
   * He *passed* my house this morning. 动词，路过
   * He walked *past* my house. 介词，旁边
-  * He told me anout his *past* experiences. 形容词，过去的
+  * He told me about his *past* experiences. 形容词，过去的
   * He seems to live in the *past*. 名词，过去
 * b. *Next* and *other*
-  * Early *next* morning she saw a ligth ahead. 第二天凌晨
+  * Early *next* morning she saw a light ahead. 第二天凌晨
   * We arrived in Paris on Tuesday evening. The *next* day we went sightseeing. 第二天
   * I saw Mary the *other* day. (A few days ago) 日前
 
@@ -390,14 +390,14 @@ Study these examples:
 
 ### 0236 Words often confused 经常容易混淆的词
 * a. *Watch*, *Look at*, *Follow*.
-  * **Watch** (something happening) 观看（正在发生的事）：Tomorrow he *will be watching* her anxiusly.
+  * **Watch** (something happening) 观看（正在发生的事）：Tomorrow he *will be watching* her anxiously.
   * **Look at** 看：*Look at* the blackboard. *Look at* your book. *Look at* this picture.
   * **Follow** (go after) 跟随：I *followed* my mother into the kitchen.
 * *Solid*, *Firm*, *Stable*.
   * **Solid** (not liquid) 固定的：She will not eat any *solid* food..
   * **Firm**
     * (not loose) 稳固的：I've fixed that hook. It is *firm* now.
-    * (not doubtful) 无疑的：He gave me a *firm* resusal. 断然拒绝
+    * (not doubtful) 无疑的：He gave me a *firm* refusal. 断然拒绝
     * (not lenient) 严格的：You must be very *firm* with that child.
   * **Stable** (often describing character) 坚定的：He is a very *stable* person.
 
@@ -476,10 +476,10 @@ Study these examples:
 * a. *Steal* and *Rob*
   * **Steal** (something from someone or somewhere) 偷（从某人或某处）：A thief broke into the building last night and *stole* some money from the safe. 从保险箱中偷走了一些浅。
   * **Rob**
-    * (someone of someting) 抢（某人的某物）：Two thieves attacked him last nihgt and *robbed* him of all his money. 抢走了他的全部钱财。
+    * (someone of something) 抢（某人的某物）：Two thieves attacked him last night and *robbed* him of all his money. 抢走了他的全部钱财。
     * (a building, a bank, a house, etc.) （大楼、银行、房子等等）：The police have caught the men who *robbed* the back. 抢银行
 * b. *Pay back*
-  * All Sam's money was *paid back*. (It was repaied.) 还了回来
+  * All Sam's money was *paid back*. (It was repaid.) 还了回来
   * I'll *pay* you *back* for what you did to me. (I'll get my revenge on you for what you did to me.) 你对我这样，我一定会报仇的。
 
 ### 0250 Words often confused 经常容易混淆的词
@@ -604,3 +604,8 @@ Note the way these pairs of sentences have been joined:
 * He sent a fax. He wanted his mother to learn the good news.
   * He sent a fax *in order that his mother might(should)* to learn the good news.
   * He sent a fax *for his mother to* learn the good news.
+
+### 0260 At a village fair, I decided to visit a fortune-teller.
+| Instead of saying | It is better to say |
+|--|--|
+| We went to the fair in the village. | We went to the *village fair*. |
