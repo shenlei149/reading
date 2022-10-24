@@ -609,3 +609,24 @@ Note the way these pairs of sentences have been joined:
 | Instead of saying | It is better to say |
 |--|--|
 | We went to the fair in the village. | We went to the *village fair*. |
+
+### 0261 Words often confused 经常容易混淆的词
+* a. Nouns: *Cost*, *Price*, *Value*
+  * The Hubble was launched at a *cost* of over a billion dollars. 耗资
+  * How much is that blouse? Let's ask the *price*. 价钱
+  * The stolen items were of sentimental, rather than financial *value*. 价值
+* b. Verbs: *Cost*, *Price*, *Value*
+  * What does this blouse *cost*, please? 花费
+  * I want to *price* the bed linen in a few other shops before I buy any. 打听价格
+  * I *value* your advice a great deal. 尊重
+
+### 0262 Words often confused 经常容易混淆的词
+* a. *Control* and *Check*
+  * He *controls* a large business company. 掌控
+  * A mechanic *checked* my car engine. 检查
+* b. *Great* and *Bid*
+  * The Parthenon is a *great* building. (An important building.) 重要的
+  * Skyscrapers are *big* buildings. 高大的
+* *Soil* and *Ground*
+  * Olive trees can grow in poor soil. 贫瘠的土壤
+  * The ball fell to the ground. 地面

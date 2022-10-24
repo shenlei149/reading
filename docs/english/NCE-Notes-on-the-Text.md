@@ -399,3 +399,18 @@
 * The moment you leave the tent 您一走出帐篷，the moment 起连词作用，相当于 as soon as。
 * A woman you know well 一个您很熟悉的女人。you know well 作 woman 的定语，引导词（whom 或 that）被省略了。
 * That is all. 就这些。
+
+### 0261
+* the Hubble telescope 哈勃望远镜
+* at a cost of 造价为……
+* right from the start 从最开始
+
+### 0262
+* had been fighting 是过去完成进行时，表示过去某一时刻之前一直进行的动作
+* before they could get it under control 在他们控制住火势之前。under control 受到控制
+* for miles around 方圆数英里
+* Winter was coming on 冬季即将来临，come on 这里作“开始”、“来临”讲，用于指时间、季节等自然条件情况的出现。
+* for heavy rain would not only wash away the soil but would cause serious floods as well 因为大雨不仅会冲走土壤，而且还会引起严重的水灾。for 是一个并列连词，用于陈述原因；wash away 是“冲刷”的意思。
+* in huge quantities 大量地
+* take root 生根
+* in place of 代替

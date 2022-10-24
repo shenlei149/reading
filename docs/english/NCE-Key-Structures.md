@@ -530,6 +530,22 @@ Now read these pairs of sentences. Each pair has the same meaning.
   * You will have learnt the results of examination by then.
   * I shall have received a reply by this time tomorrow.
 
+### 0261 By the time you read this, the Hubble's eagle eye will have sent us thousands and thousands of wonderful pictures. 将来完成时、将来进行时和将来完成进行时
+* a. Study these sentences.
+  * I will be writing letters all day tomorrow.
+  * Soon the astronauts will have repaired the telescope.
+* b. Compare these two sentences.  
+  对比将来完成时和将来完成进行时
+  * Soon the astronauts will have repaired the telescope.
+  * By Friday midday, they will have been working on it for seven days.
+* c. Compare these pairs of sentences. Pay close attention to the words in italics.
+  * He will have arrived by this time tomorrow.
+    * *The moment he has arrived*, I will let you know.
+  * You can go home at five o'clock.
+    * *Now that you have finished work*, you can go home.
+  * He will phone us later today. He will have received his exam results by then.
+    * *As soon as he has received his exam results*, he will phone us.
+
 ### 0214 After he had finished work he went home 过去完成时
 有人认为，过去完成时表示“很久以前发生的事情”，这个概念是错误的。过去完成时往往用来表示发生在过去的两个事件，哪一个发生在前。  
 Read these two sentences.  
@@ -555,6 +571,16 @@ Study these sentences. They tell us *what happened some time ago* and *what had 
 * The police *found* Billy Wilkins *last night*. He *had run away* from home five days ago.
 * He *had spent* the last two nights near a farmhouse. The police *took* him home at once. 
 * When sha *saw* him, his mother *burst* into tears. She *said* he *had never run away before*.
+
+### 0262 The planes had been planting seed for nearly a month when it began to rain. 过去完成时和过去完成进行时
+* a. Do your remember these sentences.
+  * He *lived in* Scotland fifteen years ago.
+  * He *had lived in* Scotland for fifteen years *before* he came to England.
+* b. Now compare these pairs of sentences.
+  * He had already finished work before I arrived.
+    * He had been working in a factory for years he got this job.
+  * I asked him what he had lost.
+    * I asked him what he had been doing all afternoon.
 
 ### 0215 He said that... He told me... 间接引语
 在把直接引语改为间接引语时，除了用动词 say 之外，还可以用动词 tell，后面可跟人名或代词作间接宾语，然后是以 that 引导的引语作直接宾语。
