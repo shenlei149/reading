@@ -414,3 +414,17 @@
 * in huge quantities 大量地
 * take root 生根
 * in place of 代替
+
+### 0263
+* has a large circle of friend 交际很广
+* Everybody admires him for his great sense of humour. 人人都钦佩他那绝妙的幽默感。admire ... for ... 钦佩……的……；sense of humour 幽默感
+* but he did as his daughter asked 但他还是按照女儿的要求做了。as 是连词，引导出状语从句，表示方式。did 是指前一句话中的 go home。
+* To his surprise 使他吃惊的是
+* she did not like to see so many people laughing at him 她不愿意看到这么多人嘲笑他。句中的 laughing at him 是现在分词短语，作 see 的宾语补足语。
+
+### 0264
+* a plan for a twenty-one-mile tunnel under the English Channel 建造一条长 21 英里、穿越英吉利海峡的隧道计划，for a... Channel 是介词短语，作定语，修饰名词 plan。
+* serve as... 用作……，充当……，与 serve for 同义
+* a better plan was put forward 提出了一项更好的计划，put forward 提出（计划、建议等）
+* He suggested that a double railway-tunnel should be built. 他提议建造双轨隧道。在英文中，动词 suggest，demand，recommend 等后面所接的 that 宾语从句中，谓语动词要用 should + 动词原形，而 should 又常常省略，这是一种虚拟语气的结构。
+* If, at the time, the British had not feared invasion, it would have been completed. 如果不是因为那时英国人害怕入侵，隧道早就建成了。这是英语中的虚拟语气。虚拟语气所表述的不是一个事实，而只是一种假设或愿望，常伴有 if 引导的非真实条件句。以上的这句话是对大战期间所发生的事情的一种假设，而这种假设与事实不符。因此，在条件句中要用过去完成时 had not feared，而主句中则要用 would + have + 过去分词。

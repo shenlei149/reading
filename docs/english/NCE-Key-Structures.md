@@ -640,6 +640,21 @@ Study these sentences. They tell us *what happened some time ago* and *what had 
   * What did Jane ask?
   * Jane *ask why* I hadn't written to her.
 
+### 0263 He said that... He told me... He asked... 间接引语
+Study these sentences carefully
+* 'Open the door for me please,' she said to me.
+  * What did she ask me to do?
+  * She asked me to open the door for her.
+* 'Don't make so much noise,' she said to the children.
+  * What did she tell the children?
+  * She told them not to make so much noise.
+* 'Stay to lunch,' he insisted.
+  * What did he do?
+  * He insisted that I should stay to lunch.
+* 'Come with me,' he suggested.
+  * What did he suggest?
+  * He suggested that I should go with him.
+
 ### 0216 If you open the door you will get a surprise. 条件句
 下面的条件句主要是用来询问或者谈论十分可能的事情。在这些条件句中，if 从句用现在时，主句用将来时 will。
 * a
@@ -666,6 +681,18 @@ Now study these sentences carefully:
 * *If I were* in your position, I would act differently.
 * He would help you *if he were* here.
 * *If you could* make him change his mind, you would save him a lot of trouble.
+
+### 0264 If the british had not feared invasion, it would have been completed.
+* a. Do you remember these sentences?
+  * *If he is out*, I'll call tomorrow.
+  * You'll miss the train *if you don't hurry*.
+  * *If you went* to the exhibition, you would enjoy it.
+  * *If I were* in your position, I would act differently.
+* b. Now study these sentences carefully.
+  * You would have missed the train *if you had not hurried*.
+  * *If you had gone* to the exhibition, you would have enjoyed it.
+  * *If I had been* in your position, I would have acted differently.
+  * *If you could have made* him change his mind, you would have saved him a lot of trouble.
 
 ### 0217 Must
 情态动词 must 常常用来表示不可逃避的义务，这种义务在说话人看来是没有选择余地的。另外，还可以用 have to 或 have got to 来代替 must。这 3 种形式就它们表达的意义而言，一般可以互换。而 have to 这个短语可以与更多的时态连用。

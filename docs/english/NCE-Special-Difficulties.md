@@ -630,3 +630,11 @@ Note the way these pairs of sentences have been joined:
 * *Soil* and *Ground*
   * Olive trees can grow in poor soil. 贫瘠的土壤
   * The ball fell to the ground. 地面
+
+### 0264
+The verb *draw* has a different meaning in each of these sentences.  
+动词 draw 在以下句子中的含义各不相同。
+* If a train entered this tunnel, it would *draw in* fresh air behind it. 抽进隧道
+* The dog *draw back* in terror when it saw the snake. 退了回来
+* A taxi *drew up* outside the bank. (It stopped.) Two men got out and then the taxi *drew off*. (It went away.) 停；开走了
+* A new trading agreement was *drawn up* between Holland and Denmark. (A new agreement was made.) 签署
