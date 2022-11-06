@@ -715,6 +715,8 @@ Now study these sentences carefully:
   | I, personally, think she is over forty. | She must be over forty. |
 
 ### 0241 Must, Have to and Need
+* a. Do you remember these sentences?
+  * I *must* leave now. I *have*(*got*) to leave now. He *must* be a fool.
 * b 
   * I *need* a new hat. I *must* buy one.
   * He *needs* a haircut. He *must* have one.
@@ -733,6 +735,16 @@ Now study these sentences carefully:
   * You *mustn't* smoke in a theatre. It is forbidden.
   * You *needn't* come with us if you don't want to.
     * You *don't have to (haven't got to)* come with us if you don't want to.
+
+### 0265 Must, Have to, Should and Ought to
+* a. Do you remember these sentences?
+  * I must leave now. I have got to leave now.
+  * She had to go shopping yesterday.
+* b. Now compare these pairs of sentences:
+  * I can't go to the cinema tonight; I must(or have to) write some letters.
+    * I should(or ought to) do some work tonight, but I think I shall go to the cinema instead.
+  * I missed the train, so I had to take a taxi.
+    * I'm sorry I'm late. I should have taken(or ought to have taken) a taxi.
 
 ### 0218 Have
 Study these uses of *have*  
@@ -756,6 +768,13 @@ Study these uses of *have*
   | I received a letter from him yesterday. | I *had* a letter from him yesterday. |
 
 ### 0242 Have
+* a. Do you remember these sentences.
+  | Instead of saying | We can say |
+  |--|--|
+  | He owns a new house. | He *has* a new house. <br> He *has got* a new house. |
+  | He possesses a lot of money. | He *has* a lot of money. <br> He *has got* a lot of money. |
+  | I took a bath before dinner. | I *had* a bath before dinner. |
+  | I enjoyed myself at the party. | I *had* a good time at the party. |
 * b. Sometimes we can use *have*+noun in place of an ordinary verb.  
      有时我们可以用 have + 名词来代替普通动词。
   | Instead of saying | We can say |
@@ -764,6 +783,16 @@ Study these uses of *have*
   | He wanted to *drink* a glass of water. | He wanted to *have a drink* of water. |
   | We *will talk* about the problem tomorrow. | We *will have a talk* about the problem tomorrow. |
   | *Look* at this. | *Have a look* at this. |
+
+### 0266 Have
+* I washed my car. (I washed it myself.)
+  * I *had* my car *washed*. (Someone else washed it for me.)
+* I'm going to clean my suit. (I'm going to clean it by myself.)
+  * I'm going to *have* my suit *cleaned*. (Someone else will do it for me.)
+* He *had* his hair *cut* yesterday.
+* I will have to *have* my watch *repaired*.
+* Did you *have* your watch *repaired*?
+  * I didn't *have* my watch *repaired*.
 
 ### 0219 Can and May
 * a 表示请求

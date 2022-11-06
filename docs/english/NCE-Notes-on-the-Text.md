@@ -428,3 +428,17 @@
 * a better plan was put forward 提出了一项更好的计划，put forward 提出（计划、建议等）
 * He suggested that a double railway-tunnel should be built. 他提议建造双轨隧道。在英文中，动词 suggest，demand，recommend 等后面所接的 that 宾语从句中，谓语动词要用 should + 动词原形，而 should 又常常省略，这是一种虚拟语气的结构。
 * If, at the time, the British had not feared invasion, it would have been completed. 如果不是因为那时英国人害怕入侵，隧道早就建成了。这是英语中的虚拟语气。虚拟语气所表述的不是一个事实，而只是一种假设或愿望，常伴有 if 引导的非真实条件句。以上的这句话是对大战期间所发生的事情的一种假设，而这种假设与事实不符。因此，在条件句中要用过去完成时 had not feared，而主句中则要用 would + have + 过去分词。
+
+### 0265
+* Dressed up as Father Christmas and accompanied by a 'guard of honour' of six pretty girls 打扮成圣诞老人，在由 6 位漂亮姑娘组成的“仪仗队”的陪同下。过去分词短语 dressed up... 和 accompanied by 作状语，说明伴随状态。
+* He should have known 他本应知道。这里“should + have + 过去分词”表示本应发生但实际上并未发生的事情。
+* he ought to have gone along a side street 他本应该走一条小路。ought 是助动词，“ought + have + 过去分词”表示过去该做而没有做的事情。
+* hold up the traffic 阻碍交通
+* get him off the main street 把它推离主要街道。
+* he has a good record 它表现一贯良好，这里的 record 是指履历，特别是警察局的档案。
+* let him off 饶恕他。
+
+### 0266
+* west of Samoa 萨摩亚群岛以西
+* worth rescuing 有抢救的价值
+* The French authorities had the plane packaged and moved in parts back to France. 法国政府让人把飞机包装起来，一部分一部分地搬回法国。句子中的动词 have 被称为使役动词，结构是 have + 名词或代词 + 过去分词。在使用这种结构时，我们可能不知道或认为不必指明为我们服务的人是谁，然而，这种结构比被动语态更强调“使”别人为我们服务这一事实。

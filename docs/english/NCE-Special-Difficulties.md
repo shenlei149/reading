@@ -638,3 +638,25 @@ The verb *draw* has a different meaning in each of these sentences.
 * The dog *draw back* in terror when it saw the snake. 退了回来
 * A taxi *drew up* outside the bank. (It stopped.) Two men got out and then the taxi *drew off*. (It went away.) 停；开走了
 * A new trading agreement was *drawn up* between Holland and Denmark. (A new agreement was made.) 签署
+
+### 0265
+* a. The verb *let* has a different meaning in each of these sentences. Study them carefully.  
+  动词 let 在以下句子中含义各不相同，仔细阅读以下例句。
+  * As he has a good record, we shall *let him off* this time. (We shall not punish him.) 饶了他
+  * I expected him to help me, but he *let me down*. (He failed to do what I expected him to do.) 使我感到失望
+  * If anyone knocks at the door when I am out, don't *let him in*. 让他进来
+  * Who *let the dog out*? 放出去了
+* b. *Agree* and *Accept*
+  * Though Jimmy *agreed* to go at once, Jumbo refused to move.
+  * We are not allowed to *accept* presents from customers.
+* c. *Dress up* and *Dress*
+  * *Dressed up* as Father Christmas... 打扮成
+  * I got up at 6 o'clock, washed, shaved, *dressed* and had breakfast.
+
+### 0266 A group of enthusiasts are going to have the plane repaired.
+Collective noun + singular or plural verb.  
+集合名词与连用动词的单数或复数形式。当我们把这个名词当作一种非人格的东西看待时，即当作一个整体，连用的动词应为单数。当我们把这个名词人格化时，即看作组成整体的若干人时，连用的动词应为复数。
+* *The national team* **is** travelling to London tomorrow. 国家代表队
+* *The team* **are** all highly talented young people. 全队人员
+* *The audience* **is** made up of school children. 观众
+* *The audience* **were** spellbound by the magic of the performance. 观众们
