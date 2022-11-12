@@ -824,6 +824,18 @@ Study these uses of *have*
   * He didn't agree with me at first but I *was able to* persuade him.
   * He *was able to* leave Europe before the war began.
 
+### 0267 Can, Be able to and Manage to
+* a. Do you remember these sentences?
+  * I couldn't understand him.
+  * I wasn't able to understand him.
+  * He was able to leave Europe before the war began.
+* b. *Managed to* can be used like *was able to* to show that an action has been completed successfully.  
+  managed to 可以像 was able to 表示一个成功地完成了的动作。
+  | Instead of saying | We can say |
+  |--|--|
+  | He didn't agree with me at first but I *was able to* persuade him. | He didn't agree with me at first but I *managed to* persuade him. |
+  | He *was able to* leave Europe before the war begin. | He *managed to* leave Europe before the war begin. |
+
 ### 0220 You must give up fishing 动名词
 * a 动名词作主语
   * *Eating* is always a pleasure.
@@ -852,27 +864,59 @@ Study these uses of *have*
     * He congratulated me on *having won* the competition.
 
 ### 0244 Both men started running through the trees.
-* b. 
+* a.Do you remember these sentences.
+  * *Eating* is always a pleasure.
+  * I am very keen on *cycling*.
+  * He sat tse without *saying* anything.
+  * I must apologize for *not letting* you know earlier.
+* b.
   * I am looking forward to *seeing* him tomorrow.
   * I am accustomed to *getting up* early.
   * I am used to *getting up* early.
 
-* c. 
+* c.
   | Instead of saying | We can say |
   |--|--|
   | The men started *to run* through the trees. | The men started *running* through the trees. |
   | They began *to run*. | They began *running*. |
   | They continued *to run*. | They continued *running*. |
 
-* d. 
+* d.
   | Now | Always |
   |--|--|
   | I hate *to disturb* you, but can I come in for a moment please? | I hate *disturbing* people when they are busy. |
   | I'd love (or like) *to sit* in the garden. | I love (or like) *sitting* in the garden when it's fine. |
 
-* e. 
+* e.
   * My shirt is torn. It needs *mending*.
   * Those windows are dirty. They want *washing*.
+
+### 0268 I cross the street to avoid meeting him.
+* a. Study these sentences carefully. Pay close attention to the words in italics
+  * I always *avoid travelling* during rush hour.
+  * He *enjoys playing* football.
+  * He completely *denies taking* it.
+  * *Fancy meeting you* here.
+  * *It's no use crying* about it.
+  * *It's not worth worrying* about.
+  * *I can't stand* people *shouting and pushing*.
+  * Can't you see *I'm busy writing*?
+  * *Would you mind opening* the window?
+  * *I don't mind waiting*.
+* b. Compare these sentences.  
+  对比以下句子，注意动名词的逻辑主语的形式
+    * *Would you mind opening* the window?
+      * *Would you mind my opening* the window?
+    * *Fancy writing* a letter like that!
+      * *Fancy her writing* a letter like that!
+* c. *See*, *Hear*, and *Smell*
+  * I *saw him coming*.
+  * He *heard me opening* the door.
+  * I can *smell something burning*.
+* d. *Go* and *Come*
+  * Let's *go dancing*.
+  * I *went shopping* this morning.
+  * *Come swimming* with me tomorrow.
 
 ### 0221 Passing planes can be heard night and day. 被动语态
 * a The first sentence in each pair tells us about a person (Who). The second tells us about a thing (What or Which).

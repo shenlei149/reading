@@ -442,3 +442,22 @@
 * west of Samoa 萨摩亚群岛以西
 * worth rescuing 有抢救的价值
 * The French authorities had the plane packaged and moved in parts back to France. 法国政府让人把飞机包装起来，一部分一部分地搬回法国。句子中的动词 have 被称为使役动词，结构是 have + 名词或代词 + 过去分词。在使用这种结构时，我们可能不知道或认为不必指明为我们服务的人是谁，然而，这种结构比被动语态更强调“使”别人为我们服务这一事实。
+
+### 0267
+* has spent his lifetime studying 把毕生的精力都用于研究。动词 spend 后面常加 in doing sth. 其中 in 可以省略。
+* in all parts of the world 这个介词短语用来修饰前面两个名词，意思是“世界各地的（活火山和深洞）”。
+* a river of liquid rock 一股岩浆，这是一种修辞手法，被称为暗喻。
+* in time 及时地
+* risked his life 冒着生命危险
+* any man alive 中，alive 作定语，意思是“在世的人”，“活人”。
+
+### 0268
+* to avoid meeting him 避免碰上他，这是动词后面用动名词作宾语的结构。本课下文中出现的 enjoy, fancy, mind, finish 等动词，也是只接动名词宾语的动词。
+* came running towards me 向我跑来，running 是现在分词，作状语，表示状况。
+* It was no use pretending... 装作……是没有用了。在这句话中，it 是先行词，实际上主语是动名词短语 pretending that I had not seen him.
+* No matter how busy you are 不管你有多忙。这是一个让步状语从句，no matter 常与 how, when, where, what, who 等引导的从句相连，可译成“无论”。
+* prevent sb. from doing sth. 是“阻止某人做某事”，介词 from 可以省略。
+* Fancy meeting you here! 想不到在这里见到你！fancy + -ing 表示对后面的 -ing 所表示的动作感到惊奇。
+* You're not busy doing anything, are you? 你不忙，是吧？这是一个附加疑问句，也称反义疑问句。它是由陈述句加上简略疑问句构成的。如果陈述句是肯定的，那么疑问句用否定形式；反之，陈述句是否定的，疑问句用肯定形式。
+* Would you mind my coming with you? 我跟你一道去行吗？这是一个表示客气请求的结构，my 是动名词 coming 的逻辑主语。
+* the waiting room 候诊室。

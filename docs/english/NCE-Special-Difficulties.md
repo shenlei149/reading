@@ -660,3 +660,21 @@ Collective noun + singular or plural verb.
 * *The team* **are** all highly talented young people. 全队人员
 * *The audience* **is** made up of school children. 观众
 * *The audience* **were** spellbound by the magic of the performance. 观众们
+
+### 0267 Phrases with *say* and *tell* 带 say 与 tell 的短语
+* a. *Say*
+  * Did he *say anything* to you about it? No, he *said nothing*.
+  * He knelt down and *said his prayers*. 作祷告
+  * If you want some more cake, please *say so*. 说一声
+  * I'm sure it would help if you could *say a good word* for him. 说句好话
+  * He *said goodbye* and left. 告辞
+  * Please *say no more* about it. 不要再说这件事了
+* b. *Tell*
+  * He has been able to *tell* us more about volcanoes...
+  * Can you *tell me* anything about it?
+  * Please *tell us a story*.
+  * Can you *tell me time* in English?
+  * I want you to *tell me the truth*.
+  * He often *tells lies*.
+  * If you promise not to tell anyone, I'll *tell you a secret*.
+  * Can't you *tell the difference* between an Austin and a Morris? 区分
