@@ -950,6 +950,20 @@ Study these uses of *have*
   | I found out that *someone had sent the parcel* to the wrong address. | I found out that *the parcel had been sent* to the wrong address. |
   | He told me *the police had arrested the thief*. | He told me *the thief had been arrested (by the police)*. |
 
+### 0269 After having been instructed to drive out of town, I began to acquire confidence. 被动语态
+* a. You have learnt to write sentences like these:
+  * It was made in Germany in 1681. 一般过去时
+  * I told you it could be done. 情态动词
+  * I can't find my bag. It must have been stolen. 现在完成时
+  * The man was being questioned by the police. 过去进行时
+  * He never expected the bicycle to be found. 不定式的被动
+  * I found the parcel had been sent to the wrong address. 过去完成时
+* b. Now study these sentences.
+  | Instead of saying | We can say |
+  |--|--|
+  | *After he was arrested*, the man confessed that he had stolen the money. | *After being arrested*, the man confessed that he had stolen the money. |
+  | *After he had been instructed* to drive out of town, he began to acquire confidence. | *After having been instructed* to drive out of town, he began to acquire confidence. |
+
 ### 0222 Verbs followed by *Of, from, in* and *on* 后面可跟 of from in 和 on 的动词
 * OF
   * accuse 控告
@@ -1118,3 +1132,53 @@ Study these uses of *have*
   * reason 规劝
   * satisfy(fied) (or by) 感到满足
   * threaten(ed) 威胁
+
+### 0270 Verbs followed by *for, with, of, to, at, from, in, on* and *about*
+* For
+  * eager 渴望的
+  * enough 足够的
+  * famous 以……文明
+  * fit 适合的
+  * grateful (or to) 因……而感激
+  * qualified (or in) 能胜任的
+  * ready (or to) 准备好的
+  * responsible 对……负责
+  * sorry 对……感到遗憾
+  * sufficient 充足的
+  * thankful (or to) 感谢的
+  * valid 有效期为……
+* WITH
+  * angry (with someone; at something) （因某人或某事）生气的
+  * busy (or at) 忙于……
+  * consistent 与……一致
+  * content 对……满足
+  * familiar (or to) 与……熟悉
+  * patient 有耐心的
+  * popular 为……所喜爱
+* OF
+  * afraid 害怕的
+  * ahead 在……前面
+  * aware 知道的
+  * capable 有能力的
+  * careful (or with) 小心的
+  * certain 确信的
+  * conscious 意识到的
+  * envious 妒忌的
+  * fond 爱好的
+  * guilty 有……罪的
+  * ignorant 不了解的
+  * independent 独立的
+  * jealous 妒忌的
+  * kind (or to) 对……和蔼的
+  * north/south/east/west 在……北/南/东/西面
+  * short 缺乏的
+  * shy 顾虑的
+  * sure 肯定的
+  * worthy 值得的
+* TO
+  * close 接近的
+  * contrary 与……相反
+  * cruel 对……残忍
+  * dear 对……很重要
+  * equal 与……相等
+  * faithful 忠于……

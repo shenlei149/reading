@@ -461,3 +461,25 @@
 * You're not busy doing anything, are you? 你不忙，是吧？这是一个附加疑问句，也称反义疑问句。它是由陈述句加上简略疑问句构成的。如果陈述句是肯定的，那么疑问句用否定形式；反之，陈述句是否定的，疑问句用肯定形式。
 * Would you mind my coming with you? 我跟你一道去行吗？这是一个表示客气请求的结构，my 是动名词 coming 的逻辑主语。
 * the waiting room 候诊室。
+
+### 0269
+* driving licence 驾驶照
+* After having been instructed to drive out of town, 在接到把车开出城的指令后。介词 after 后面接动名词完成式的被动结构，整个介词短语作时间状语，相当于一个时间状语从句 After I had been instructed to...
+* Sure that I had passed, 确信我已通过考试，sure 前面省略了 Being。
+* The examiner must have been pleased, 主考人对我的驾驶想必是满意的。这里用 must + have + 过去分词来对过去的事情表示推测。
+* in a mournful voice 用悲伤的声调。
+
+### 0270
+* be unaware of... 不知道，没有察觉……
+* catch sight of... 突然看到……
+* Apparently sensitive to criticism 可以看作是省略了 being 的现在分词短语，作状语，说明原因。
+* charge at... 向……攻击
+* break into cheers 突然贺起彩来，break into... 作“突然发出”，“突然……起来”讲。
+* look on 旁观
+* out of the way 不碍事；不挡路
+
+### 0272
+* drive at over 300 miles per hour 以每小时 300 多英里的速度驾车
+* 30 feet in length 30 英尺长
+* the first run 开始的行程
+* Following in his father's footsteps 踏着父亲的足迹

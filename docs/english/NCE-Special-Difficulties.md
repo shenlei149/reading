@@ -678,3 +678,18 @@ Collective noun + singular or plural verb.
   * He often *tells lies*.
   * If you promise not to tell anyone, I'll *tell you a secret*.
   * Can't you *tell the difference* between an Austin and a Morris? 区分
+
+### 0269 Words often confused 经常容易混淆的词
+* a. *Practice*, *Advice*
+  * He still *needs* a lot of *practice*.
+  * He *practises* the piano every day.
+  * I want to give you some *advice*.
+  * What do you *advise* me to do?
+* b. *Enjoy*, *Entertain* and *Amuse*
+  * I was almost beginning to *enjoy* my test.
+  * We *enjoyed* ourselves at the party.
+  * He *entertained* me to dinner. 请吃饭
+  * He *entertained* everybody with his clever tricks. 使大家高兴
+  * The children were *amused* by the circus clown. (They laughed.)
+  * His funny stories *amused* us all. (They made us laugh.)
+  * That child can *amuse* himself for hours playing in the san. (He can pass his time happily.)
