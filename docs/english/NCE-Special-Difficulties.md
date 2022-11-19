@@ -693,3 +693,14 @@ Collective noun + singular or plural verb.
   * The children were *amused* by the circus clown. (They laughed.)
   * His funny stories *amused* us all. (They made us laugh.)
   * That child can *amuse* himself for hours playing in the san. (He can pass his time happily.)
+
+### 0271 Words often confused 经常容易混淆的词
+* *Official*， *Employee*, *Shop assistant*
+  * *Official* from Greenwich Observatory have the clock checked twice a day. 官员们
+  * The Customs *official* asked me several questions. 海关官员
+  * Over a thousand factory *employees* went on strike. 工人
+  * She works as a *shop assistant* in a clothing store. 店员
+* *Hang/Hung* and *Hang/Hanged*
+  * A painter *hung* a pot of paint on one of the hands. 挂
+  * When the sun came out, she *hung* the washing on the time. 挂 晾
+  * The murderer was *hanged*. 绞死

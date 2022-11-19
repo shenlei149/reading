@@ -1182,3 +1182,50 @@ Study these uses of *have*
   * dear 对……很重要
   * equal 与……相等
   * faithful 忠于……
+  * fatal 对……致命
+  * harmful 对……有害
+  * identical 与……相同
+  * indifferent 对……不关心
+  * inferior 劣于……
+  * liable 对……有义务
+  * new 对……没有经验
+  * obedient 对……服从
+  * obvious 对……清楚
+  * polite 对……有礼貌
+  * previous 先于……
+  * rude 对……粗暴无礼
+  * sensitive 对……敏感
+  * similar 与……相似
+  * useful 对……有用
+* AT
+  * bad 不善于……
+  * clever 擅长的
+  * efficient 能胜任的
+  * expert (or in) 能熟练做……
+  * good 善于……
+  * indignant 对……感到愤慨
+  * quick 很快的
+  * sad (or about) 因……而悲伤
+  * slow 对……迟钝
+  * skillful (or in) 熟练的
+* FROM
+  * away 距……远
+  * different 与……不同
+  * far 远离的
+  * safe 无危险的
+* IN
+  * deficient 缺少的
+  * fortunate 在……很幸运
+  * honest 对……很诚实
+  * weak 在……薄弱
+* ON
+  * dependent 依赖于……
+  * intent 专心于……
+  * keen 热心于……
+* ABOUT
+  * curious 对……好奇
+  * doubtful (or of) 对……有疑问
+  * enthusiastic 对……热心
+  * reluctant (or to) 勉强的
+  * right (or in) 在……正确
+  * uneasy 对……感到不安

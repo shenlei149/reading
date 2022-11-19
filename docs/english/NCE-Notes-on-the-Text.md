@@ -478,6 +478,15 @@
 * look on 旁观
 * out of the way 不碍事；不挡路
 
+### 0271
+* Big Ben 大钟的名字，译成“大本”
+* the B.B.C. 是英国广播公司（British Broadcasting Corporation）的缩写
+* If the Houses of Parliament had not been burned down in 1834, the great clock would never have been erected. 如果不是国会大厦在 1834 年被焚毁的话，这座大钟永远也不会建造。这是一个表示与过去事实不相符的虚拟语气结构。
+* take its name from 以……命名
+* when the new Houses of Parliament were being built 注意这个从句中过去进行时的被动结构
+* It is not only of immense size 它不仅外形巨大，“to be of + 名词”用来表示人或物的特征。
+* Big Ben has rarely gone wrong “大本”中很少出差错
+
 ### 0272
 * drive at over 300 miles per hour 以每小时 300 多英里的速度驾车
 * 30 feet in length 30 英尺长
