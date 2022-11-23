@@ -704,3 +704,43 @@ Collective noun + singular or plural verb.
   * A painter *hung* a pot of paint on one of the hands. 挂
   * When the sun came out, she *hung* the washing on the time. 挂 晾
   * The murderer was *hanged*. 绞死
+
+### 0274
+The verb *get* has a different meaning in each of these sentences.  
+在以下句子中，动词 get 有各种不同的词义。
+* Now you *get out of* here, all of you! 走开
+* The door is locked. I can't *get out*. 出去
+* I've lost my key. I can't *get into* the house. 进
+* How is he *getting on* in his new job? (How is he progressing?) 他的这份新工作干得怎么样？
+* *Get on with* your work. (Continue...) 继续
+* He's so difficult, I can't *get on with* him. (We are not on good terms.) 和他相处
+* Tom was punished, but Jim *got off* lightly. (He escaped punishment.) 逃脱
+* I can't *get* the cap of his pen *off*. (I can't remove it.) 取下
+* He has now *got over* his illness. (He has recovered.) 从病中恢复
+* I want to *get* this interview *over* as quickly as possible. (I want to finish it.) 结束
+* He *got through* his exams. (He succeeded in passing his exams.) 通过了
+* He *got through* a huge amount of food. (He succeeded in eating...) 吃完了
+
+### 0275 When it grew dark...
+Study the verbs in italics. They are all used in the sense of the verb *become*.  
+注意用斜体印出的动词，它们均有“变成”的意思。
+* He *grew* (or *got*) angry when I told him about it. 变得
+* The leaves *are turning* (or *getting*) yellow. 变黄
+* This apple *has gone* bad. 苹果坏了
+* Coal *got* scarce last winter. 变得
+* Everything you said *come* true. 成了现实；实现了
+* She *fell* ill while she was on holiday. 生病了
+
+### 0276 Words often confused 经常容易混淆的词
+* a. *Usual* and *Usually*
+  * Harvesting has begun earlier than *usual*. 比平时，比去年
+  * He *usually* gets up at six o'clock. 通常
+* b. *Between*（在[两者]之间） and *Among*（在[三者或三者以上]之中）
+  * Here you can see two workers who, *between* them, have just finished cutting three cartloads of macaroni.
+  * Tom sat *between* Jill and Jennifer.
+  * The Prime Minister was *among* those present.
+  * You'll find it somewhere *among* those newspaper.
+* c. *Manager*（经理）, *Director*（主任）, *Headmaster*（校长）
+  * Mrs. Brabante is talking to the *manager* of the local factory.
+  * Mr. Jones is the *director* of several companies.
+  * Who is the *headmaster* of this school?

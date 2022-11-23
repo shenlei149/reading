@@ -492,3 +492,32 @@
 * 30 feet in length 30 英尺长
 * the first run 开始的行程
 * Following in his father's footsteps 踏着父亲的足迹
+
+### 0273
+* play truant from school 逃学，也可以说 play truant
+* as far as they get 他们顶多到这种程度而已，as far as 作“到……程度”解
+* They have all been put to shame... 这是被动语态；put sb. to shame，使某人感到羞愧，使……黯然失色
+* while playing truant 是分词短语作状语，相当于一个状语从句 while he was playing truant
+* in the meantime 在此期间
+* did not take him into the centre of Paris as he hoped it would, 没有像他希望的那样把他带到巴黎市中心。as he hoped it would 是一个方式状语从句，作“像……那样”解，would 后面省略了和前文相同的谓语 take him into the centre of Paris。
+
+### 0274
+* Out of the limelight 这里的 limelight 是指舞台。
+* as they soon discovered 中的 as 是关系代词，代替后面的整个主句 disguises can sometimes be too perfect，作动词 discovered 的宾语。
+* Why don't we come more often? 我们为什么不经常来这里呢？这是一个否定的特殊疑问句，表示一种建议。
+* get out of here 从这里走开
+* in case you can't read 除非你们不识字
+* be hard on us 使我们难堪，对我们过于严厉。
+
+### 0275
+* SOS = "Save Our Souls" 国际通用的呼救信号
+* fly off course 飞行偏离航线
+* Snow lay thick on the ground. 地上积着厚厚的雪。lay 是系动词，thick 是表语，表示主语的状态或性质。
+* she heard planes passing overhead 她听见头顶上有飞机飞过。passing overhead 是现在分词短语，作宾语 planes 的补足语。
+* stamp out 踩出。其中 out 是一个副词，out 与一些动词连用时常常有“看得见”、“听得见”的意思，如 write out, tap out, ring out 等。
+* It was not long before a helicopter arrived on the scene to rescue the survivors of the plane crash. 不久，一架直升机飞抵失事现场，来搭救这几个幸存者。注意这句话中的 before 是连词，引导的是时间状语从句，long 是形容词，是主句的表语。不要把这句话中的 long 和 before 的用法同 long before（很久以前） 或 before long（不久以后） 词组的用法混淆。
+
+### 0276
+* April Fools' Day 愚人节，4 月 1 日。
+* between them 是“由于他们共同努力的结果”的意思。
+* the September rains 9 月雨季
