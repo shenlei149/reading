@@ -1,5 +1,5 @@
 - [Home](/)
 - [English](/english/)
-  - [Notes on the Text](/english/NCE-Notes-on-the-Text.md)
+  - [Notes on the Text 2](/english/NCE-Notes-on-the-Text-2.md)
   - [Key Structures](/english/NCE-Key-Structures.md)
   - [Special Difficulties](/english/NCE-Special-Difficulties.md)
