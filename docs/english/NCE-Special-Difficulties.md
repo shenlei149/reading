@@ -780,3 +780,16 @@ The verb *take* has a different meaning in each of these sentences.
 * He was so persuasive that I *was taken in*. (I was deceived.) 被骗了
 * The reporter *took down* everything I said. (The reporter wrote...) 记下了
 * That business was doing very badly until Jones *took over*. (He became in charge of it.) 接管
+
+### Phrases with *on* 带 on 的短语
+* There was also a great deal of machinery *on display*. 展出
+* The most wonderful piece of machinery *on show*... 展出
+* He has gone to Frankfurt *on business*. 因公，出差
+* I didn't catch the bus. I came here *on foot*. 走来的；步行
+* I asked to see the officer *on duty*. 值班
+* *On the whole*, it has been a very successful year. 总的来说
+* Look at that smoke. That building must be *on fire*. 着火
+* I don't think it was an accident. He did it *on purpose*. 故意的
+* *On the average*, I make six telephone calls a day. 平均
+* You mustn't *on any account* sign the contract before you read it. 无论如何，不管怎么样
+* I know I had agree to let you go to the cinema, but *on second thoughts*, you should stay at home and finish your homework. 经过重新考虑，再次考虑后

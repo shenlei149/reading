@@ -546,3 +546,12 @@
 * gain height, （飞机）爬高。
 * touch down, （飞机）着陆。
 * on board, 在……（如飞机）上。
+
+### 0280 The Crystal Palace
+* which was built in Hyde Park, 是一个非限定性定语从句，修饰 the Crystal Palace。
+* The Great Exhibition, 世界博览会。
+* it was made of iron and glass, 它是用钢铁和玻璃建成的。be made of..., 用……制造（指原材料没有发生化学上的变化）。
+* of all time, 空前的。
+* on display = on show, 展出。
+* on arriving in English, 一到英国。
+* in all, 总共。
