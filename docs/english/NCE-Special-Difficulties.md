@@ -744,3 +744,39 @@ Study the verbs in italics. They are all used in the sense of the verb *become*.
   * Mrs. Brabante is talking to the *manager* of the local factory.
   * Mr. Jones is the *director* of several companies.
   * Who is the *headmaster* of this school?
+
+### 0277 Words often confused 经常容易混淆的词
+* a. **B.C.** and **A.D.**
+  * The mummy of an Egyptian woman who died in 800 B.C. ...
+  * Julius Caesar died in 44 B.C.
+  * William the Conqueror invaded Britain in 1066 A.D.
+* b. *Skin*（皮肤）, *Leather*（皮革）, Complexion（肤色）
+  * Hard resin covered the *skin*.
+  * This briefcase is made of *leather*.
+  * Look at her rosy cheeks. She has a lovely *complexion*.
+* *Wax*（蜡）and *Candle*（蜡烛）
+  * a samll *wax* figure of the god Duamutef.
+  * The lights went out so we lit *candles*.
+
+### 0278
+The verb *keep* has a different meaning in each of these sentences.
+* My friends *kept on* offering me cigarette. 持续不断地
+* Please *keep off* the grass. (Do not walk on it.) 践踏
+* He *kept away from* the party. (He did not come.) 避开了
+* Under my essay, the teather wrote, 'Good work! *Keep it up*!' (Continue making an effort.) 继续努力
+* He ran so fast, I could not *keep up with* him. (I could not remain beside him.) 跟不上
+* A big notice on the door said, 'Keep out!' (Do not come in.) 切勿入内！
+* The cat *was kept in* during the fireworks.(It was made to stay indoors.) 关到了屋里
+
+### 0279
+The verb *take* has a different meaning in each of these sentences.
+* After *taking off*, we were flying over the city... 起飞
+* He *took off* his coat. 脱下
+* He is always *taking* his teacher *off*. (He is always making fun of him by imitating him.) 模仿
+* Young Tom *takes after* his father. (He resembles his father.) 长得像
+* That wardrobe *takes up* a lot of place. (It occupies a lot of space.) 占地方
+* He has *taken up* French. (He has begun to learn French.) 开始学
+* When his wife died, he *took to* drinking. (He started drinking and it became a habit.) 染上酗酒的习惯
+* He was so persuasive that I *was taken in*. (I was deceived.) 被骗了
+* The reporter *took down* everything I said. (The reporter wrote...) 记下了
+* That business was doing very badly until Jones *took over*. (He became in charge of it.) 接管

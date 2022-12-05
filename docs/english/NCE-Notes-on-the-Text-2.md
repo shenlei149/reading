@@ -521,3 +521,28 @@
 * April Fools' Day 愚人节，4 月 1 日。
 * between them 是“由于他们共同努力的结果”的意思。
 * the September rains 9 月雨季
+
+### 0277 A successful operation
+* 800 B.C., 公元前 800 年。B.C. 是 Before Christ 的缩略语。
+* ... plates taken of the mummy, taken 是过去分词作定语修饰 plates, take the plates of... 作“给……拍片子”讲。
+* die of..., 因（患）……而死。
+* The operation, which lasted for over four hours, proved to be very difficult. 手术持续了 4 个多小时，非常难做。在这句话中 which 引导的从句是一个定语从句，用来修饰前面的名词 operation。但这是一个非限定性定语从句，它与主句用两个逗号隔开，它所提供的仅是补充信息，可以略去而不影响主句所表达的意思。
+* fall to pieces, 散掉，称为碎片。
+
+### 0278 The last one?
+* an article entitled..., 题名为……的文章。
+* as I was sure that this would be my last cigarette, 因为我确信这是我最后一支烟。as 是“因为”的意思。
+* I had all the usual symptoms of someone giving up smoking..., 戒烟的人通常表现的一切征兆，我都有……。someone giving up smoking 是独立主格结构，作 of 的宾语。someone 是逻辑主语，giving up smoking 是逻辑谓语。
+* kept on offering me cigarettes and cigars, 不断给我递香烟和雪茄。keep on doing 是“持续不断做”的意思。
+* They made no effort to hide, 他们毫不掩饰。make no effort, 根本不做努力。
+* seven days of this, 其中 this 是指戒烟后的情况。
+* as Brian pointed out, 正如布莱恩指出的，as 是关系代词，作 pointed out 的宾语，代替后面整个句子。
+
+### 0279 By air
+* take charge of me, 照顾我。
+* I am used to travelling by air, 我习惯了乘飞机旅行。be used to doing sth. 是“习惯于做某事”，后接名词、代词、动名词。
+* only on one occasion have I ever felt frightened, 只有一次把我吓坏了。这是一句倒装句，即 have 放在主语之前。如果 only 加上一个状语放到句首，那么就要用倒装语序。
+* take off, 起飞。
+* gain height, （飞机）爬高。
+* touch down, （飞机）着陆。
+* on board, 在……（如飞机）上。
