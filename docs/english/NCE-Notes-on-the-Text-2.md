@@ -555,3 +555,31 @@
 * on display = on show, 展出。
 * on arriving in English, 一到英国。
 * in all, 总共。
+
+### 0281 Escape 逃脱
+* When he had killed the guard, the prisoner of war quickly dragged him into the bushes. 那个战俘杀死卫兵之后，（他）迅速地将（那个卫兵的）尸体拖进灌木丛。这是一个含有时间状语从句的复合句，根据英语的习惯，人称代词要放在从句中，所代的名词要放在主句当中。
+* the prisoner of war （常缩写成 POW），战俘。
+* up and down, 来回，前后。
+* here and there, 到处。
+* stand to attention, 立正。
+
+### 0282 Monster or fish? 是妖还是鱼？
+* Fishermen and sailors sometimes claim to have seen monsters in the sea. 渔夫和水手有时声称看到过海里的妖怪。句中的动词不定式 to have seen 是不定式的完成时结构，作动词 claim 的宾语。
+* at times, 有时。
+* out at sea, 在远海。
+* no ordinary fish, 根本不是一条普通的鱼， no 比 not 否定的意味更重。
+* made every effort, 尽一切努力。
+
+### 0283 After the elections 大选之后
+* the elections, 大选。在英语中 election 常用复数形式，后接表示复数的动词，用来指全国性的选举。
+* Prime Minister, 首相。
+* He is now retiring from political life, 他现在退出了政界。
+* Though a little suspicious this time, 虽然这次有点疑心。这是一个让步状语从句，其中的主语和谓语动词都省略了，完整的从句应是 Though the policeman was a little suspicious this time。
+* lost his temper, 发脾气。
+
+### 0284 On stike 罢工
+* go on strike, 举行罢工。
+* ... is due to begin 中的 due 有“定于（某时做某事）”的意思，后接不定式。
+* free ride, 免费乘车。
+* to some extent, 在某种程度上。
+* Only one or two people have onjected that... 本句中 only 在句首，因为是修饰主语，因此句子的谓语并不用倒装语序。

@@ -781,7 +781,7 @@ The verb *take* has a different meaning in each of these sentences.
 * The reporter *took down* everything I said. (The reporter wrote...) 记下了
 * That business was doing very badly until Jones *took over*. (He became in charge of it.) 接管
 
-### Phrases with *on* 带 on 的短语
+### 0280 Phrases with *on* 带 on 的短语
 * There was also a great deal of machinery *on display*. 展出
 * The most wonderful piece of machinery *on show*... 展出
 * He has gone to Frankfurt *on business*. 因公，出差
@@ -793,3 +793,47 @@ The verb *take* has a different meaning in each of these sentences.
 * *On the average*, I make six telephone calls a day. 平均
 * You mustn't *on any account* sign the contract before you read it. 无论如何，不管怎么样
 * I know I had agree to let you go to the cinema, but *on second thoughts*, you should stay at home and finish your homework. 经过重新考虑，再次考虑后
+
+### 0281 Words often confused 经常容易混淆的词
+* a. *Cloth*, *Clothing*, *Clothes*.
+  * He soon changed into the dead man's *clothes*. 衣服
+  * I wanted to have a suit made so I bought three and half a yard of *cloth*. 布料
+  * You should give all this old *clothing* away. 衣物
+* b. *Salute*, *Greet*.
+  * He stood to attention and *saluted* as they passes. 敬礼
+  * He went to the station to *greet* his friend.迎接
+* c. *Clear*, *Clean*.
+  * He was rather elderly with *clear* blue eyes. 明亮的
+  * The water in the stream was very *clear*. 清澈的
+  * His instructions were very *clear*. (They were easy to understand.) 清楚的
+  * We can cross now. The road is *clear*. 没车，畅通的
+  * She keeps her house very *clean*. 干干净净的
+
+### 0282 Words often confused 经常容易混淆的词
+* a. *Laugh* and *Laugh at*.
+  * Though people have often *laughed at* stories told by seaman... (People have made fun of) 付诸一笑
+  * Everybody *laughed* when the circus clown made his appearance. 笑了
+* b. *Wash* and *Wash up*.
+  * Unusual creatures are *washed* to the shore. (They are carried to the shore by water.) 冲
+  * I must *wash* my hands. They are very dirty. 洗
+  * Have you ever seen a cat *washing* itself? 洗澡
+  * The man was *washed* overboard by a big wave. 卷入水
+  * I'll *wash up* tonight. (I'll *wash* the dishes.) 洗碗
+
+### 0283 Words often confused 经常容易混淆的词
+*Temper* and *Mood* 脾气和情绪
+* This time, the policeman *lost his temper*. (He got angry.) 发脾气
+* *Keep your temper!* (Don't get angry!) 不要发火！
+* After what happened last night, I was surprised to find that he was *in* such *a good temper* this morning. (He was not angry.) 情绪很好
+* You should apologize to him. He's *in a very bad temper.* (He is angry.) 非常生气
+* Don't disturb him. He's *in a very bad mood*. (He is not cheerful, but not necessarily angry.) 心情不好。
+* I'm *in the mood for* a drive into the country. (I would very much like to go for a drive into the country.) 想去
+
+### 0284
+Study the *word order* in the following sentences.  
+注意以下句子中的*语序*。
+* People *are going to find it difficult to* get to work.
+* He *thought it easy to* pass the examination.
+* He *considered it wrong* that she should have to wait.
+* I *feel it right* that he should be punished.
+* I *think it wrong for people to* behave like that.
