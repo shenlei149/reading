@@ -837,3 +837,11 @@ Study the *word order* in the following sentences.
 * He *considered it wrong* that she should have to wait.
 * I *feel it right* that he should be punished.
 * I *think it wrong for people to* behave like that.
+
+### 0285 Words often confused 经常容易混淆的词
+*Too*（太，过分）and *Enough*（足够，十分）
+* One is never *too* old to learn.
+* It is *too* difficult for me to understand.
+* It is easy *enough* for me to understand.
+
+### 0286 Words often confused 经常容易混淆的词

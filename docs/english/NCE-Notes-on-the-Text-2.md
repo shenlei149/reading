@@ -583,3 +583,18 @@
 * free ride, 免费乘车。
 * to some extent, 在某种程度上。
 * Only one or two people have onjected that... 本句中 only 在句首，因为是修饰主语，因此句子的谓语并不用倒装语序。
+
+### 0285 Never too old to learn 活到老学到老
+* old and new 是 pupils of the school 的同位语。由并列连词连接的两个形容词作定语时，要放在所修饰的词的后面。
+* All those who have contributed towards the gift, 所有凑钱买此礼物的人，contribute towards 是“为……捐款”的意思。
+* remember...for..., 记住……的……。
+* a farewell dinner in his honour, 为他举行的告别宴会，in one's honour 是“为向……表示敬意”的意思。
+* It is a curious coincidence that..., ……真是奇妙的巧合，that 引导主语从句。
+* a total of, 总共。
+* devote oneself to..., 致力于……，to 这里是介词，后接名词、动名词。
+
+### 0286 Out of control 失控
+* came away, 脱落，离开。
+* Both men had hardly had time to realize what was happening when they were thrown violently into the sea. 他们两个还没有来得及意识到到究竟发生了什么事情，就被猛地抛入海里。hardly...when... 表示“刚……就……”。
+* on this occasion, 这一次。
+* use up, 耗尽，用光。
