@@ -845,3 +845,20 @@ Study the *word order* in the following sentences.
 * It is easy *enough* for me to understand.
 
 ### 0286 Words often confused 经常容易混淆的词
+*Enough* and *Fairly*
+* They had just had *enough* time to swim out of danger.
+* Your work is not good *enough*.
+* I missed the train this morning. I didn't get up early *enough*.
+* I didn't buy *enough* sugar.
+* There are *enough* flowers in that vase.
+* George is a *fairly* tall person but still not tall enough to get into the police force. 相当高
+* I knew he's a *fairly* good player, but he doesn't play well enough to get into the team. 相当好
+
+### 0288
+The verb *run* has a different meaning in each of these sentences.  
+以下句子中动词 run 有不同的含义。
+* They are *running out of* food. (They have already used up all their supplies.) 用光，用尽，吃光。
+* A crowd of boys *ran after* the beggar. (They chased the begger.) 追
+* That boy was nearly *run over* by a car. (The car nearly hit him.) 轧着，撞着
+* Don't drive so fast. This car hasn't been *run in* yet. (The car must be driven slowly so as not to damage the new engine.) 磨合，试过
+* I *ran into* Helga while I was in Sweden. (I met her by accident.) 偶遇

@@ -598,3 +598,18 @@
 * Both men had hardly had time to realize what was happening when they were thrown violently into the sea. 他们两个还没有来得及意识到到究竟发生了什么事情，就被猛地抛入海里。hardly...when... 表示“刚……就……”。
 * on this occasion, 这一次。
 * use up, 耗尽，用光。
+
+### 0287 A perfect alibi 极好的不在犯罪现场的证据
+* At the time the murder was committed, the murder was committed 可以看作是定语从句修饰 time。at the time 意为 at the moment when something happened。
+* on time, 准时。
+* And you didn't notice anything unusual? 难道你没有注意到有什么异常情况？这是由陈述句后加问号表示的问句。
+* the 8.25 是指 8 点 25 分的火车。
+
+### 0288 Trapped in a mine 困在矿井里
+* rescue operations, 营救工作。
+* If there had not been a hard layer of rock beneath the soil, the would have completed the job in a few hours. 如果不是因为土壤下面有一层坚硬的岩石，他们的营救工作仅用几个小时就可以完成了。
+* As it is, 事实上，实际上。
+* they still have a long way to go, 他们离钻透还早着呢。
+* keep in touch with, 与……保持联系。
+* run out of, 用完，用尽。
+* lose heart, 失望，丧失信心。
