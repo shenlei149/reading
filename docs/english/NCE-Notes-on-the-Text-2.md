@@ -613,3 +613,13 @@
 * keep in touch with, 与……保持联系。
 * run out of, 用完，用尽。
 * lose heart, 失望，丧失信心。
+
+### 0289 A slip of the tongue 口误
+* a slip of the tongue, 说走了嘴；失言。
+* do anything to see a free show, 想方设法看不花钱得戏。
+* when the news got round that... , 当……得消息一传开，这是一个时间状语从句，get round 作“四处传遍”讲。
+* need not have felt disappointed, 本来不必要感到失望。need 后接不定式的完成式表示不必做某事而实际已经做了。
+* who should have appeared 是定语从句，修饰 artistes。should + 不定式的完成式表示本来应该做而实际未做的事。
+* ... what the poor man should have said, but what he actually said was... , 这个可怜的人本应说什么，但实际他所说的却是……。这里两个 what 都是连接代词，指所说的话（= the words which...）。should 和 actually 两词都用斜体印出，这里强调“应该”和“实际”，形成了对比，应重度。
+
+### 0290 What's for supper? 晚餐吃什么？

@@ -862,3 +862,16 @@ The verb *run* has a different meaning in each of these sentences.
 * That boy was nearly *run over* by a car. (The car nearly hit him.) 轧着，撞着
 * Don't drive so fast. This car hasn't been *run in* yet. (The car must be driven slowly so as not to damage the new engine.) 磨合，试过
 * I *ran into* Helga while I was in Sweden. (I met her by accident.) 偶遇
+
+### 0289 Words often confused and misused 经常容易混淆和误用的词
+* a. *Free* and *Single*
+  * People will do anything to see a *free* show. 免费
+  * The people are *free* to choose who will govern them. 自由
+  * Is she still *single*? I thought she was going to get married last April. 单身
+* b. *Queue* and *Row*
+  * We had to *queue* for hours to get in. 排队 verb
+  * There was a long *queue* outside the cinema. 队列 noun
+  * I enjoyed the performance because I had a very good seat in the fifth *row*. 排
+* c. *Funny*
+  * The only *funny* things we heard that evening... 有趣的
+  * There's something *funny* about this house. (Something peculiar.) 古怪的
