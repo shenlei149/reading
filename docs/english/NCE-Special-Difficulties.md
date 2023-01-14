@@ -875,3 +875,13 @@ The verb *run* has a different meaning in each of these sentences.
 * c. *Funny*
   * The only *funny* things we heard that evening... 有趣的
   * There's something *funny* about this house. (Something peculiar.) 古怪的
+
+### 0290 Two words joined by 'and' + singular or plural verb 用 and 连接的两个名词以及后面的动词单数或复数形式
+有些用 and 相连的名词常在一起使用。当我们把它们看作一个整体时，谓语动词用单数形式；如果我们把它们看成分开的东西，动词就用复数形式。
+* Fish *and* chips *has* always been a favourite dish in Britain.
+* Jane *and* Keith *have* always been good friends of ours.
+
+### 0291
+The verb *make* has a different meaning in each of the following sentences. Study them carefully.  
+在下面的句子中，动词 make 有不同的含义。细读以下句子。
+* A balloon seemed to be 

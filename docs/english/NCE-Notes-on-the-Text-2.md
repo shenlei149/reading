@@ -623,3 +623,9 @@
 * ... what the poor man should have said, but what he actually said was... , 这个可怜的人本应说什么，但实际他所说的却是……。这里两个 what 都是连接代词，指所说的话（= the words which...）。should 和 actually 两词都用斜体印出，这里强调“应该”和“实际”，形成了对比，应重度。
 
 ### 0290 What's for supper? 晚餐吃什么？
+* fish and chips, 油煎鱼加炸土豆条。这是英国的一种家常菜，被看作是一盘菜，因此要用单数动词。
+* North Sea, 北海。
+* who often have to work in darkness a hundred feet under water, （潜水员）常常要在水面 100 英尺以下摸黑工作。这是一个非限定性定语从句，对主句中的名词 divers 进行补充说明，因此这个从句与主句用逗号隔开。
+* be frightened out of their wits, 被吓昏了，被吓得惊慌失措。
+* favourite eating varieties, 深受人们喜爱的食用的品种。
+* as a result, 结果是。
