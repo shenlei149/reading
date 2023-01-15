@@ -884,4 +884,18 @@ The verb *run* has a different meaning in each of these sentences.
 ### 0291
 The verb *make* has a different meaning in each of the following sentences. Study them carefully.  
 在下面的句子中，动词 make 有不同的含义。细读以下句子。
-* A balloon seemed to be 
+* A balloon seemed to be *making for* a Royal Air Force Station. (It seemed to be travelling towards...) 走向，飞向。
+* He could *make out* three men in a basket. (He could see.) 看出，辨认出。
+* I could not *make out* what he said. (I could not understand.) 理解。
+* Please *make out* a fresh copy. (Write out another one.) 重写。
+* He *made up* a story about two men and a horse. (He invented.) 编造。
+* She spends hours *making up* in front of mirror. (She uses cosmetics.) 化妆。
+* I must *make up for* the time I lost this morning. (I must compensate for...) 补上。
+
+### 0292
+'I enjoy cleaning windows at night.'  
+'So do I,' answered the policeman.
+* He reads a lot and *so do I*.
+* He doesn't read much and *neither do I*.
+* He can swim and *so can I*.
+* He can't swim and *neither can I*.

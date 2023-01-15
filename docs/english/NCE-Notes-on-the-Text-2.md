@@ -629,3 +629,14 @@
 * be frightened out of their wits, 被吓昏了，被吓得惊慌失措。
 * favourite eating varieties, 深受人们喜爱的食用的品种。
 * as a result, 结果是。
+
+### 0291 Three men in a basket 三人同篮
+* which seemed to be making for a Royal Air Force Station nearby, 好像正朝着附近的一个皇家空军机场的方向移动。这是定语从句。seem 后接不定式的进行式，是“似乎正在进行某事”的意思。make for, 走向，飞向。
+* might be spying on... might + 不定式的进行时表示对正在进行的动作的推测。
+* keep track of, 是“跟踪”的意思。
+* make out, 看出，辨认出。
+
+### 0292 Asking for trouble 自找麻烦
+* I don't think, 当 think 后接表示否定意思的宾语从句的时，通常在主句中使用否定形式，但译成汉语时否定意义仍在宾语从句中。
+* I immediately regretted answering in the way I did, 我立刻后悔不该那样回答。在 regret 后面可接动名词，也可接动词不定式，但表示的意思不一样。接动名词是对已发生的事情表示后悔，而接动词不定式则是对现在要发生的事表示抱歉。
+* So do I, 我也是的。这是接前面一句话 "I enjoy cleaning windows at night"，当前面一句话的谓语也适用于后一句时，可用 so （肯定）或 neither （否定）开头，然后接倒装语序。
