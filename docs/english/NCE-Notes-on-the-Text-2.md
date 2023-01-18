@@ -640,3 +640,30 @@
 * I don't think, 当 think 后接表示否定意思的宾语从句的时，通常在主句中使用否定形式，但译成汉语时否定意义仍在宾语从句中。
 * I immediately regretted answering in the way I did, 我立刻后悔不该那样回答。在 regret 后面可接动名词，也可接动词不定式，但表示的意思不一样。接动名词是对已发生的事情表示后悔，而接动词不定式则是对现在要发生的事表示抱歉。
 * So do I, 我也是的。这是接前面一句话 "I enjoy cleaning windows at night"，当前面一句话的谓语也适用于后一句时，可用 so （肯定）或 neither （否定）开头，然后接倒装语序。
+
+### 0293 A noble gift 崇高的礼物
+* the site chosen = the site which was chosen, 这里用过去分词作定语，与定语从句的作用相同。
+* take... to pieces, 把……拆卸开。
+* put... together, 把……装配起来。
+* make their homes in America, 在美国安家落户。
+
+### 0294 Future champions
+* hold their breath, 屏住呼吸。
+* be popular with..., 深受……的欢迎，为……所喜爱。
+* compete against, 与……竞争，与……抗衡。
+* come up for breath, 升上水面换气。
+* Whether they will ever become future Olympic champions, only time will tell. 他们将来是否能称为奥林匹克的冠军，这只能由时间来作出回答。以 whether 引导的从句是 tell 的宾语，把宾语放在句首是为了强调。
+
+### 0295 A fantasy 纯属虚构
+* get into such a mess, 搞得这样糟。
+* set on fire, 放火。
+* Good heavens! 天啊。
+* The fire broke out in the basement. 地下室突然着火。
+* aim... at, 用……瞄准。
+* get that fellow posted, 把那个家伙派走。post 可以与 letter, parcel 等名词连用，表示“寄”。如果把 post 与人连用时，仅指把人“派往”政府的一个新职位。
+
+### 0296 The dead return 亡灵返乡
+* the dead are said to return to their homes, 据说死去的人要回到他们的家里来。the dead, 死人。定冠词用在某些形容词之后，可以用来表示某类人。
+* lay out, 摆开，展示，摆设。
+* all night long, 整夜。
+* the other world, 另一个世界，即阴间。

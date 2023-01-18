@@ -899,3 +899,15 @@ The verb *make* has a different meaning in each of the following sentences. Stud
 * He doesn't read much and *neither do I*.
 * He can swim and *so can I*.
 * He can't swim and *neither can I*.
+
+### 0293 Sterss 重音
+* The Statue of Liberty was a *present* from the French people.
+* It was presented to the United States of America.
+
+In the first sentence, *present* is a noun and the accent falls on the first syllable: /'prezent/  
+在第 1 个句子里，present 是一个名词，重音落在第一个音节上；  
+In the second sentence, *present* is a verb and the accent falls on the second syllable: /pri'zent/
+
+Here are some common words which are stressed in the same way:  
+以下词均有两种不同的重度方法：
+* accent, conduct, contest, contrast, export, import, increase, insult, produce, protest, record, transport.
