@@ -911,3 +911,38 @@ In the second sentence, *present* is a verb and the accent falls on the second s
 Here are some common words which are stressed in the same way:  
 以下词均有两种不同的重度方法：
 * accent, conduct, contest, contrast, export, import, increase, insult, produce, protest, record, transport.
+
+### 0301
+过去曾有一种传统的规定，认为英文句子不允许以介词结尾。现在，这种所谓的禁忌早已破除。在现代英语中，除正体书面语体外，以介词结尾的句子很多，在口语中更为常见。
+* Where had it come from?
+
+| *Instead of saying* | *It is better to say* |
+|--|--|
+| About whom are you talking? | Who(m) are you talking about? |
+| That is the film about which I told you. | That is the film I told you about. |
+
+### 0302 Phrases with In
+* 'Whatever are you doing up here Bill?' asked the vicar *in surprise*. 惊讶地
+* Please write *in ink*, not *in pencil*. 用钢笔，用铅笔
+* We have a great deal *in common*. 共同点
+* The swimmer seemed to be *in difficulty*, but he managed to reach the shore *in the end*. 处境困难；终于，最终
+* I didn't feel well so I spent the day *in bed*. 在床上
+* We have received fifty applications *in all*. 总计
+* The thieves were disturbed and left *in a hurry*. 赶快
+* I can't borrow any more money; I'm already *in debt*. 负债
+* Marry's *in love* with a sailor. 恋爱
+* There wasn't a person *in sight*. 在视野中
+* He didn't realize that he was *in danger*. 处于危险之中
+* The little boy was *in tears*. 含着泪
+
+### 0303 Words often misused and confused
+* a. *Happen*
+  * Its missing head *happened to be* among remains of the fifth century B.C. (By chance.) 碰巧，偶然地
+  * I *happened to find* the ticket in my pocket. (By chance.)
+  * *It happened that I found* the ticket in my pocket. (By chance.)
+  * I couldn't find out what had happened. (What had taken place.) 发生
+* b. *Storey* and *Story*
+  * Houses - often thress storeys high - were built of stone. 楼层
+* c. *Worship* and *Warship*
+  * The temple ... was used as a place of *worship*. 崇拜
+  * The Arethusa used to be a *warship*. 军舰
