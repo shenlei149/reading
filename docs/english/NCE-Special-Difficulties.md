@@ -946,3 +946,35 @@ Here are some common words which are stressed in the same way:
 * c. *Worship* and *Warship*
   * The temple ... was used as a place of *worship*. 崇拜
   * The Arethusa used to be a *warship*. 军舰
+
+### 0304
+* a. 间接宾语
+  * Alf was too embarrassed to say anything *to his wife*.
+  * He explained the difficulty *to me*.
+  * I described the scene *to my wift*.
+  * He said nothing *to me* about it.
+  * Did you suggest this idea *to me*?
+  * I confided the secret *to my sister*.
+* b. Words often misused: *Worth*
+  * His rise in status is well worth the loss of money. worth + noun
+  * That film is not worth seeing. worth + verb-ing
+
+### 0305 Not only had the poort man been arrested...
+在英语中，如果表示否定的副词或者副词词组放在句首，就必须后接“助动词+主语+句子其他部分”。这种倒装结构特别用来加强语气。
+* I have never seen so many people.
+  * Never have I seen so many people.
+* I had hardly finished speaking when the door opened.
+  * Hardly had I finished speaking when the door opened.
+
+### 0306 Word building
+* It was *possible* to stop the thieves.
+* It was *impossible* to stop the thieves.
+
+We can add *dis-*, *in-*, *im-*, *un-*, *il-* or *ir-* to certain words to make opposites.
+
+### 0307 John runs a successful furniture business. 名词和相对应的形容词
+* His business is a *success*. He runs a *successful* business.
+* He's a bit of a *fool*. He often makes *foolish* decisions.
+* She has a lot of *energy*. She's very *energetic*.
+* The clock strikes at intervals of an *hour*. It strikes at *hourly* interval.
+* You didn't take any *care* with this. You were completely *careless*.

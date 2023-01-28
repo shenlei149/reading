@@ -36,3 +36,14 @@
 * lead to... 作“通往……”、“导致……”解。
 * go to press, 付印
 * Not only had the poor man been arrested, but he had been sent to prison as well. 这是 not only... but... as well 引导的并列句子，如果将 not only 置于句首，后面主谓语应采取倒装结构。
+
+### 0306 Smash-and-grab 砸橱窗抢劫
+* Piccadilly, 皮卡迪利大街，伦敦市中心一条著名的街。这条街从海德公园通向一个著名的广场，叫作“皮卡迪利广场”。
+* with its headlights on and its horn blaring, ... 这是 with 引导的独立主格结构，在句中表示伴随状况。
+* but he was too busy helping himself to diamonds to notice any pain. 但他只顾忙着抢劫钻石，根本顾不上疼痛了。这里 help oneself to sth. 是“擅自取用，侵占某物”的意思。
+
+### 0307 Mutilated Ladies
+* Mutilated Ladies, 这是英国银行专门负责识别和鉴定残缺或被毁纸币的小组，其中 lady 是指英国纸币上印的女王头像。
+* a large bank note, 面额很大的纸币。
+* whiter than white, 这是英国有关洗衣粉的电视广告中常用的一句话。这里的意思是纸币上的字迹、图案均被洗掉了，可以译为“比白纸还白”。
+* they found a beautifully-cooked wallet and notes turned to ash, 他们发现一只煮得很好看的钱包，钞票已烧成了灰。过去分词短语 turned to ash 作宾语 notes 的补足语，这后半句话可以看成 they found ... that notes had been turned to ash。
