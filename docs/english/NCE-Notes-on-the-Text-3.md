@@ -47,3 +47,32 @@
 * a large bank note, 面额很大的纸币。
 * whiter than white, 这是英国有关洗衣粉的电视广告中常用的一句话。这里的意思是纸币上的字迹、图案均被洗掉了，可以译为“比白纸还白”。
 * they found a beautifully-cooked wallet and notes turned to ash, 他们发现一只煮得很好看的钱包，钞票已烧成了灰。过去分词短语 turned to ash 作宾语 notes 的补足语，这后半句话可以看成 they found ... that notes had been turned to ash。
+
+### 0308 A famous monastery 著名的修道院
+* Now that a tunnel has been built through the mountains, 由于一条穿山隧道已经开通。now that 是连词，当“既然”，“由于”讲，引导一个原因状语从句，说明一种新情况。
+* As there are so many people about, ... about 为副词，作“在附近”，“到处”讲。也可用 around 表示。
+* The monks prefer winter to summer, 修道士们喜欢冬天而不喜欢夏天。prefer...to... 有“喜欢……而不喜欢……”的意思，to 的前后要用名词或动名词来表示所对比的事物或活动。
+
+### 0309 Flying cats
+* Cat never fail to fascinate human beings. 在这句话中有一个否定词 never 和一个含有否定意义的动词 fail，这两个否定词就组成了双重否定，而双重否定往往用来表示肯定。这句话可以译成：“猫总能引起人们的极大兴趣”。
+* be based on, 在……基础之上。
+* have ... in common, 有……共同之处。
+* the further cats fall, the less they are likely to injure themselves, 猫跌落的距离越长，它们就越不会伤害自己。“the + 形容词或副词的比较级…… the + 形容词或副词的比较级”的结构常用来表示比较关系，往往可以译成“越……越……”。be likely to 是“很可能会”的意思。
+
+### 0310 The loss of the *Titanic* “泰坦尼克”号的沉没
+* sail for, 驶往……。
+* even by modern standard, 即使依照现代标准来衡量。by 作“依照”“按照”讲。
+* regarded as unsinkable, 被认为是不会沉没的。regard... as... 当“把……当作……”讲。
+* she went down on her first voyage with heavy loss of life, 她首航就下沉，造成大批人员死亡。go down 是“下沉”的意思。
+* narrowly missing, 勉强避开。
+* Below, the captian realized to his horror, 在下面，船长惊恐地发现。below 是个副词。
+
+### 0311 Not guilty 无罪
+* the Green Channel, 绿色通道，指海关专供没有携带征税物品进关的旅客所走的通道。
+* hidden in his suitcase 是过去分词短语作定语，修饰 watches，它相当于一个定语从句：which were hidden in his suitcase。
+* looking me in the eye, 直盯着我的眼睛，这是分词短语作状语，表示方式，修饰 asked。
+* The officer went through, 这里 go through 作“检查”讲。
+* in a dreadful mess (or in a mess), 乱七八糟，混乱透了。
+* I saw the Officer's face light up. 我看到那位官员的脸上露出了得意的神色。
+* You should have declared them. 你早该申报了。“should + 不定式的完成式”表示本该做而未做之事。
+* be exempt from 作“免除”“豁免”讲。

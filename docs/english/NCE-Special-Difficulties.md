@@ -978,3 +978,35 @@ We can add *dis-*, *in-*, *im-*, *un-*, *il-* or *ir-* to certain words to make 
 * She has a lot of *energy*. She's very *energetic*.
 * The clock strikes at intervals of an *hour*. It strikes at *hourly* interval.
 * You didn't take any *care* with this. You were completely *careless*.
+
+### 0308 The dogs are still sent out into the snow whatever a traveller is in difficulty
+请记住，ever 有时可同 who, what, when, where 等一起构成代词或者连词，用来加强句子（特别是疑问句）的语气。
+* He did what I asked him to do.
+  * He did whatever I asked him to do.
+* Who told you that?
+  * Whoever told you that?
+* I'll tell you when you make a mistake.
+  * I'll tell you whenever you make a mistake.
+* Where has he gone?
+  * Wherever has he gone?
+
+### 0309 ... New York is the ideal place for such an interesting study 形容词的位置
+* This study of cats is *so* interesting.
+  * It's *such* an interesting study.
+* These studies of cats are *so* interesting.
+  * They're *such* interesting studies.
+* They found it *so* difficult to study the behaviour of cats.
+  * They had *such* difficulty studying the behaviour of cats.
+
+### 0310 Word Building 构词法
+在动词后面加上后缀 -er, -ist, -ness, -ion 或 -ity 往往可以组成名词。
+* He works hard.
+  * He is a hard worker.
+* He plays the violin.
+  * He is a violinist.
+* He is very careless.
+  * I have never seen such carelessness.
+* Can you explain this?
+  * Can you give me an explanation?
+* He has a responsible position.
+  * He has a lot of responsibility.
