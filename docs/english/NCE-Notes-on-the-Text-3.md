@@ -76,3 +76,18 @@
 * I saw the Officer's face light up. 我看到那位官员的脸上露出了得意的神色。
 * You should have declared them. 你早该申报了。“should + 不定式的完成式”表示本该做而未做之事。
 * be exempt from 作“免除”“豁免”讲。
+
+### 0312 Life on a desert island 荒岛生活
+* imagine ... to be ..., 作“想象……是……”、“设想……是……”讲。不定式 to be 引导的短语作宾语补足语。
+* quite the opposite, 完全相反，截然不同。
+* starve to death, 饿死。
+* ... wished they had stayed there longer. ……还真希望在那里多呆些日子。wish 引导的宾语从句常用虚拟语气。
+* as one of them put it, 正如其中一位所说的。
+
+### 0313 'It's only me' “是我，别怕”
+* would be going, 是过去将来进行时，用来表示过去预计将要发生的动作。
+* fancy-dress party, 化妆舞会。
+* dress up as, 化装成……。
+* try it on, it 指 costume, try on 是“试穿”“试戴”。
+* just as..., 正当……的时候。
+* She had told him to come straight in if ever she failed to open the door 

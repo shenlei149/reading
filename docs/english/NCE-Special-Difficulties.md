@@ -1010,3 +1010,22 @@ We can add *dis-*, *in-*, *im-*, *un-*, *il-* or *ir-* to certain words to make 
   * Can you give me an explanation?
 * He has a responsible position.
   * He has a lot of responsibility.
+
+### 0311 Capital letters 大写字母
+Now how capital letters have been used in these sentences:
+* The train came into the station. It arrived at five o'clock.
+* George lives in Canada. He is Canadian. He is not an American.
+* I'll see you on Tuesday, January 14th.
+* Have you read *Great Expectations*?
+
+### 0312 Wish and If only
+在英语中，表示愿望可用动词 wish 或短语 if only。其中 wish 常指尚有可能发生的事情，而 if only 则强调所希望的状况并不存在。在 wish 和 if only 后面，要用过去时表示现在，用过去完成时表示过去。
+* They wished they had stayed there longer.
+* I wish you would do as you are told.
+* If only the weather would change.
+* I wish she could see me now.
+* I wish I had more time to spare.
+* If only you would try a little harder!
+* I wish I hadn't said anything about it.
+* If only we could have gone to the party!
+* I wish you hadn't spent so much money.
