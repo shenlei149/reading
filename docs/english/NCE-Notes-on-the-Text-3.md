@@ -90,4 +90,28 @@
 * dress up as, 化装成……。
 * try it on, it 指 costume, try on 是“试穿”“试戴”。
 * just as..., 正当……的时候。
-* She had told him to come straight in if ever she failed to open the door 
+* She had told him to come straight in if ever she failed to open the door to leave the bread on the kitchen table. 她曾告诉过他，如果她没去开门，他可以直接进来，把面包放在厨房的桌子上。if ever 在条件句中表示强调，可译作“任何时候”。to come straight in 指“直接进来”。
+
+### 0314 A noble gangster 贵族歹徒
+* in return for..., 作“作为……的报答”讲。
+* out of business, 倒闭，破产。
+* as long ago as, 作“追溯到”、“早在”讲。注意要与 as long as 区分开，后面这个短语作“只要”或“长达……之久”讲。
+* people would rather pay large sums of money than have their life work destroyed by gangsters, 人们情愿支付一大笔钱，也不愿自己毕生的心血毁于歹徒之手。
+* made a name for himself, 出名了。
+* be at war with..., 与……处于战争状态。
+* in times of peace, 在和平时期。
+* a sort of hero, 某种英雄。sort of 作“可以说是一种”讲。
+
+### 0315 Fifty pence worth of trouble 五十便士的麻烦
+* with some children, 介词 with 此处作“对于”讲。
+* go a long way, 可以维持很久。
+* If fifty pence pieces are not exchanged for sweets, 如果 50 便士的硬币没有用来换糖果的话。exchange... for... 作“以……换……”讲，注意英语中的便士有两种复数形式 pence 和 pennies，但用法不同。如：a fifty pence 是指 1 个 50 便士的硬币，而 fifty pennies 是指 50 个 1 便士的硬币。
+* have found their way there, 其中 there 是指储蓄罐。find one's way 在这里作“进入”讲，即“放到（储蓄罐）里”。
+* what is more, 更有甚者。是固定词组，此处用作插入语。
+
+### 0316 Mary had a little lamb 玛丽有一头小羔羊
+* it would not prove difficult, 是不难做到的。prove 是连系动词，作“证明是”讲，本句子与 it would not be difficult 相同。
+* accuse sb. of (doing) sth. 作“指责、指控某人做某事”解。
+* he had better return it, 他最好把羔羊还给迪米特里。had better 用来表达一种建议，建议在将来某一具体场合采取的动作。这个短语比 should 和 ought to 的语气更强烈，常带有威胁、告诫或催促的意思。
+* denied taking it..., deny 后面可接动名词作宾语，也可接宾语从句。
+* apologize to sb. for (doing) sth., 是“因（做）某事向某人道歉”的意思。

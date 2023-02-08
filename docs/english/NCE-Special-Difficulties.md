@@ -1029,3 +1029,26 @@ Now how capital letters have been used in these sentences:
 * I wish I hadn't said anything about it.
 * If only we could have gone to the party!
 * I wish you hadn't spent so much money.
+
+### 0313 It would be comfortable to wear. 形容词+动词不定式
+Instead of saying: I was sorry *when I learnt* that he had had an accident.  
+We can say: I was sorry *to learn* that he had had an accident.
+* He was *delighted to learn* that his offer had been accepted.
+* I was *glad to hear* that he had arrived.
+* I was *pleased to hear* that you now feel better.
+* He was *anxious to leave* early.
+
+### 0314 People would rather pay large sums of money than...
+
+| Instead of saying | We can say |
+|--|--|
+| I prefer to wait here. | I would rather wait here. <br> I would sooner wait here. |
+| I prefer not to wait here. | I would rather not wait here <br> I would sooner not wait here. |
+| It would be better if he waited here. | I'd rather *he waited* here. |
+| It would be better if he didn't wait here. | I'd rather *he didn't wait* here. |
+
+### 0315 Only very thrifty children manage to fill up a money box. up 的用法
+* We *drove up* to the farmhouse.
+* The children *ran up* the garden path to greet their father.
+* I didn't like my composition so I *tore* it *up*.
+* He has *built up* a large collection of stamps.
