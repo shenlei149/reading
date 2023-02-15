@@ -1052,3 +1052,14 @@ We can say: I was sorry *to learn* that he had had an accident.
 * The children *ran up* the garden path to greet their father.
 * I didn't like my composition so I *tore* it *up*.
 * He has *built up* a large collection of stamps.
+
+### 0316 He had better return it.
+
+| Instead of saying | We can say |
+|--|--|
+| It would be advisable for you to leave now. | You had better leave now. |
+| It would not be advisable for you to telephone him. | You had better not telephone him. |
+
+### 0317 He is by no means considered to be a great explorer. 动词不定式
+* Instead of saying: I find that he is quite unsuitable for you.
+* We can say: I find him to be quite unsuitable for you.

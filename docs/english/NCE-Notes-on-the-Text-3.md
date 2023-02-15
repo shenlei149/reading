@@ -115,3 +115,14 @@
 * he had better return it, 他最好把羔羊还给迪米特里。had better 用来表达一种建议，建议在将来某一具体场合采取的动作。这个短语比 should 和 ought to 的语气更强烈，常带有威胁、告诫或催促的意思。
 * denied taking it..., deny 后面可接动名词作宾语，也可接宾语从句。
 * apologize to sb. for (doing) sth., 是“因（做）某事向某人道歉”的意思。
+
+### 0317 The longest suspension bridge in the world 世界上最长的吊桥
+* describe... as... 作“把……描绘成”、“认为……”讲。
+* located within two small hills in the midst of which flowed a great river, 位于两座小山之间，一条大河涛涛流过。located... 是过去分词短语作定语，修饰 situation；in the midst of which 引导一个定语从句，which 指 two small hills。in the midst of, 在……之中。
+* by no means, 无论如何，绝不。
+* be named after sb., 以某人的名字命名。
+* be taken into account, 被考虑到。
+* It has been estimated..., 据估计，……。
+* be packed with... 作“挤满……”、“装满……”解。
+
+### 0318 Electric currents in modern art 现代艺术中的电流
