@@ -126,3 +126,29 @@
 * be packed with... 作“挤满……”、“装满……”解。
 
 ### 0318 Electric currents in modern art 现代艺术中的电流
+* The idea that ... is mistaken. 此处 that 引导的从句作 idea 的同位语。
+* take no interest in ..., 作“对……不感兴趣”解。
+* cannot have failed to notice, 不至于没注意到。“cannot + have + 过去分词”表示对过去的事所作的不肯定的推测。
+* move in response to a gust of wind, 随风飘荡。in response (to) 作“回答”、“响应”、“作出反应”讲。此处是“（展品）随风而动”的意思。
+* be familiar to ... 是“为……所熟悉”的意思。
+* Lined up against the wall, 靠墙排列着。
+* like traffic lights which have gone mad, 就像失去控制的红绿灯一样。go mad 作“发疯”、“发狂”讲。
+* on and off (off and on) 作“断断续续地”、“有时”讲。
+* These peculiar forms not only seemed designed ..., 其中 seemed 是系动词，seemed designed 作用与 were designed 是一样的。
+
+### 0319 A very dear cat 一只贵重的宝贝猫
+* share ... with ..., 作“与……分享、合用……”解。
+* be in safe hands, 在可靠的人那里。
+* she changed her mind, 她改变了主意。
+* keep one's word, 遵守诺言。
+* sure enough, 无疑，果然。
+* Considering ... he was dear in more ways that one! considering ... 是介词短语，作“考虑到……”、“就……而言”解，此处作原因状语。dear 不仅作为“可爱”讲，还可作“昂贵”讲。此处有一语双关之意。in more ways than one (way) 作“在更多方面”解。
+
+### 0320 Pioneer pilots 飞行员的先驱
+* the English Channel, 英吉利海峡。大西洋延伸的部分，长约 350 英里（约 560 公里），讲英法两国的领土分开。
+* Over a year passed before the first attempt was made. 一年多时间之后，才有人进行了第一次尝试。
+* pick up 此处作“（从海里）救起”解。
+* did not give up easily, 不轻易作罢。give up 作“放弃”讲。
+* It looked as if there would be an exciting race across the Channel. 看起来似乎有一场精彩的飞越英吉利海峡的比赛。as if 引导的从句作起系动词作用的 look 的表语，其中谓语动词 would be 表示与未来的事实不相符的虚拟结构。
+* got within half a mile of Dover, 到了离多佛不到半英里的地方。
+* Dover, 多佛港，是英吉利海峡的一个港口，对面是法国港口加来。多佛与加来相距 21 英里（34 公里），是英吉利海峡最窄的部分。

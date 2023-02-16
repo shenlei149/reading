@@ -1063,3 +1063,17 @@ We can say: I was sorry *to learn* that he had had an accident.
 ### 0317 He is by no means considered to be a great explorer. 动词不定式
 * Instead of saying: I find that he is quite unsuitable for you.
 * We can say: I find him to be quite unsuitable for you.
+
+### 0318 Spelling
+Note the spelling of the words in italics.
+* I'll *pay* the bill. He never *pays* his bills.
+* He owns a *donkey*. I own two *donkeys*.
+* You'll wake up the *baby*. *Babies* often cry.
+* Will he *try* again? He never *tries* very hard.
+
+### 0319 The comma. 逗号的用法
+* After we had visited the market, we returned home.
+* Mr. Griffiths, the Prime Minister, said that his party would would win the next election.
+* I bought pens, pencils and paper.
+* It was raining heavily and I was sure no one would be at the race course. There were, however, hundreds of people there.
+* The small boat, which took eleven weeks to cross the Allantic, arrived at Plymouth yesterday.
