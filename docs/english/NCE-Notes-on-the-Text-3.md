@@ -152,3 +152,28 @@
 * It looked as if there would be an exciting race across the Channel. 看起来似乎有一场精彩的飞越英吉利海峡的比赛。as if 引导的从句作起系动词作用的 look 的表语，其中谓语动词 would be 表示与未来的事实不相符的虚拟结构。
 * got within half a mile of Dover, 到了离多佛不到半英里的地方。
 * Dover, 多佛港，是英吉利海峡的一个港口，对面是法国港口加来。多佛与加来相距 21 英里（34 公里），是英吉利海峡最窄的部分。
+
+### 0321 Daniel Mendoza 丹尼尔•门多萨
+* they were known as 'prizefighters'，他们被称作“职业拳击手”。be known as ..., 被称作……。
+* until 1860, when the Marquis of Queensberry drew up the first set of rules 中，以 when 引导的从句是定语从句，修饰前面的年代 1860 年。draw up 是“制定”、“草拟”的意思。a set of, 一套。Marquise of Queensberry, 昆斯伯里侯爵，是指第 8 位昆斯伯里侯爵约翰•修托•道格拉斯（1844-1900），苏格兰贵族。他制定的“昆斯伯里规则”至今仍是拳击比赛规则。
+* change ... into ..., 把……变成……；bring ... to ..., 把……引入……。
+* in his day, 在他的全盛时期。day 此处指“幸运或顺利的时期”。
+* He was adored by rich and poor alike. 人们不论贫富都很崇拜他。rich and poor 是固定词组，意为“富人和穷人”。有的形容词可用作名词，但前面要加 the。
+* rise of fame, 成名。
+* Humphries turned against him, 汉弗莱斯与他反目成仇。
+* at Stilton, where both men fought for an hour 中，以 where 引导的从句作 Stilton 的定语。
+* bet on ..., 在……上押（赌金）。
+* It was not until his third match in 1790 that he finally beat Humphries ... 这是一个 it 引导的强调句。被强调的部分 not until his third match in 1790 放在 It was 之后，句子的其他部分放在引导词 that 之后。
+* be in debt, 负债。
+
+### 0322 By heart 熟记台词
+* on end, 连续不断地。
+* in many ways, 在许多方面。
+* go on repeating, 继续重复。go on 加上现在分词是“继续干”的意思。
+* Yet this it not always the case. 然而情况并非总是如此。
+* in the role of ..., 充当……角色。
+* Bastille, 巴士底狱。曾是法国巴黎的监狱。1369 年始建时是一个要塞，1789 年被巴黎市民攻克并捣毁。
+* insisted that it should be written out in full, insist 后面所接的宾语从句，常用虚拟语气“should + 动词原形”，而 should 又经常可以省略。
+* play a joke on, 拿……开玩笑。
+* sire 是古代仆人对国王的一种尊称，现在仅用于故事和剧本。
+* Much to the aristocrat's amusement, 使贵族感到非常可笑的是……。much 作为副词，此处修饰其后的介词短语 to the aristocrat's amussement。much to + sb.'s sth. 是一个常见的状语短语，有“给人带来很大的……”意思。

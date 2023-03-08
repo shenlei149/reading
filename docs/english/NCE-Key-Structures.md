@@ -1229,3 +1229,16 @@ Study these uses of *have*
   * reluctant (or to) 勉强的
   * right (or in) 在……正确
   * uneasy 对……感到不安
+
+### 0401
+* Compare these two sentences:
+  * The only way that they can preserve their history is to recount it as sagas - *legends which have been handed down* from one generation of storytellers to another.
+  * The only way that they can preserve their history is to recount it as sagas - *legends handed down* from one generation of storytellers to another.
+* Note the use of *where ... from* in this sentence.
+  * Anthropologists wondered *where* the remote ancestors of the Polynesian peoples came *from*.
+* Compare these two sentences:
+  * So archaeologists have neither history nor legend to *help them to find out* where the first 'mordern men' came from.
+  * So archaeologists have neither history nor legend to *help them find out* where the first 'mordern men' came from.
+* Compare these two sentences:
+  * *It is possible that they used* wood and skins, but these have rotted away.
+  * *They may have used* wood and skins, but these have rotted away.

@@ -1077,3 +1077,8 @@ Note the spelling of the words in italics.
 * I bought pens, pencils and paper.
 * It was raining heavily and I was sure no one would be at the race course. There were, however, hundreds of people there.
 * The small boat, which took eleven weeks to cross the Allantic, arrived at Plymouth yesterday.
+
+### 0401
+* parts, places
+  * Ancient rock paintings have been found in many *parts* of Spain and Portugal.
+  * Of all the wonderful *places* in Italy, Florence and Venice are the two that most tourists wish to see.
