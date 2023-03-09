@@ -1082,3 +1082,33 @@ Note the spelling of the words in italics.
 * parts, places
   * Ancient rock paintings have been found in many *parts* of Spain and Portugal.
   * Of all the wonderful *places* in Italy, Florence and Venice are the two that most tourists wish to see.
+* history, story
+  * We often know little about the history of our own times.
+  * Climb into bed and I'll read you a bedtime story.
+  * (a story is an account, often fictional, of what happened in someones's experience; history is a factual account of past public or universal events.)
+* wonder, wander
+  * I wonder if we've made a mistake here.
+  * I love wandering around second-hand bookshops.
+* like, as
+  * There's no one like you.
+  * Please do as I say.
+* find out, find
+  * What we have to do now is find out why the accident happened.
+  * I'm sure I've already paid this bill, but I can't find the receipt.
+* ancient, old
+  * Property developers often have little regard for ancient/old buildings. (old in terms of time; ancient = old in terms of history)
+  * World leaders are often old men.
+  * Mr. Briggs is an old friend of mine. (= one I hav known for a long time.)
+* tool, instrument
+  * We need some basic tools like a hammer and screwdriver.
+  * A dentist's instruments need to be constantly sterilized.
+* stone, rock
+  * The old church is full of beautiful stone sculptures.
+  * Rocks had fallen from above, making the roads impassable.
+* skin, leather
+  * I've such a bad skin, I'm always coming out in spots.
+  * Shoes made of real leather have become so expensive.
+* the use of *happen*.
+  * We can read of things that *happened* 5,000 years ago ...
+  * He *happened* to be an archaeologist.
+  * It *happened* that he knew the answer.
