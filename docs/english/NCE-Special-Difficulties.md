@@ -1112,3 +1112,27 @@ Note the spelling of the words in italics.
   * We can read of things that *happened* 5,000 years ago ...
   * He *happened* to be an archaeologist.
   * It *happened* that he knew the answer.
+
+### 0402
+* all ... together, altogether
+  * Let's sing it again. All together now!
+  * As far as I am cooncerned, Frank's proposal is altogether nonsensical.
+* other, else
+  * One of these blouses has buttons; the other hasn't.
+  * We need one more helper. Can you find anyone else?
+* the least, the last
+  * He passed all his exams without seeming to make even the least effort.
+  * She wouldn't marry him even if he was the last man on the planet.
+* harm, hurt
+  * Fertilizers have done a lot of harm to the soil. The bad effects will last a long time.
+  * I banged my arm against the door and hurt my self. My arm still hurts. It's very painful.
+* glance, glimpse
+  * Would you mind having a glance at my essay before I hand it in?
+  * I caught a glimpse of him as he walked past my window.
+* work, job
+  * I'm looking for work as a journalist.
+  * Have you been doing all this work on your own?
+  * I'd like a job in TV. Are there any jobs in TV?
+* estimated, calculated
+  * I estimate there must be at least eight hundred names on the list.
+  * We've calculated the cost of a new office and it's more than we can afford.

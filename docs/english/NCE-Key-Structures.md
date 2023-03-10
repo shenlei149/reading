@@ -1242,3 +1242,27 @@ Study these uses of *have*
 * Compare these two sentences:
   * *It is possible that they used* wood and skins, but these have rotted away.
   * *They may have used* wood and skins, but these have rotted away.
+
+### 0402
+* Compare these two sentences:
+  * *I wonder why* spiders are our friends.
+  * *Why, you may wonder, should spiders be* our friends?
+* Note the form of the verb *be* in this sentence:
+  * They would devour all our crops if it *were* not for the protection we get from insect-eating animals.
+
+### 0403
+* Study the form of these sentences:
+  * *The more difficult* it is, *the more highly* it is regarded.
+  * *The quicker* you work, *the sooner* you will finish.
+* Note the position of the word *often* in these sentences:
+  * They *often* faced difficulties and dangers.
+  * The food (was) simply local cheese accompanied by bread (which was) *often* twelve months old.
+  * *Often* a valley boasted no inn at all.
+* Compare these two sentences:
+  * *It is hard for us to realize* ... how difficult it was ...
+  * *It is hard to realize* how difficult it was.
+* Note the use of *such* in these two sentences:
+  * They did not go out of their way to court *such* excitement.
+  * *Such* inns as there were were generally dirty.
+* Note the form of the verb in italics:
+  * For men accustomed to *eating* seven-course dinners ...

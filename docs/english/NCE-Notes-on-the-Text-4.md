@@ -3,4 +3,15 @@
 * the first people, 原始人。
 * when even the bones of the men who made them have disappeared without trace, 这个以 when 引导的状语从句表示让步的意思，而 when 可以译成“虽然”，“尽管”。
 
-### 0402 Spare that spider
+### 0402 Spare that spider 不要伤害蜘蛛
+* you may wonder 是这个疑问句的插入语。
+* if it were not for the protection we get from insect-eating animals, 这是一个非真实条件从句，were 表示虚拟语气。
+* almost at a glance, 几乎一眼（就能看出）。
+
+### 0403 Matterhorn man 马特山区人
+* in the pioneerin days, 在初创时期，这里指登山运动的初创期。
+* equipped in a manner which would make a modern climber shudder at the thought, 他们的装备如此简陋，足以使现代登山者一想起来就胆战心惊。at the thought, 一想到（他们的装备），英文中省略了 of te manner。
+* go out of one's way, 特地，不怕麻烦。
+* cut off ... from ..., 把……与……隔绝。
+* such inns as there were, 那里有的小客栈，as there were 用来修饰 inns，作定语。
+* the food simply local cheese, 在 food 后面省略了 was。
