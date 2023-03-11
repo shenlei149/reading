@@ -1266,3 +1266,11 @@ Study these uses of *have*
   * *Such* inns as there were were generally dirty.
 * Note the form of the verb in italics:
   * For men accustomed to *eating* seven-course dinners ...
+
+### 0404
+* Compare the word order in these two sentences:
+  * *Why did he keep* so many old newspapers locked away there?
+  * She asked her father *why he kept* so many old newpapers locked away there.
+* Compare these two sentences:
+  * Instead of saying: She *was able to describe* the colours and figures printed on it.
+  * We can say: She *succeeded in describing* the colours and figures printed on it.

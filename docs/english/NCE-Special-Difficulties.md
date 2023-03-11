@@ -1136,3 +1136,57 @@ Note the spelling of the words in italics.
 * estimated, calculated
   * I estimate there must be at least eight hundred names on the list.
   * We've calculated the cost of a new office and it's more than we can afford.
+
+### 0403
+* case, situation
+  * Do you know the date of the last recorded case of smallpox?
+  * The waiter brought me the bill and I didn't have enough money. I'd never been in such a situation before.
+* especially, specially
+  * I think you'll find this article especially interesting.
+  * I've had this area specially designed as a herb garden.
+* realize, understand
+  * I hope you realize that you're making a big mistake.
+  * I don't think I understand the meaning of the sentence.
+* except for, except
+  * Except for one old lady, the bus was empty.
+  * You can have any of the cakes except this one.
+* coarse, course
+  * He wore an old jacket made of coarse cloth.
+  * In a French household, soup is generally the first course of the main meal of the day.
+* home, house
+  * When I'm abroad, my thoughts are never far from home.
+  * They live in a large house.
+* Explain the meaning of the phrases in italics:
+  * They did not go *out of their way* to court such excitement. 特意去做
+  * Please ask him to get *out of the way*; I can't get past. 让开，让路，不挡道
+  * We bought a beautiful *out-of-the-way* cottage, miles from anywhere. 偏僻的
+  * Please move that table. Can't you see it's *in the way*? 在路上，当道
+  * I'll call in and see you *on my way* home from work. 在路上，前往……的路上
+  * We must do this exercise *in the way* we have been taught. 按照……的方式
+
+### 0404
+* normal, ordinary
+  * I'm not looking for anything fancy, just a normal kettle.
+  * I'm just an ordinary person.
+* skin, complexion
+  * I got so sunburnt that my skin is peeling.
+  * Drinking a lot of water is good for the complexion.
+* noticed, remarked
+  * I've noticed that there are more butterflies this year.
+  * 'You're looking very well!' she remarked.
+* office, study
+  * Reuters is a big news agency with offices all over the world.
+  * I'll have a bigger study in my new apartment.
+* game, toy
+  * Let's play a game of hide-and-seek.
+  * Alice got a new toy for her birthday.
+* lack, need
+  * His real problem is that he lacks confidence.
+  * We need an hour to get to the airport.
+* wet, damp
+  * Don't sit on that bench. The paint is still wet.
+  * You shouldn't were that shirt if it's still damp.
+* Explain the expression in italics:
+  * The newspapers were *done up* in bundles. 捆，包。
+  * It's too late to save him now. He's *done for*. 即将送命，to be about to die or suffer very much because of a serious difficulty or danger
+  * She'll never go back to her husband. She's *done with* him for good. have done with, to end relations with
