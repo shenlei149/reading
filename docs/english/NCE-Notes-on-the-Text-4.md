@@ -24,3 +24,12 @@
 * bring ... to the notice of, 引起某人注意。
 * except when blindfold, 其中 when 之后省略了 she was。
 * the moment her hands were wet, 这是一个时间状语从句，the moment 有“一……就……”的意思。
+
+### 0405 Youth 青年
+* which I take leave to doubt, 这是一个插入成分，用两个破折号与句子的主要部分分开。take leave to do sth. 是“擅自做”、“冒昧去做”的意思。
+* get down to, 认真处理，认真研究。
+* ... that is where the rub is. There's rub. = That's the problem. 这就是问题所在。
+* for one thing, 首先。
+* air of freedom, 无拘无束。
+* in some sence, 在某种意义上。
+* turn to ... for ..., 为……而求助于……。

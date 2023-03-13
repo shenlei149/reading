@@ -1189,4 +1189,16 @@ Note the spelling of the words in italics.
 * Explain the expression in italics:
   * The newspapers were *done up* in bundles. 捆，包。
   * It's too late to save him now. He's *done for*. 即将送命，to be about to die or suffer very much because of a serious difficulty or danger
-  * She'll never go back to her husband. She's *done with* him for good. have done with, to end relations with
+  * She'll never go back to her husband. She's *done with* him for good. 断绝关系，have done with, to end relations with
+  * This room looks lovely now that we've *done it up*. 装饰，to repair or decorate a building so that it looks attractive
+  * I wouldn't trust him if I were you. He once *did me out of* a lot of money. 骗走了
+* Explain the word *figure* in these sentences:
+  * By moving her elbow over a child's game of Lotto she was able to describe the *figures* and colours printed on it. 数字
+  * I could make out the *figure* of a man on the bridge. 人影
+  * She has such a beautiful *figure*, she could make a living as a model, I'm sure. 身材
+* Explain the expressions with *make* in these sentences:
+  * She was able to *make out* with her foot the outlines and colours of a picture. 识别出
+  * The thief *made off* with quite a lot of money. 逃走
+  * He's a strange fellow. I just can't *make him out*. 理解他 to see, hear, or understand something or someone with difficulty
+  * Before he died, he *made over* all his money to his wife. 转移， legally transfer the ownership of it to them.
+  * Are you any good at *making up* stories for children? 编造

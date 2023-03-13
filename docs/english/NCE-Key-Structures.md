@@ -1274,3 +1274,10 @@ Study these uses of *have*
 * Compare these two sentences:
   * Instead of saying: She *was able to describe* the colours and figures printed on it.
   * We can say: She *succeeded in describing* the colours and figures printed on it.
+
+### 0405
+* Compare these two sentences:
+  * People *are always talking* about 'the problem of youth'.
+  * Whenever I meet him, he *always talks* about his personal problems.
+  > The first sentence dscribes something that happens *all the time*; the second sentence describes something that happens *frequently*.
+* Compare these two sentences:
