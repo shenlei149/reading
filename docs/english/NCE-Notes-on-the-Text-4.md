@@ -33,3 +33,11 @@
 * air of freedom, 无拘无束。
 * in some sence, 在某种意义上。
 * turn to ... for ..., 为……而求助于……。
+
+### 0406 The sporting spirit 体育的精神
+* if only the common peoples of the world ..., 这里 if only 引导的一个非真实条件句，if only 作“要是……就好了”讲。
+* have no inclination to do, 无意做……，不想做……。
+* deduce ... from ..., 从……推断出……。
+* You play to win. 句中的 you 是泛指人，可译作“人们”。
+* pick up, 随意挑选。
+* and, behind the spectators, of the nations, 在 of the nations 前面省略了 the attitude。

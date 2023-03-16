@@ -1202,3 +1202,84 @@ Note the spelling of the words in italics.
   * He's a strange fellow. I just can't *make him out*. 理解他 to see, hear, or understand something or someone with difficulty
   * Before he died, he *made over* all his money to his wife. 转移， legally transfer the ownership of it to them.
   * Are you any good at *making up* stories for children? 编造
+
+### 0405
+* older, elder
+  * I know both buildings are very old, but which one is older?
+  * My elder brother is a doctor.
+* agree, accept
+  * They invited me to their wedding and I've agreed to go. (*agree to do* something)
+  * She offered me some clothes her children had grown out of and I accepted them. (*accept* + object = take what is offered)
+  * But *agree* and *accept* are interchangeable in the text, as in these sentences:
+  * I don't agree with your opinion/accept your opinion of the youth of this country. I agree/I accept that this is a difficult matter.
+* between, among
+  * It's hard to choose between these two pictures. I like them both.
+  * There are quite a few talented artists among the people I know.
+* please, beg
+  * It pleases me to say you've got the job.
+  * I begged the traffic-cop not to book me for speeding and he just laughed.
+* regard, look at
+  * I don't regard a degree as a meal ticket for life.
+  * Just look at those children picking for life.
+* interesting, interested
+  * I found his talk very interesting.
+  * I got interested in stamp collecting when I was a child.
+* exciting, excited
+  * There are soem exciting items in the current fashion show.
+  * We got excited when we thought we had won the lottery.
+* reason, cause
+  * What was the reason for the delay?
+  * The doctor recorded the cause of death as heart failure.
+* Explain these expressions with *get*:
+  * Let us *get down to* fundamentals. 开始认真对待
+  * The children are very quiet. I wonder what they're *getting up to*. 做
+  * I can't see how we can *get round* this difficulty. 绕过，避开
+  * I've been abroad three times this year. I *get about* quite a bit. 各处旅行，to travel to a lot of places
+  * Hasn't she *got over* her illness yet? 从（疾病）中恢复过来
+  * Don't think you'll *get off* so lightly if you're caught. 离开，脱身
+  * It's your turn to do the washing up and it's no use your trying to *get out of* it. 逃避，摆脱
+* Note the phrase in italics:
+  * He may be *ill-mannered*. 无礼的
+
+### 0406
+* hear, listen
+  * The walls of this house are too thin, you can hear the neighbours cought next door.
+  * I often listen to music.
+* even, still
+  * Mr. Wilks is not only working at the age of 95; he's even running a company.
+  * Though he's 95, Mr. Wilks still plays bowls.
+* lead, guide
+  * Walking just in front, and pausing to check everyone was following, the young man led them to the market place. (He went in front)
+  * The doorman drew a quick sketch map to guide us through the narrow streets. (to show the way)
+* principle, principal
+  * A good principle is not to borrow money you can't repay.
+  * He has just been appointed principal of the college.
+* practise, practice
+  * I practise lifting every day.
+  * Your tennis will improve with practice.
+  * However, in American English, both the noun and the verb are spelt *practice*.
+* win, beat
+  * Tottenham won the Cup Final.
+  * Tottenham beat Liverpool in the Cup Final.
+* lose, loose
+  * Try not to lose your ticket.
+  * The handle on this suitcase is very loose.
+* arise, arouse
+  * A serious problem has arisen which will take time to solve.
+  * His behaviour was arousing the inerest of his neighbours.
+* level, flat
+  * Inflation had dropped to its lowest level in five years.
+  * It is much easier to walk on the flat.
+* Explain the meaning of the word *peoples* in this sentence:
+  * If only the common *peoples* of the world could meet. 各国民众
+* Compare these two expressions:
+  * Instead of saying: The Olympic Games that were held in 1936 ...
+  * We can say: The 1936 Olympic Games ...
+* Comapre these two sentences:
+  * *One* could deduce it from general principles.
+  * *You* play to win, and the game has little meaning unless opportunities *you* do your utmost to win.
+* Explain the words and phrases in italics:
+  * It is possible to play simply *for the fun* and exercise. 为了好玩，乐趣
+  * There was a lot of *fun* and laughter at the party. 嬉戏，乐趣
+  * He didn't mean any harm; it was all *in good fun*. 很有趣
+  * He's upset because everyone *made fun of* him. 取笑

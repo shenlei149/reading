@@ -1281,3 +1281,23 @@ Study these uses of *have*
   * Whenever I meet him, he *always talks* about his personal problems.
   > The first sentence dscribes something that happens *all the time*; the second sentence describes something that happens *frequently*.
 * Compare these two sentences:
+  * It is older peoplle who create it,not *the young* themselves.
+  * There is only one difference between an old man and *a young one*.
+* Compare these two sentences:
+  * Instead of saying: I would have been very pleased *if anyone regarded me* as a problem.
+  * We can say: I would have been very pleased *to be regarded* as a problm.
+* Compare these two sentences:
+  * Instead of saying: *To be* a problem gives you a certain identity.
+  * We can say: *Being* a problem gives you a certain identity.
+* Compare these two sentences:
+  * Instead of saying: They have *no* devotion to material things.
+  * We can say: They *haven't any* devotion to material things.
+
+### 0406
+* Study the form of the verbs after *if* in these sentences:
+  * *If only* the common peoples of the world *could meet* one another at football or cricket, they *would have* no inclination to meet on the battlefield.
+  * *If one didn't know* from concrete examples that international sporting contests lead to orgies of hatred, one *could deduce* it from general principles.
+  * Some larger unit *will be disgraced if you lose*.
+* Note carefully the form of the varbs after the phrase *as soon as* in this sentence:
+  * *As soon as* the question of prestige *arise*, *as soon as* you *feel* that you and some larger unit will be disgraced, the most savage combative instincts *are aroused*.
+
