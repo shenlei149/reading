@@ -177,3 +177,33 @@
 * play a joke on, 拿……开玩笑。
 * sire 是古代仆人对国王的一种尊称，现在仅用于故事和剧本。
 * Much to the aristocrat's amusement, 使贵族感到非常可笑的是……。much 作为副词，此处修饰其后的介词短语 to the aristocrat's amussement。much to + sb.'s sth. 是一个常见的状语短语，有“给人带来很大的……”意思。
+
+### 0323 One man's meat is another man's poison 各有所爱
+* One man's meat is another man's poison. 这是英语的一句谚语，意思是“对一方有利的未必对另一方也有利”。有时可译作“各有所爱”，同时也有汉语俗语“萝卜青菜各有所爱”的意思。
+* would turn at the idea of ..., turn 此处作“恶心”、“作呕”解。at the idea of ... 是“想到……”的意思。
+* to be brought up, 养育，抚养。stick to 有“坚持”的意思。
+* Cooked in wine, snails ..., 用酒烹制的蜗牛……，这是过去分词短语作状语，表示条件。
+* I happened to be walking in the garden. 我碰巧在花园里散步。happen 后面加不定式表示“碰巧做……”。
+* take (or have) possession, 是“占有”、“拥有”的意思。
+
+### 0324 A skeleton in the cupboard “家丑”
+* A skeleton in the cupboard, 直译为“柜中骷髅”，此系一成语，作“家丑”解。
+* conceal sth. from sb. 作“对某人隐藏某事”解。
+* The reader's hair stands on end, 读者感到毛骨悚然。
+* to varying degrees, 在不同程度上。
+* stood in front of it petrified, 站在柜前惊呆了。stand 此处表示处于某种状态，起系动词的作用，后面常接形容词、介词短语或过去分词，表示主语处于某种状态中的特征，可视作表语。
+* the impression that it was about to leap out ..., that 引导的从句作 impression 的同位语。be about to do sth., 表示按照计划即将做的动作。
+
+### 0325 The *Cutty Sark* “卡蒂萨克”号
+* *Cutty Sark*, “卡蒂萨克”号，19 世纪一艘著名的帆船。现在这艘船在伦敦格林威治作为展品被保护了起来。在轮船时代以前，它是那时候最快的帆船。
+* both these ships, 这两艘船。也可写成 both of these ships 或 both ships。
+* The first of the two ships to reach Java ..., 两艘船中首先到达爪哇的……。不定式短语 to reach Java 此处做定语，修饰 first，中间被另一个修饰 first 的介词短语 of the two ships 所分开。
+* take the lead, 领先。lose one's lead, 失去领先地位。
+* There is no doubt that if she had not lost her rudder she would have won the race easily. 毫无疑问，如果中途没有失去舵，“卡蒂萨克”号肯定能在比赛中轻易夺冠。这是一个虚拟语气的句子，是对过去的一种假设。
+
+### 0326 Wanted: a large biscuit tin 收购大饼干筒
+* No one can avoid being influenced by advertisements. 没有人能避免受广告的影响。avoid 一词需接动名词作宾语，being influenced 是动名词一般式的被动语态。
+* Much as we may pride ourselves ..., 尽管我们可以自夸……，虽然我们可以为……感到自豪。这是一个让步状语从句，连词 much as 可以译成“虽然很……”。
+* get something for nothing, 免费得到
+* go wrong, 出差错，出毛病。
+* the response to this competition, 对这一竞赛的反响。
