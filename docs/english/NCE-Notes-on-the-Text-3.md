@@ -207,3 +207,27 @@
 * get something for nothing, 免费得到
 * go wrong, 出差错，出毛病。
 * the response to this competition, 对这一竞赛的反响。
+
+### 0327 Nothing to sell and nothing to buy 不卖也不买
+* in the light of, 依据，按照。
+* in terms of, 从……方面（说来），按照。
+* grudge paying 中，grudge 作“吝惜”、“不愿”解，后面要接名词或动名词。这句话中的 this service 指上文 to save our lives。
+* The conditions of society are such that ... such 此处为代词，作“这样”解。that 所引导的从句，可视为同位语从句。
+* be free from ..., 作“不受……的影响”解，后面常接 pain（痛苦），trouble（苦恼），danger（危险）一类的词语。
+* By having to sleep in the open, 由于不得不在露天过夜，这一介词短语作原因状语。
+* in times of real need, 确实需要的时候。
+* put them in the same class as beggars, 把他们归为乞丐一类。the same ... as ..., 像……一样。
+
+### 0328 Five pounds too dear 五镑也太贵
+* I had no sooner go off the ship that I was assailed ..., 我刚刚一下船就被……人纠缠住了。no sooner ... that ... 作“刚……就……”将。
+* go to great lengths to do sth., 竭力做某事。
+* get rid of, 摆脱。
+* as a special favour, 作为一种特殊的优惠。
+* throw up his arms in despair, 绝望地举起双手。
+
+### 0329 Funny or not? 是否可笑？
+* whether we find a joke funny or not, 这是一个名词性的从句，在句子中作主语。
+* be bound up with, 与……联系在一起。
+* you would find it difficult not to laugh at, say, Charlie Chaplin's earyly films. 比如说，你看了查理•卓别林的早期电影很难不发笑。句中的 say 是插入语，可译作“比如说”。查理•卓别林是电影史上最有名的演员之一。他在诸如《淘金记》（1924）这类电影中扮演的流浪汉“小人物”在各种不利的条件下仍获得了成功。
+* stem from, 起源于。
+* come into fashion, 开始流行，时兴起来。
