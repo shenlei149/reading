@@ -1301,3 +1301,10 @@ Study these uses of *have*
 * Note carefully the form of the varbs after the phrase *as soon as* in this sentence:
   * *As soon as* the question of prestige *arise*, *as soon as* you *feel* that you and some larger unit will be disgraced, the most savage combative instincts *are aroused*.
 
+### 0407
+* Compare these two sentences:
+  * Instead of saying: *If we wish to get* a full appreciation of what this means we must turn first to some recent human inventions.
+  * We can say: *To get* a full appreciation of what this mean we must turn first to some recent human inventions.
+* Study the form of the verbs in italics in these sentences:
+  * A sound made by *tapping* on the hull of a ship will be reflected from the sea bottom, and by *measuring* the time interval between the taps and the receipt of the echoes, the depth of the sea at that point can be calculated.
+

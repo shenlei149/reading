@@ -1283,3 +1283,23 @@ Note the spelling of the words in italics.
   * There was a lot of *fun* and laughter at the party. 嬉戏，乐趣
   * He didn't mean any harm; it was all *in good fun*. 很有趣
   * He's upset because everyone *made fun of* him. 取笑
+
+### 0407
+* sound, echo
+  * Don't make a sound, any of you!
+  * The echo of the gunfire died away, and the valley was quite again.
+* discovery, invention
+  * The discovery of oil in Alaska was a boon to the economy.
+  * The invention of personal computer was a very important event in the second half of the twentieth century.
+* appreciation, estimation
+  * He lacks a realistic appreciation of the situation.
+  * In my estimation, you'll need twelve rolls of wallpaper.
+* obstruction, obstacle
+  * There's an obstruction in the fuel pipe.
+  * Fear of change is the greatest single obstacle to progress.
+* steer, drive
+  * The captain steered his ship into the harbour.
+  * It's quite possible to drive from Geneva to London in a day.
+* Explain the word *experience* in these sentences:
+  * With *experience* it is now possible not only to locate a shoal but to tell if it is herring, cod, or other well-known fish. 经验
+  * He is 

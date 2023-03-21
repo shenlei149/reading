@@ -41,3 +41,11 @@
 * You play to win. 句中的 you 是泛指人，可译作“人们”。
 * pick up, 随意挑选。
 * and, behind the spectators, of the nations, 在 of the nations 前面省略了 the attitude。
+
+### 0407 Bats 蝙蝠
+* Not all sounds make by animals serve as language, 动物发出的声音不全是作语言交际。此句采用了部分否定，即不是否定所有的动物，而只是一部分。serve as, 作……之用。
+* turn to, 求助于。
+* play a role in, 在……方面起作用。
+* in the vicinity of, 在……的附近。
+* So was born the echo-sounding apparatus, 这样就诞生了回声探测仪。这是一个倒装句，主要是为了避免因主语过长而使全句失去平衡，同时也为了使 apparatus 的定语 now in general use in ships 紧挨着名词。in general use, 普遍使用。
+* steer clear of, 避开。
