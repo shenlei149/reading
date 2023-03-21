@@ -1302,4 +1302,26 @@ Note the spelling of the words in italics.
   * It's quite possible to drive from Geneva to London in a day.
 * Explain the word *experience* in these sentences:
   * With *experience* it is now possible not only to locate a shoal but to tell if it is herring, cod, or other well-known fish. 经验
-  * He is 
+  * He is a very *experienced* surgeon. 有经验的
+  * It was one of the strangest *experiences* I have ever had. 体验
+* What does the phrase *to tell if* mean in this sentence:
+  * It is now possible *to tell if* it is herring, cod, or other well-known fish. 分辨
+
+### 0408
+* Explain the meaning of these phrases with *way* in these sentences:
+  * We simply clean them *in a different way*. 一种不同的方式
+  * I think they went *this way*. 这样的
+  * I bought an evening paper *on my way* home. 到……的路上
+  * *In a way*, I think you may be right. 在某种程度上
+  * Could you move that step-ladder please? It's *in my way*. （挡住）我的去路
+* Explain the various uses of all *sell* in these sentences:
+  * An electric razor must be approved by American testers before it can be *sold* in the US. 销售
+  * The house next door has been *sold*. 卖出去了
+  * the flat upstairs is *for sale*. 出售，待售
+  * I bought this coat quite cheaply *in the sales*. 特卖会，特价商品
+  * I've been asking for a reasonable amount for my car, but it's still *unsold*. 未售出的，没卖掉的
+* Explain these phrases with *time*:
+  * They hope to finish *in time* for a trade summit. 及时，尽早
+  * I was *on time* for my 
+
+

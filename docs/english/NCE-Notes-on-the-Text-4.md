@@ -49,3 +49,8 @@
 * in the vicinity of, 在……的附近。
 * So was born the echo-sounding apparatus, 这样就诞生了回声探测仪。这是一个倒装句，主要是为了避免因主语过长而使全句失去平衡，同时也为了使 apparatus 的定语 now in general use in ships 紧挨着名词。in general use, 普遍使用。
 * steer clear of, 避开。
+
+### 0408 Trading standards 贸易标准
+* Chickens slaughtered in ... to grace European tables. 在这句话中引用了布鲁塞尔官员的评论，却没有放在引号之中。这种方式常用于报刊文章，对读者影响更大。在 claim officials in Brussels 中，动词 claim 置于名词之前。
+* it is differences in national regulations ... between rich countries, 是各国管理条例上的差异，而不是关税阻碍了发达国家之间的贸易。这是一个 it 引导的强调句。put sand in the wheels of, 阻碍，阻挠。
+* So, ask businesses on both sides of the Atlantic, why have two lots of tests where one would do? 这个另一个没有引号的直接引语的例子。注意 why have two ... do 中的语序，这是非常口语化的直接引语的语序。
