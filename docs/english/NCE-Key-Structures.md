@@ -1308,3 +1308,13 @@ Study these uses of *have*
 * Study the form of the verbs in italics in these sentences:
   * A sound made by *tapping* on the hull of a ship will be reflected from the sea bottom, and by *measuring* the time interval between the taps and the receipt of the echoes, the depth of the sea at that point can be calculated.
 
+### 0409
+* Note how we can use *a lot (of)* in place of *many (of)* and *much (of)*:
+  * Instead of saying: Alfred had learned *many of* their ballads in his youth.
+  * We can say: Alfred had learned *a lot of* their ballads in his youth.
+* Note how *as well as* can be used to mean *in addition to*:
+  * There they collectd women *as well as* food and drink.
+* Compare these two sentences:
+  * Instead of sayting: Their commissariat had *no* organization.
+  * We can say: Their commissariat hadn't *any* organization.
+

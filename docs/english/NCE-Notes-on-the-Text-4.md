@@ -54,3 +54,8 @@
 * Chickens slaughtered in ... to grace European tables. 在这句话中引用了布鲁塞尔官员的评论，却没有放在引号之中。这种方式常用于报刊文章，对读者影响更大。在 claim officials in Brussels 中，动词 claim 置于名词之前。
 * it is differences in national regulations ... between rich countries, 是各国管理条例上的差异，而不是关税阻碍了发达国家之间的贸易。这是一个 it 引导的强调句。put sand in the wheels of, 阻碍，阻挠。
 * So, ask businesses on both sides of the Atlantic, why have two lots of tests where one would do? 这个另一个没有引号的直接引语的例子。注意 why have two ... do 中的语序，这是非常口语化的直接引语的语序。
+
+### 0409 Royal espionage 王室谍报活动
+* settle down, 驻扎。
+* They lived well, on the proceeds of raids ..., 他们的生活舒适，靠袭击（周围地区）掠夺得到的财务为生。
+* be fit for, 适宜于……。

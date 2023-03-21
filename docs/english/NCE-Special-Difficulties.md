@@ -1322,6 +1322,10 @@ Note the spelling of the words in italics.
   * I've been asking for a reasonable amount for my car, but it's still *unsold*. 未售出的，没卖掉的
 * Explain these phrases with *time*:
   * They hope to finish *in time* for a trade summit. 及时，尽早
-  * I was *on time* for my 
+  * I was *on time* for my appointment with my dentist. 按时
+  * In *times* like these people become cautious about spending money. 时代
+  * I'm glad I didn't live in the middle ages. In *those times* people died young. 那些时代
+  * Fortunately, I was *just in time* to catch the last train home. 及时，恰好
+  * I missed the celebrations in Hong Kong. I was in Singapore *at that time*. 在那个时间点
 
 
