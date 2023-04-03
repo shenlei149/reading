@@ -1369,6 +1369,6 @@ Note the spelling of the words in italics.
   * The explorers *set off* at dawn. 出发
   * Winter has *set in* early this year. 来临
   * We'll have to *set by* some money if we want to buy a car. 保留 to save or keep for future use
-  * What time do you *set out* tomorrow morning? 出发
+  * What time do you *set out* tomorrow morning? 出发，开始做某事
   * If we all *set to*, we can finish this job in no time. 认真开始做
 

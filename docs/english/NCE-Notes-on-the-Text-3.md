@@ -231,3 +231,22 @@
 * you would find it difficult not to laugh at, say, Charlie Chaplin's earyly films. 比如说，你看了查理•卓别林的早期电影很难不发笑。句中的 say 是插入语，可译作“比如说”。查理•卓别林是电影史上最有名的演员之一。他在诸如《淘金记》（1924）这类电影中扮演的流浪汉“小人物”在各种不利的条件下仍获得了成功。
 * stem from, 起源于。
 * come into fashion, 开始流行，时兴起来。
+* judge for yourself, 你自己来判断。
+* take heart, 振作精神。
+* the man drank a little more than was good for him. 这个人稍微多喝了一点酒。此句 than 后面省略了主语 what, be good for sb. 是“对某人有益”的意思。
+
+### 0330 The death of a ghost 幽灵之死
+* every time (= whenever) 作“每当……”解，引导时间状语从句。
+* stay up, 熬夜，不睡觉。
+* In time, it became an accepted fact that ..., 最后，……已成为公认的一个事实。in time 作“终于”，“最后”讲。that 引导的从句作 fact 的同位语。
+* none other than ..., 不是别人正是……。
+
+### 0331 A lovable eccentric 可爱的怪人
+* set out to do sth., 打算，企图做某事。
+* draw attention to ..., 作“引起对……的注意”讲。
+* without being conscious that ..., 没有意识到……。这是介词短语作状语，be conscious that ... 作“意识到……”解。
+* This invariably wins them the love and respect of others. 这常常赢来人们对他们的爱戴和尊敬。win sb. sth., 作“使某人获得某事（物）”讲。
+* add ... to ..., 把……添加到……。
+* this side of his life, 他生活中这方面的情况。这里指的是 He was a shrewd and wealthy businessman.
+* be caught in, 作“突然遇上，碰上”讲。
+* Recognizing who the customer was, the manager was most apologetic ..., 由于经理
