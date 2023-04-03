@@ -1328,4 +1328,47 @@ Note the spelling of the words in italics.
   * Fortunately, I was *just in time* to catch the last train home. 及时，恰好
   * I missed the celebrations in Hong Kong. I was in Singapore *at that time*. 在那个时间点
 
+### 0409
+* wandering, wondering
+  * I love wandering around second-hand bookshops.
+  * I'm wondering if we've made a mistake here.
+* learned, taught
+  * I learned to knit when I was eight.
+  * Who taught you how to knit?
+* noticed, remarked
+  * She noticed that several students seemed restless that morning.
+  * He remarked, 'You look beautiful today.'
+* conquerors, winners
+  * Military victories were celebrated by parading the defeated chiefs and princes in the streets of Rome,in a display of submission to their conquerors.
+  * The Oxford team were the winners in last year's and Cambridge Boat Race.
+* force, strength
+  * The captain called together a small force of hand-picked man. (= a group under orders)
+  * The door was opened by force. (= the use of strength)
+  * You need a great deal of strength to be a weight lifter. (= quality of being strong)
+  * But force and strength are often interchangeable when followed by 'of the'
+    * The force/the strength of the wind was so great that the roof was blown off.
+* Explain the meaning of the verbs and expression in italics:
+  * These had *settled down* for the winter at Chippenham ... 扎营，安顿好
+  * Have you *settled* your account yet? 结算
+  * They *settled* in Australia before the war. 定居
+  * It's time we *settled* this question. 解决
+  * He *settled* all his property on his life.
+* Note this compound with *self*:
+  * The Danes had the *self-confidence* of conquerors.
+* Explain the words and expressions in italics:
+  * The Danes were no longer *fit for* prolonged battle. 适应
+  * Does that coat *fit* you? 适合
+  * I can't *fit* all these clothes *into* this suitcase. 装进去
+  * He may win the race today. He's extremely *fit* and in good them. 健康的，健壮的
+  * He wrote that book in a sudden *fit* of energy. 充满精力
+  * It's a good idea, but it doesn't *fit in with* our plan. 符合，与……一致
+
+### 0411
+* Suggest meaning for these combinations with *set*:
+  * Alex Au has *set up* a Taiwan factory. 建立
+  * The explorers *set off* at dawn. 出发
+  * Winter has *set in* early this year. 来临
+  * We'll have to *set by* some money if we want to buy a car. 保留 to save or keep for future use
+  * What time do you *set out* tomorrow morning? 出发
+  * If we all *set to*, we can finish this job in no time. 认真开始做
 

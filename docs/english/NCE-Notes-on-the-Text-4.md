@@ -59,3 +59,14 @@
 * settle down, 驻扎。
 * They lived well, on the proceeds of raids ..., 他们的生活舒适，靠袭击（周围地区）掠夺得到的财务为生。
 * be fit for, 适宜于……。
+
+### 0410 Silicon valley 硅谷
+* much the way an editor creates a newsletter, 就像一位编辑编出一份时事通讯一样。
+* be free to, 可以做……。
+* in droves, 一批批，成群的。
+* draw on, 依靠，凭借。
+
+### 0411 How to grow old 如何安度晚年
+* in the young, 在年轻人身上。
+* Young men who have reason ... that life has to offer. 这个句子较长，其中有 3 个 that。第一个 that 引导一个宾语从句 that ... battle, 是 fear 的宾语。第二个 that 引导一个同位语从句 that they ... to offer, 说明 thought 的内容。第三个 that 引导一个定语从句 that life has to offer, 修饰 things。
+* cheat of ..., 从……那里骗取……。

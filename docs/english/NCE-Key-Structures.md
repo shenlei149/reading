@@ -1237,8 +1237,8 @@ Study these uses of *have*
 * Note the use of *where ... from* in this sentence.
   * Anthropologists wondered *where* the remote ancestors of the Polynesian peoples came *from*.
 * Compare these two sentences:
-  * So archaeologists have neither history nor legend to *help them to find out* where the first 'mordern men' came from.
-  * So archaeologists have neither history nor legend to *help them find out* where the first 'mordern men' came from.
+  * So archaeologists have neither history nor legend to *help them to find out* where the first 'modern men' came from.
+  * So archaeologists have neither history nor legend to *help them find out* where the first 'modern men' came from.
 * Compare these two sentences:
   * *It is possible that they used* wood and skins, but these have rotted away.
   * *They may have used* wood and skins, but these have rotted away.
@@ -1270,7 +1270,7 @@ Study these uses of *have*
 ### 0404
 * Compare the word order in these two sentences:
   * *Why did he keep* so many old newspapers locked away there?
-  * She asked her father *why he kept* so many old newpapers locked away there.
+  * She asked her father *why he kept* so many old newspapers locked away there.
 * Compare these two sentences:
   * Instead of saying: She *was able to describe* the colours and figures printed on it.
   * We can say: She *succeeded in describing* the colours and figures printed on it.
@@ -1279,13 +1279,13 @@ Study these uses of *have*
 * Compare these two sentences:
   * People *are always talking* about 'the problem of youth'.
   * Whenever I meet him, he *always talks* about his personal problems.
-  > The first sentence dscribes something that happens *all the time*; the second sentence describes something that happens *frequently*.
+  > The first sentence describes something that happens *all the time*; the second sentence describes something that happens *frequently*.
 * Compare these two sentences:
-  * It is older peoplle who create it,not *the young* themselves.
+  * It is older people who create it,not *the young* themselves.
   * There is only one difference between an old man and *a young one*.
 * Compare these two sentences:
   * Instead of saying: I would have been very pleased *if anyone regarded me* as a problem.
-  * We can say: I would have been very pleased *to be regarded* as a problm.
+  * We can say: I would have been very pleased *to be regarded* as a problem.
 * Compare these two sentences:
   * Instead of saying: *To be* a problem gives you a certain identity.
   * We can say: *Being* a problem gives you a certain identity.
@@ -1298,7 +1298,7 @@ Study these uses of *have*
   * *If only* the common peoples of the world *could meet* one another at football or cricket, they *would have* no inclination to meet on the battlefield.
   * *If one didn't know* from concrete examples that international sporting contests lead to orgies of hatred, one *could deduce* it from general principles.
   * Some larger unit *will be disgraced if you lose*.
-* Note carefully the form of the varbs after the phrase *as soon as* in this sentence:
+* Note carefully the form of the verbs after the phrase *as soon as* in this sentence:
   * *As soon as* the question of prestige *arise*, *as soon as* you *feel* that you and some larger unit will be disgraced, the most savage combative instincts *are aroused*.
 
 ### 0407
@@ -1313,8 +1313,14 @@ Study these uses of *have*
   * Instead of saying: Alfred had learned *many of* their ballads in his youth.
   * We can say: Alfred had learned *a lot of* their ballads in his youth.
 * Note how *as well as* can be used to mean *in addition to*:
-  * There they collectd women *as well as* food and drink.
+  * There they collected women *as well as* food and drink.
 * Compare these two sentences:
-  * Instead of sayting: Their commissariat had *no* organization.
+  * Instead of saying: Their commissariat had *no* organization.
   * We can say: Their commissariat hadn't *any* organization.
+
+### 0410
+* Note the use of the -*ing* form after the preposition *without*:
+  * Engineers may soon be free to let their imaginations soar without *being* penalized by expensive failures.
+* Note the form of the verb after *before*:
+  * Before it becomes a retirement village, Silicon Valley may prove a classroom for building a global business.
 
