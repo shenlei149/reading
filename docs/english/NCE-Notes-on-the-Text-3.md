@@ -249,4 +249,23 @@
 * add ... to ..., 把……添加到……。
 * this side of his life, 他生活中这方面的情况。这里指的是 He was a shrewd and wealthy businessman.
 * be caught in, 作“突然遇上，碰上”讲。
-* Recognizing who the customer was, the manager was most apologetic ..., 由于经理
+* Recognizing who the customer was, the manager was most apologetic ..., 由于经理认出这个顾客是谁了，便竭力赔礼道歉……。这句话用现在分词短语作原因状语，most 在这里起加强语气的作用，相当于 very。
+* insisted on the assistant's counting, 坚持让店员点清。insist on 后接动名词，the assistant's 是动名词的逻辑主语。
+
+### 0332 A lost ship 一艘沉船
+* on its way home, 返航途中。
+* for the sunken ship he was trying to find ..., for 作“因为”将，引导并列句；he was trying to find 是定语从句修饰主语 ship。
+* under the impression that, 以为，认为。
+* be of great interest, 很有趣。
+* parts of which it was possible to read, which 指先行词 log book, 所引导的是定语从句，it 是形式主语，不定式 to read 是真实主语，parts of which 作 read 的宾语。
+* piece together ... (or piece ... together) 作“综合”、“拼凑”讲。come to light, 被搞清，被知道。
+* War Museum, 军事博物馆。指伦敦的帝国军事博物馆，其中展出第一次世界大战和第二次世界大战的军事物品。
+
+### 0333 A day to remember 难忘的一天
+* get out of control, 失去控制。
+* It is as if a single unimportant event set up a chain of reactions. 就好像一件无关紧要的小事引起了一连串的连锁反应。as if 引导的从句中用的是虚拟语气；set up, 引起，产生；a chain of, 一连串。
+* keep an eye on, 照看，照管。
+* you are on the phone, 你在接电话。
+* reduce you to tears, 使你流泪。
+* on a big scale, 大规模地。
+* rush hour, （上下班的）高峰时间。
