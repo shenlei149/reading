@@ -1324,3 +1324,19 @@ Study these uses of *have*
 * Note the form of the verb after *before*:
   * Before it becomes a retirement village, Silicon Valley may prove a classroom for building a global business.
 
+### 0411
+* Study these sentences
+  * Instead of saying: An individual human existence *should* be like a river.
+  * We can say: An individual human existence *ought to* be like a river.
+
+### 0412
+* Note the way these two sentences have been combined:
+  * When anyone opens a current account at a bank, he is lending the bank money. He may demand repayment of *it* at any time.
+  * When anyone opens a current account at a bank, he is lending the bank money, repayment of *which* he may demand at any time.
+* Compare these two sentences:
+  * Instead of saying: The banker-customer relationship is *a relationship of* debtor and creditor.
+  * We can say: The banker-customer relation ship is *that of* debtor and creditor.
+* Compare these two sentences:
+  * Instead of saying: He instructs the bank to debit his account only in respect of cheques *which have been drawn* by himself.
+  * He instructs the bank to debit this account only in respect of cheques *drawn* by himself.
+

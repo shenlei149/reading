@@ -1363,7 +1363,7 @@ Note the spelling of the words in italics.
   * He wrote that book in a sudden *fit* of energy. 充满精力
   * It's a good idea, but it doesn't *fit in with* our plan. 符合，与……一致
 
-### 0411
+### 0410
 * Suggest meaning for these combinations with *set*:
   * Alex Au has *set up* a Taiwan factory. 建立
   * The explorers *set off* at dawn. 出发
@@ -1371,4 +1371,34 @@ Note the spelling of the words in italics.
   * We'll have to *set by* some money if we want to buy a car. 保留 to save or keep for future use
   * What time do you *set out* tomorrow morning? 出发，开始做某事
   * If we all *set to*, we can finish this job in no time. 认真开始做
+
+### 0411
+* Explain the meaning of *since* in these sentences:
+  * Man will not suffer from the fear of death, *since* the things he cares for will continue. 因为
+  * I have not seen him *since* last year. 自从……
+* Note the use of *no longer* and *any longer* in these sentences:
+  * Others will carry on what I can *no longer* do.
+  * Others will carry on what I cannot do *any longer*.
+
+### 0412
+* current, currant
+  * I can't keep up with current fashions.
+  * Corinth produces some of the world's finest currants. 无核小葡萄干
+* lend, borrow
+  * Can you lend me $20 please? I'll pay it back tomorrow.
+  * Can I borrow $20 from you please.
+* in favour of, for the sake of
+  * Are you in favour of the death penalty? 支持，赞同
+  * They both endured a bad marriage for years for the sake of the children.
+* whether, weather
+  * I don't know whether you've heard the news.
+  * What's the weather like today?
+* loaded, laden
+  * The camera has a sensor that flashes when a film has not been correctly loaded.
+  * The poor woman was so laden with household shopping, she could hardly step up to get on the bus. 载满的
+* else, other
+  * Take this back and exchange it for something else.
+  * There must be other ways of approaching this problem.
+* specimen, example
+  * The research collection at the Royal Botanic Gardens at Kew has six-and-a-half million dried plant specimens.
 

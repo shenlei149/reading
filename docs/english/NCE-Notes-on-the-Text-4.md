@@ -70,3 +70,16 @@
 * in the young, 在年轻人身上。
 * Young men who have reason ... that life has to offer. 这个句子较长，其中有 3 个 that。第一个 that 引导一个宾语从句 that ... battle, 是 fear 的宾语。第二个 that 引导一个同位语从句 that they ... to offer, 说明 thought 的内容。第三个 that 引导一个定语从句 that life has to offer, 修饰 things。
 * cheat of ..., 从……那里骗取……。
+* whatever work it was in him to do, 他所能做的任何工作。
+* so at least it seems to me, 这是一个插入语，用了倒装语序，自然的语序是 at least it seems so to me。
+* bit by bit, 一点一点地。
+* the thought of rest 是 death 的一种委婉说法。
+
+### 0412 Banks and their customers 银行和顾客
+* open a current account 开一个活期账号。
+* draw a cheque in favour of ..., 开一张以……为收款人的支配。
+* who is which depending on ... is overdrawn, 这是一个现代分词短语 depending on ... is overdrawn 的独立主格结构。who is which 是分词短语意思上的主语，which 代表 debtor or creditor。
+* give rise to, 引起。
+* be loaded against, 于……不利。
+
+
