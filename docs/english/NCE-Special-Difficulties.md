@@ -1401,4 +1401,44 @@ Note the spelling of the words in italics.
   * There must be other ways of approaching this problem.
 * specimen, example
   * The research collection at the Royal Botanic Gardens at Kew has six-and-a-half million dried plant specimens.
+  * The fall of Rome in 410 AD is an example of how even the greatest empires decay.
+* customer, client
+  * During the sales, the department stores are full of customers.
+  * Small clients demand the same service from their bank as large clients.
+* cheque, check
+  * You can pay by cheque if you want to. (British English)
+  * You can pay by check if you want to. (American English)
+* adopted, adapted
+  * We have adopted the same sort of assembly method they use in Japan.
+  * We have adapted the assembly system they use in Japan to suit our circumstances here.
+* print, type
+  * I'll print these letters on my laser printer.
+  * I'll ask m secretary to type those letters for you.
+* Explain the meaning of the word *account* in these sentences:
+  * When anyone opens a current *account* at a bank, he is lending the back money. 账户
+  * I can't settle my *account* until next month. 账目，结清帐
+  * How do you *account* for his change of attitude? 解释
+  * He gave an interesting *account* of this travels in China? 描述
+  * Please don't go to all this trouble on my *account*. 缘由，为了我
+  * Trains were delayed on *account* of the bad weather. 原因
+* Note that the verb *obey* is not followed by a preposition:
+  * The bank must *obey* its customer's instructions.
+
+### 0413
+* hole, whole
+  * We'll just dig a hole in the ground and bury the box in it.
+  * You have your whole life ahead of you.
+* engine, machine
+  * A car like this needs a powerful engine.
+  * How often should you equip a factory with new machine?
+* fit, suit
+  * That jacket really fits you at the shoulders.
+  * Pastel colours suit me.
+* clean, clear
+  * Please hand me a clean towel.
+  * You must never do that again. Is that clear?
+* control, check
+  * OPEC no longer has control over the price of oil.
+  * It's hard to keep a check on the number of people coming into the country.
+* 
 

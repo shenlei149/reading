@@ -82,4 +82,9 @@
 * give rise to, 引起。
 * be loaded against, 于……不利。
 
-
+### 0413 The search for oil 探寻石油
+* they go down to as much as 25,000 feet, as much as 意为“多达”，“达到（量）”。
+* as we must with other mineral deposit, must 后面省去了于上句中相同的部分 send men down。
+* a foot in diameter, 直径 1 英尺。
+* every so often, 时常。
+* by means of, 用……，靠……手段。

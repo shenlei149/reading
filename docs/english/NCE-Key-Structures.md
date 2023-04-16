@@ -1340,3 +1340,9 @@ Study these uses of *have*
   * Instead of saying: He instructs the bank to debit his account only in respect of cheques *which have been drawn* by himself.
   * He instructs the bank to debit this account only in respect of cheques *drawn* by himself.
 
+### 0413
+* Note the order of the words in italics:
+  * The geologist needs to know *what rocks the drill has reached*.
+* Note the word in this sentence:
+  * We want *it* to stay down the hole.
+
