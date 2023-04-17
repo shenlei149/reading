@@ -88,3 +88,9 @@
 * a foot in diameter, 直径 1 英尺。
 * every so often, 时常。
 * by means of, 用……，靠……手段。
+
+### 0414 The Butterfly Effect
+* beyond two or three days, 超过两三天。
+* of the order of, 大约。
+
+

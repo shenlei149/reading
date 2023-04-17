@@ -1440,5 +1440,17 @@ Note the spelling of the words in italics.
 * control, check
   * OPEC no longer has control over the price of oil.
   * It's hard to keep a check on the number of people coming into the country.
-* 
+* Explain the meaning of the phrases in italics:
+  * When it has been decided where we are going to drill, we *put up* at the surface an oil derrick. 竖起，建造
+  * It took them several hours to *put out* the fire. 扑灭
+  * I won't *put up with* this sort of thing any longer. 忍受
+  * Because of the bad weather, the match has been *put off* until next week. 推迟
+* Explain the meaning of the words or phrases in italics:
+  * *Once* we get down to the oil, it usually flows to the surface. 一旦
+  * I'm ashamed to say I've only been to the Louvre *once*. 一次
+  * *Once upon a time* there was a poor woodcutter who lived in a forest. 从前
+  * I see him *once in a while*. 偶尔
+  * I'll come *at once*. 立即
+  * *All at once* there was a loud explosion. 突然
+
 
