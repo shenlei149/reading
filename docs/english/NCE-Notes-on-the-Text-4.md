@@ -93,4 +93,9 @@
 * beyond two or three days, 超过两三天。
 * of the order of, 大约。
 
-
+### 0415 Secrecy in industry 工业中的秘密
+* weigh against, 不利于……。
+* in so far as ..., 就……而言。
+* which are of such general and fundamental nature, 其中 to be of 有“具有”的意思。
+* are sought for with complete secrecy, 极端秘密地探索。
+* such and such a book, 某一本书。

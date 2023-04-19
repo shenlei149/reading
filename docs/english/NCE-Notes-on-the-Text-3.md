@@ -269,3 +269,20 @@
 * reduce you to tears, 使你流泪。
 * on a big scale, 大规模地。
 * rush hour, （上下班的）高峰时间。
+* draw up, 追上。
+* pull up, 停车。
+* get the traffic on the move, 使车辆动起来。
+
+### 0334 A happy discovery 幸运的发现
+* muster up courage, 鼓起勇气。
+* above all, 最重要的。
+* be bent on, 决心要。
+* pick up, 在此处有“偶然发现”，“无意中获得”的意思。
+* apart from ..., 除……以外。
+* Correggio, 柯勒乔（1494-1534）。意大利著名画家，真名安托尼奥•阿来里。他对色彩对比、光和影的处理方法对 16 到 17 世纪意大利绘画产生了巨大影响。他最著名的作品陈列在意大利巴玛大教堂。
+
+### 0335 Justice was dene 伸张正义
+* beyond doubt, 确凿无疑。
+* however wise or eminent, 不管他们是多么精明、多么杰出。however 为连接副词，作“不管……如何”解，所引导的让步状语从句中经常可以省略某些词，此处省略了 they are。
+* quite independent of human interference, 完全不受人的干预。be independent of, 不受。
+* it serves him right, 他罪有应得。

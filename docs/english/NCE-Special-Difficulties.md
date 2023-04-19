@@ -177,39 +177,39 @@ We use these words when we refer to *two* persons or things.
 * I bought *both of* them.
 
 ### 0215 Words often confused and misused 经常容易混淆和误用的词
-### *Nervous* and *Irritable*
+#### *Nervous* and *Irritable*
 **Nervous** 紧张不安的（restless or uneasy）: Examinations make me *nervous*.  
 **Irritable** 易怒的（easily made angry）: He is such an *irritable* person, you can hardly speak to him.
 
-### *Office*, *Study*, *Desk*
+#### *Office*, *Study*, *Desk*
 * There are six people in our *office*.
 * The living room is next to the *study*. I often read in the *study* when I want peace and quiet.
 * My *desk* is covered with books.
 
-### *Afford
+#### *Afford
 * Will you buy this car? I can't *afford* it. I can't *afford* $7,000.
 * You can *afford* this model. It's not very expensive.
 * I haven't been to the cinema lately, I can't *afford* the time.
 
 ### 0216 Words often confused and misused 经常容易混淆和误用的词
-### *Police*
+#### *Police*
 * Traffic police *are* sometimes very polite.
 * The police *are* looking for him. *They have* not found him.
 * *There were* police everywhere.
 
-### *Pay attention to*, *Care*, *Take care of*, *Look after*
+#### *Pay attention to*, *Care*, *Take care of*, *Look after*
 * Please *pay attention to* the blackboard.
 * I don't *care* if he breaks his neck!
 * Don't worry about the garden. I'll *take care of*/*look after* it while you are on holiday.
 * Please *take care of*/*take after* the children for me when I am out.
 
-### *Remind* and *Remember*
+#### *Remind* and *Remember*
 * This note is only a *reminder*.
 * I *reminded* him to post my letter.
 * I *remembered* to post your letter. 我没有忘记替你寄信。
 * *Remember* me to your mother.
 
-### *You*
+#### *You*
 If *you* receive a request like this...
 | Instead of saying: | We can say |
 |--|--|
@@ -220,26 +220,26 @@ If *you* receive a request like this...
 英语中第二人称代词 you 还有“任何人”的意思。
 
 ### 0217 Words often confused and misused 经常容易混淆和误用的词
-### *As*
+#### *As*
 * She often appears on the stage *as* a young girl. 扮演
 * I cannot come *as* I am busy. (because) 由于
 * *As* I was leaving the house, the postman brought a letter. (at the time when) 在。。。的时候
 * Do *as* you are told. (the thing that) 叫你怎么做就怎么做。
 * He works *as* an engineer. (in the position of) 担任。
 
-### *Dress*, *Suit*, *Costume*
+#### *Dress*, *Suit*, *Costume*
 * She must appear in a bright red *dress*. 裙子，连衣裙
 * My sister bought a new *dress* yesterday. 连衣裙
 * My brother never wears ready-made *suits*. 不穿成衣，西服。
 * All the actors wore fifteenth-century *costumes*. 服装，演出服
 
-### *Grow* and *Grow up*
+#### *Grow* and *Grow up*
 * It must be terrible to be *grown up*! 成熟的，成人的
 * Children *grow* quickly. The grass has *grown* very high. 长得快，长得高。
 * Some people never *grow up*. (mature in mind) 成熟
 
 ### 0218
-### give
+#### give
 Read these sentences. Each one contains the verb *give*. The verb has a different meaning in each sentence.  
 读一读以下句子，每句话中都有动词 give，但含义不同。
 * He returned with my bag and *give it back* to me.
@@ -249,7 +249,7 @@ Read these sentences. Each one contains the verb *give*. The verb has a differen
 * I have *given up* smoking. (I have stopped.) 放弃，停止，抛弃（戒烟）
 * Three of our officers *gave* themselves *up* to the enemy. (They surrendered.) 投降
 
-### Words often confused 经常容易混淆的词
+#### Words often confused 经常容易混淆的词
 *Beside*, *Besides*
 * Come and sit *beside* me. (next to me)
 * *Besides* this photograph, I have a number of others. (in addition to)
@@ -1453,4 +1453,10 @@ Note the spelling of the words in italics.
   * I'll come *at once*. 立即
   * *All at once* there was a loud explosion. 突然
 
-
+### 0414
+* Explain the meaning of *since* in these sentences:
+  * Some starting data has to be guessed, since ground stations and satellites cannot see everywhere. 因为
+  * John feels much happier since he changed his job. 自从
+  * Susan left in July and we haven't seen her since. 自从那之后
+  * It hasn't stopped raining since eight o'clock this morning. 自从
+  * Since you're so clever, see if you can solve the problem! 因为

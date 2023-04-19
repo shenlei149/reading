@@ -1346,5 +1346,15 @@ Study these uses of *have*
 * Note the word in this sentence:
   * We want *it* to stay down the hole.
 
-### 0414 Note how
+### 0414
+* Note how these two sentences have been connected:
+  * Errors and uncertainties multiply. They cascade upward through a chain of turbulent features.
+  * Errors and uncertainties multiply, cascading upward through a chain of turbulent features.
+
+### 0415
+* Note the position of *not* in this sentence.
+  * It is positive advantage to them *not* to keep them secret.
+* What is the difference between these two sentences:
+  * They are unwilling to *enter their names* as having taken out such and such a book.
+  * They are unwilling to *having their names entered* as having taken out such and such a book.
 
