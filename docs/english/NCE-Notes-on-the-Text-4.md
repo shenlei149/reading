@@ -99,3 +99,10 @@
 * which are of such general and fundamental nature, 其中 to be of 有“具有”的意思。
 * are sought for with complete secrecy, 极端秘密地探索。
 * such and such a book, 某一本书。
+
+### 0416 The modern city 现代城市
+* in order that ..., 以使……，为了……，引导目的状语从句。
+* without any idea of, 完全忽视……。
+* without giving any consideration to ..., 完全不考虑……。
+* with no regard for, 不考虑。
+* be deprived of, 被剥夺。

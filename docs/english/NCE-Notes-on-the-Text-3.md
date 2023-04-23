@@ -286,3 +286,32 @@
 * however wise or eminent, 不管他们是多么精明、多么杰出。however 为连接副词，作“不管……如何”解，所引导的让步状语从句中经常可以省略某些词，此处省略了 they are。
 * quite independent of human interference, 完全不受人的干预。be independent of, 不受。
 * it serves him right, 他罪有应得。
+* in part, 部分地，在某种程度上。
+* of its own accord, 自愿地，自动地。
+* impossible to resist the temptation to say ..., 情不自禁地说……。
+
+### 0336 A chance in a million 百万分之一的机遇
+* being ... to a conclusion, 作“使……结束”讲。
+* bring about, 造成，导致。
+* and so on, 等等，诸如此类。
+* do sometimes conspire 中，do 为助动词，对谓语动词起强调作用。
+* while on a walking tour ..., while 后面省略了主谓结构 he was。在表示时间、地点、条件让步等状语从句中，从句的主语如与主句的主语相同，常省略从句的主语和谓语。
+* pour scorn on ..., 作“讥笑……”讲。
+* point out, 指出，提请注意。
+* be acquainted with, 已知道。
+* needless to say, 不用说，当然。
+* become of, 结果如何，发生了……情况。
+
+### 0337 The Westhaven Express
+* they are more likely to be *ours* than *theirs*, 这些错误往往是*我们*而不是*铁路当局*造成的。they 指 mistakes；*ours, theirs* 此处用斜体字表示强调，应该重度。
+* I could not help noticing that ..., 我不禁注意到……，can't help doing 是“禁不住……”的意思。
+* strike me as odd, 使我感到奇怪。
+* Neither was I surprised, 这是以 neither 开头的句子，要用倒装语序。
+* It suddenly dawned on me ..., 我突然明白了，……。
+* a note of triumph, 胜利者的调子。
+* in black and white, 白纸黑字。
+
+### 0338 The first calendar 最早的日历
+* what is more, 作“而且”、“再者”解，是插入语。
+* CD-ROM, 是 compact disc read-only memory 的缩写。
+* as it were, “可以说”，是插入语。

@@ -1358,3 +1358,12 @@ Study these uses of *have*
   * They are unwilling to *enter their names* as having taken out such and such a book.
   * They are unwilling to *having their names entered* as having taken out such and such a book.
 
+### 0416
+* Study the pattern in italics in this sentence:
+  * Modern industry is based on the conception of the maximum production at lowest cost, *in order that an individual or a group of individuals may (or might)* earns as much money as possible.
+* Note the phrase in italics:
+  * In order that an individual or a group of individuals may earn *as much as possible*.
+* Compare these two sentences:
+  * Instead of saying: *Although* they enjoy the comfort and banal luxury of their dwelling, they do not realize that they are deprived of necessities of life.
+  * we can say: *While* they enjoy the comfort and banal luxury of their dwelling, they do not realize that they are deprived of necessities of life.
+

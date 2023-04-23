@@ -1460,3 +1460,31 @@ Note the spelling of the words in italics.
   * Susan left in July and we haven't seen her since. 自从那之后
   * It hasn't stopped raining since eight o'clock this morning. 自从
   * Since you're so clever, see if you can solve the problem! 因为
+
+### 0415
+* Explain the expression n italics in the following sentences:
+  * In so far as any inquiry is a secret one, it naturally limits all those engaged in *carrying it out*. 实施，执行
+  * I think we can *carry on* without your help. 继续进行
+  * The audience was completely *carried away by* the wonderful performance of the soloist. 迷住了
+  * The government failed to *carry through* the new bill on housing in the House of Commons last night. 顺利实现，完成，贯彻，坚持到底
+* What do you understand of by the phrase in the italics:
+  * They are unwilling to have their names entered as having taken out *such and such* a book. 某个，某某
+
+### 0416
+* physiological, psychological
+  * The doctor could not find any physiological cause of his illness.
+  * John says he's got some sort of virus, but I'm sure it's psychological.
+* neglect, ignore
+  * Heavy drinking is one reason why some people neglect themselves.
+  * I won't accept any responsibility if you choose to ignore my advice.
+* modern, contemporary
+  * The original supermarkets were small by modern standards.
+  * I have no interest at all in contemporary Japanese prints.
+* earn, win
+  * He earns nearly 45,000 dollars a year.
+  * Who do you think will win the next election?
+* please, beg
+  * It pleases me to say that we got what we wanted as a result of taking your advice.
+  * I beg you to consider carefully before you make up your mind.
+* Explain the meaning of the verb *crowd* in these sentences:
+  * Large masses of human beings are *crowded* together. 拥挤
