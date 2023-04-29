@@ -1367,3 +1367,10 @@ Study these uses of *have*
   * Instead of saying: *Although* they enjoy the comfort and banal luxury of their dwelling, they do not realize that they are deprived of necessities of life.
   * we can say: *While* they enjoy the comfort and banal luxury of their dwelling, they do not realize that they are deprived of necessities of life.
 
+### 0417
+* Compare these two uses of *so that*
+  * This rabbits had no natural enemies in the Antipodes, *so that* it multiplied with that promiscuous abandon characteristic  of rabbits.
+  * I went to Switzerland last winter so that I could do some skiing.
+* Note the form of the verbs in italics in this sentence:
+  * So while the rest of the world *was trying to* get rid of mosquitoes, Australia *was encouraging* this one.
+

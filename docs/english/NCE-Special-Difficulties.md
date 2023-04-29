@@ -1488,3 +1488,24 @@ Note the spelling of the words in italics.
   * I beg you to consider carefully before you make up your mind.
 * Explain the meaning of the verb *crowd* in these sentences:
   * Large masses of human beings are *crowded* together. 拥挤
+  * When it began to rain, everyone crowded into the building. 挤进了大楼
+  * He crowded a lot of information into the last chapter. 塞
+
+### 0417
+* discovered, invented
+  * Captain Cook discovered Antarctica when he was exploring the Eastern Pacific Ocean.
+  * Do you have any idea who invented the safety pin?
+* disease, decease
+  * Poverty and disease usually go together.
+  * A national crisis was caused by the sudden decease of the President. 死亡
+* basis, base
+  * What's your basis for making such a decision?
+  * The base of the memorial is engraved with the names of those who died.
+* apparent, obvious
+  * It soon became apparent that our opponents were too strong for us.
+  * It was obvious to the parents that Tom was lying.
+* acquired, obtained
+  * He has acquired a fearsome reputation.
+  * Further information can be obtained from the information centre.
+* degree, rank
+  * 

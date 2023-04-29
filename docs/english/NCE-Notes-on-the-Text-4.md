@@ -106,3 +106,9 @@
 * without giving any consideration to ..., 完全不考虑……。
 * with no regard for, 不考虑。
 * be deprived of, 被剥夺。
+
+### 0417 A man-made disease 人为的疾病
+* so that it multiplied with that promiscuous abandon characteristic of rabbits, 这里 so that 引导的一个结果状语从句，可译成“因此便以兔子所特有的杂乱交配繁衍后代”。
+* be susceptible to ..., 易受……感染的，易受……影响的。
+* let loose, 让乱跑。
+* pass ... on to, 把……传给。
