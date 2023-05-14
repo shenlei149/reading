@@ -112,3 +112,16 @@
 * be susceptible to ..., 易受……感染的，易受……影响的。
 * let loose, 让乱跑。
 * pass ... on to, 把……传给。
+
+### 0418 Porpoises 海豚
+* however intelligent they may be, 不管它们有多聪明，这是一个让步状语从句。
+* as in riding the bow waves of a ship, 就像它们追逐被船首犁开的浪花一样。
+* If, as has been reported, they have protected humans from sharks ..., as 是关系代词，代替 they have protected humans from sharks。
+* Whether it be bird, fish or beast ..., 这是一个让步状语从句，用的是虚拟语气形式。
+* for dear life, 拼命地。
+
+### 0419 The stuff of dreams 话说梦的本质
+* in terms of muscle relaxation and so on, 从使肌肉得到放松等方面来看。in terms of ..., 从……方面看。
+* then perhaps it is the brain that needs resting? 这是个陈述句的语序，但句尾加问好，表示说话人对这种观点有把握但需要进一步证实。
+* were it not for two factors, 这是省略了 if 的条件句，可译作“如果不是下面两个因素的话”。
+* several nights on end, 一连几夜。

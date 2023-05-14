@@ -1374,3 +1374,16 @@ Study these uses of *have*
 * Note the form of the verbs in italics in this sentence:
   * So while the rest of the world *was trying to* get rid of mosquitoes, Australia *was encouraging* this one.
 
+### 0418
+* Note the form of the verb used after *enjoyed* in this sentence:
+  * One young calf especially enjoyed *raising* a turtle to the surface.
+* Study the following sentence:
+  * He *no sooner* recovers his equilibrium *that* the next porpoise comes along and hits him another crack. 刚恢复平衡就
+
+### 0419
+* Compare these two sentences:
+  * Instead of saying: This might be a plausible hypothesis *were it not * for two factors.
+  * We can say: This might be a plausible hypothesis *if it* were not for two factors.
+
+
+

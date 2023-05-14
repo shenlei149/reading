@@ -1508,4 +1508,59 @@ Note the spelling of the words in italics.
   * He has acquired a fearsome reputation.
   * Further information can be obtained from the information centre.
 * degree, rank
+  * To a certain degree, I accept the truth of what you say, even if I disagree with your conclusions. (degree = extent)
+  * The campaign to protect the countryside involves people from all degrees of society, not just the landowning classes. (degree = social class)
+  * What rank was your father when he was in the army? (rank = an official position on a scale)
+* Compare the use of *spread* in these two sentences:
+  * It (the mosquito) effectively *spread* the disease all over the continent. 扩散
+  * It (the disease) *spread* through France. 蔓延
+
+### 0418
+* drown, choke
+  * She must have swum too far out and drowned.
+  * Something got stuck in my throat and I nearly choked.
+* unconscious, insensitive
+  * Someone fainted on the train today and remained unconscious for several minutes.
+  * The two mothers chatted happily, quite unconscious of what their children were planning.
+  * You have to be completely insensitive to other people, to play loud music in the street in the middle of the night.
+* curiosity, strangeness
+  * Curiosity killed the cat. (= wanting to know)
+  * It took me a while to get used to the strangeness of my new school. (= the unfamiliar quality)
+* indignity, disrespect
+  * Pink and embarrassed, she endured the indignity of being rescued from the mud in front of a party of tourists staring in silence.
+  * To avoid and hint of disrespect, most countries sent their most senior officials to represent them at the President's funeral.
+* raise, rise
+  * Increased sales tax will raise prices.
+  * We rise at six in the morning.
+* game, play
+  * Thousands of people packed the stadium to ss the game.
+  * Which is your favourite Shakespeare play?
+* eventually, finally
+  * Pneumonia eventually led to his death.
+  * So you've finally decided to get married.
+* Explain the meaning of the words in italics:
+  * The have much more *likely* done it out of curiosity or for sport. 可能的
+  * It's rather *unlikely* that he will come now. 不可能的
+  * That's a *likely* story, I must say. 可能的，似乎为真的
+  * He's a *likely* person, I'm sure he'll help you. 可信的
+* Explain the verbs in italics:
+  * They *are* constantly *after* the turtles. 追逐
+  * The game *is over*. 结束了
+  * You can't see him now. *He's out*. 他出去了
+  * When will the he *be back*? 回来
+  * Our team will not be playing next week. The match *is off*. 结束了
+  * The fire *is out*. 熄灭了
+  * What's *on* at the Regal today? 有什么活动？
+
+### 0419
+* fairly, enough
+  * The water is fairly warm.
+  * The water is warm enough to swim in.
+* puzzling, confusing
+  * The children showed a puzzling lack of curiosity about where their parents were.
+  * The instruction are so confusing that I can't work out what they're saying.
+* factor, fact
+  * The rise in crime is mainly due to social and economic factors.
+  * It is a fact that most deaths from lung cancer are caused by smoking.
+* Explain the meaning of the verbs in italics in these sentences.
   * 
