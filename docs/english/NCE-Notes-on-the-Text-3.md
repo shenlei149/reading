@@ -315,3 +315,32 @@
 * what is more, 作“而且”、“再者”解，是插入语。
 * CD-ROM, 是 compact disc read-only memory 的缩写。
 * as it were, “可以说”，是插入语。
+* be faced with, 作“面临”、“面对”解。
+* shed light on ..., 使……清楚地显出来，解释。
+* come into being, 产生，形成。
+* Ice Age, 冰川时期。
+
+### 0339 Nothing to worry about 不必担心
+* get sb. to do sth., 说服某人做某事。
+* not in the least, 一点儿也不，完全不。
+* It was not that Bruce always underestimated difficulties. 这并不是说布鲁斯总是低估困难。
+* sooner or later, 作“迟早”、“总有一天”讲。
+* giving way to a stretch of plain, 出现了一片草原。give way to ..., 此处作“为……所替代”解。
+* charge at, 冲向。
+
+### 0340 Who's who 真假难辨
+* It has never been explained why ..., 在这个句子中真正的主语是以 why 引导的主语从句。
+* specialize in, 专门从事
+* inviting the fire brigade, 是动名词短语，此处作主语。put out 作“扑灭”、“熄灭”讲。
+* dress up as, 装扮成。
+* they were not to take him seriously, （他们）不要把他当回事。take 此处作“对待”、“接受”讲，多指对人、对事物的态度和反应。
+* grateful to the student for this piece of advance information, 对这个学生事先通报情况表示感谢。be grateful to sb. for sth., 对某人因某事表示感谢。
+* as he pleased, 是方式状语从句，后面省略了 to do, 可译作“随他的便”。
+* be under arrest, 被逮捕，拘禁。
+* Only when ... did he realize that ...。在这句话中，only 加上状语从句放在句首，因此主句的主谓语要用倒装的句式。
+
+### 0341 Illusions of pastoral peace 宁静的田园生活的遐想
+* city born and city bred, 城里生，城里长。这是由“名词+过去分词”构成的合成形容词，此处作原因状语。
+* go into raptures, 变得欣喜若狂起来。at the mere mention of, 一提到。
+* be under an illusion, 作“有……的错觉”讲，that 引导的是同位语从句。
+* beyond me, 我所无法理解的。
