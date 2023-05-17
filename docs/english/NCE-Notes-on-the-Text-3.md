@@ -344,3 +344,35 @@
 * go into raptures, 变得欣喜若狂起来。at the mere mention of, 一提到。
 * be under an illusion, 作“有……的错觉”讲，that 引导的是同位语从句。
 * beyond me, 我所无法理解的。
+* do without, 没有……也行。
+* draw to a close, 结束，告终。
+* you never have to make do with second best, 你从来不必用二等品来凑合。make do with ..., 凑合着用……。
+
+### 0342 Modern caveman 现代洞穴人
+* as it has come to be known, 正如已逐渐为人所了解的那样，此处作插入语。
+* it is the desire ... or the chance ... that ... 这是强调句式，被强调的部分是句子的主语 the desire ... or the chance ...
+* rig up, 装配，搭起。
+* Grenoble, 格里诺布尔，是法国东南部伊泽尔河上的一座大城镇，尤以它的大学而著称。
+* The cave might never have been discovered had not the entrance been spotted by ..., 如果不是……偶然发现这个洞口的话，这个洞也许永远不会为人所知。这是表示与过去事实不相符的虚拟语气结构，句中的非真实条件句 had not the entrance been spotted by ... 由于省略了 if，因此要用倒装句式。
+* edge one's way, 此处作“侧身徐徐向前移动”讲。
+* which they found was caused ... of the cave. which was caused ... of the cave 是定语从句，修饰 sound；they found 此处作插入语。shooting down ... of the cave 是现在分词短语作定语，修饰 waterspout。
+
+### 0343 Fully insured 全保险
+* in the event of, 作“倘若”、“万一”、“如果发生”讲。
+* the bigger the risk an insurance company takes, the higher the premium you will have to pay. 保险公司承担的风险越大，你付的保险费就越高。这里又是一个“the + 形容词比较级，the + 形容词比较级”的例子，汉语可译成“越……越……”。
+* make a claim for ..., 作“要求得到……”讲。
+* put into operation, 使……运转。
+* for one agonizing moment, 在令人忐忑不安的瞬间。
+* set up, 激起。
+
+### 0344 Speed and comfort 又快捷又舒适
+* take your mind off the journey, 摆脱旅途的困扰。take one's mind off sth. 是“把某人的注意力从某事上移开”的意思。
+* in snatches, 断断续续地。
+* more often than not, 经常。
+* But nothing can match them for speed and comfort. 但就速度和舒适而论，什么也不能和飞机相比。介词 for 此处作“就……而论”讲。
+* keep you occupied, 使你有事可做。
+
+### 0345 The power of the press 新闻报道的威力
+* read about (= of) ..., 作“读到……”讲。
+* it is extremely doubtful whether ... ourselves. it 是先行主语，替代以 whether 引导的主语从句。
+* act on..., 根据……行动。
