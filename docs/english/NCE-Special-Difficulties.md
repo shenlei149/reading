@@ -1563,4 +1563,14 @@ Note the spelling of the words in italics.
   * The rise in crime is mainly due to social and economic factors.
   * It is a fact that most deaths from lung cancer are caused by smoking.
 * Explain the meaning of the verbs in italics in these sentences.
-  * 
+  * William Dement published experiments *dealing with* the recording of eye-movements. 处理
+  * We have been *dealing with* the same firm for a number of years. 打交道，做生意
+  * He's an extremely difficult child. His father is the only person who knows how to *deal with* him. 对付
+* Explain the meaning of the phrases in italics in these sentences:
+  * If one group of people were disturbed from their eye-movement sleep for several nights *on end* ... 连续
+  * It wasn't an accident. That window was broken *on purpose*. 故意
+  * *On the whole*, business has been very good this year. 总的来说
+  * The doctor's very tired. He's been *on duty* for fourteen hours. 值班
+  * How many soldiers are *on leave*? 在休假，休假中
+  * You mustn't open the door *on any account* when I'm out. 无论如何
+  * It's getting late. I must be *on my way*. 在路上

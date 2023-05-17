@@ -125,3 +125,15 @@
 * then perhaps it is the brain that needs resting? 这是个陈述句的语序，但句尾加问好，表示说话人对这种观点有把握但需要进一步证实。
 * were it not for two factors, 这是省略了 if 的条件句，可译作“如果不是下面两个因素的话”。
 * several nights on end, 一连几夜。
+
+### 0420 Snake poison 蛇毒
+* How it came about that snakes ... a mystery. 这句话的主语使一个句子：How it came about that snakes manufactured poison, 谓语部分是 is a mystery。主语从句中的 it 是形式主语，真正主语是 that snakes manufactured poison, 因为主语太长，所以使用 it 作先行主语的结构。
+* over the periods, 经过很长时间。
+* live on, 靠……生活。
+* a two-edged weapon, 一把双刃刀，这里的意思是：如果食肉动物都有毒液，就会造成食肉动物之间的相互残杀。
+* act on, 对……起作用。
+* by far the more unpleasant, 更难受得多，by far 是“……得多”得意思。
+* so to speak, 插入语，有“可以这样说”，“打个比方说”的意思。
+* Be that as it may, 这是一个倒装的让步状语从句，相当于 however that may be，可译成“尽管如此”。
+* does its business with man, 在人的身上发挥作用，要人的命。
+* the effect on these of viperine poison, these 是指 rats and mice, 介词宾语结构 of viperine poison 是作 effect 的定语。

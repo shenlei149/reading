@@ -1385,5 +1385,7 @@ Study these uses of *have*
   * Instead of saying: This might be a plausible hypothesis *were it not * for two factors.
   * We can say: This might be a plausible hypothesis *if it* were not for two factors.
 
-
+### 0420
+* Compare these two sentences:
+  * instead of saying: 
 
