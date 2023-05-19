@@ -137,3 +137,11 @@
 * Be that as it may, 这是一个倒装的让步状语从句，相当于 however that may be，可译成“尽管如此”。
 * does its business with man, 在人的身上发挥作用，要人的命。
 * the effect on these of viperine poison, these 是指 rats and mice, 介词宾语结构 of viperine poison 是作 effect 的定语。
+
+### 0421 William S. Hart and the early 'Western' film 威廉 S. 哈特和早期“西部”影片
+* nothing but, 仅仅，只是。
+* in short, 总而言之，一句话。
+* the old West, 指密西西比河以西地区。
+* be rooted in, 生根于。
+* join hands, 携手联合。
+* live by, 靠……过活。

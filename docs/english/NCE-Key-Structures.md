@@ -1387,5 +1387,20 @@ Study these uses of *have*
 
 ### 0420
 * Compare these two sentences:
-  * instead of saying: 
+  * Instead of saying: *They had the ability to catch and live on* prey without using poison if they wanted to (but they didn't).
+  * We can say: *They could have caught and lived on* prey without using poison.
+* Compare these two sentences:
+  * Instead of saying: They could have caught and lived on prey without using poison, just as the thousands of non-poisonous snakes still *catch and live on prey without using poison*.
+  * We can say: They could have caught and lived on prey without using poison, just as the thousands of non-poisonous snakes still *do*.
+* Study the following sentence:
+  * Both poisons are unpleasant, but by far *the more unpleasant* is the blood poison.
+
+### 0421
+* Compare these sentences:
+  * Instead of saying: He appeared *only* in Westerns.
+  * We can say: He appeared in *nothing but* Westerns.
+  * Or: He *did not appear* in *anything but* Westerns.
+* Note the form of the verb in this sentence:
+  * Myth and reality *did join* hands in at least one arena.
+* Compare these two uses of *though*:
 

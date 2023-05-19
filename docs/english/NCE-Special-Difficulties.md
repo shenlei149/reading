@@ -1574,3 +1574,22 @@ Note the spelling of the words in italics.
   * How many soldiers are *on leave*? 在休假，休假中
   * You mustn't open the door *on any account* when I'm out. 无论如何
   * It's getting late. I must be *on my way*. 在路上
+
+### 0420
+* merely, only
+  * I'm not blaming you. I'm merely trying to find out how this happened.
+  * Only the head of the department can authorize a withdrawal from a course.
+* fierce, furious
+  * You can see armed guards along the border accompanied by fierce dogs.
+  * He was terribly annoyed. Indeed, he was furious.
+* take place, take part
+  * All these events took place before you were born.
+  * How many of you are taking part in the play?
+* prey, pray
+  * The tiger seized its prey and tore it into pieces.
+  * You've done your best. All you can do now is pray for success.
+* Explain the verbs in italics in the following:
+  * How it *came about* that snakes manufacture poison is a mystery. 产生
+  * I'm sorry I said that. I don't know what *came over* me. 影响了
+  * He *came up with* some very interesting ideas. 提出
+  * I *came across* an old friend of yours while I was abroad. 遇见
