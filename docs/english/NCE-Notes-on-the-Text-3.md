@@ -376,3 +376,33 @@
 * read about (= of) ..., 作“读到……”讲。
 * it is extremely doubtful whether ... ourselves. it 是先行主语，替代以 whether 引导的主语从句。
 * act on..., 根据……行动。
+* bring about, 根据……行动。
+* South Dakota, 南达科他，美国中北部的一个州。面积 77,047 平方英里（约 200,000 平方公里）。这个州以粮食生产和矿产名称。
+* struggle against ... odds, 与恶运搏斗。
+* If they had only had one more child, the fact would have passed unnoticed. 如果他们只是添了一个孩子，这件事就不会引起任何人注意。这是虚拟语气，用来表示与过去的事实相反的假设。unnoticed 是过去分词作方式状语，修饰 passed。
+* The rise to fame was swift. 出名太快了。to fame 作 rise 的定语。
+* the exclusive rights to publish, 独家报道（出版）权。
+* pour in, 作“大量流入”、“源源而来”解。
+* press for ..., 作“迫切要求……”讲。
+
+### 0346 Do it yourself 自己动手
+* So great is our passion for doing ..., 这句话的基本巨型是 so ... that ... 引导的结果状语从句，为了强调 great 这个词，把 so great 提到句首，因此主谓语要倒装。
+* embark on, 开始干。
+* lay our, 布置。
+* go so far as to (do), 竟到了……的程度。
+* cater for, 迎合。
+* get round to, 抽出时间，腾空。
+* I would not hear, 我不愿意听。
+* jigsaw puzzle, 拼版玩具。
+
+### 0347 Too high a price? 代价太高
+* pay for, 付出代价，得到报应。
+* Mad Cow Disease (BSE), 疯牛病。这是牛得的一种病的医学名称的缩写，全称为牛海绵状组织病。这种病的首例在 80 年代末发生在英国，很难彻底治愈。此病俗称“疯牛病”，因为患病的动物无法控制自身的行为。
+* you have the choice of very expensive organically-grown vegetables or a steady diet of pesticides every time you think you're eating fresh salads and vegetables, 你可以两者择一：或是选用价格昂贵、有机培植的蔬菜，或是当你认为在享用新鲜色拉和新鲜蔬菜的时候，实际上每次都不断地吃进杀虫剂。the choice of ... or ..., 在……和……之间选择。
+* burglar alarm, 防盗报警器；go off, 响起。
+* car alarm, 汽车防盗报警器。
+* large container truck, 运输大型集装箱的卡车。
+* mobile phone, 移动式电话，手机。
+* against these figures, 与这些数字相比。
+
+### 0348 The silent village 沉默的村庄
