@@ -1403,4 +1403,18 @@ Study these uses of *have*
 * Note the form of the verb in this sentence:
   * Myth and reality *did join* hands in at least one arena.
 * Compare these two uses of *though*:
+  * Life, *though* (even if it was) hard, was relatively simple.
+  * I wish you had told me *though*. (however)
+* Compare these sentences:
+  * Instead of saying: We all want a code *by which to live*.
+  * We can say: We all want a code *to live by*.
 
+### 0422
+* Study this sentence pattern:
+  * Libraries *made education possible*.
+* Compare these two sentences:
+  * Instead of saying: The problem *which now faces* humanity ...
+  * We can say: The problem *now facing* humanity ...
+* Compare the expressions in italics in these two sentences:
+  * Instead of saying: What is called 'modern civilization' is not the result of a balanced development of all man's nature, but of accumulated *knowledge which has been applied* to practical life.
+  * We can say: What is called 'modern civilization' is not the result of a balanced development of all man's nature, but of accumulated *knowledge applied* to practical life.

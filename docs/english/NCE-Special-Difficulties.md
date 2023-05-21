@@ -1593,3 +1593,32 @@ Note the spelling of the words in italics.
   * I'm sorry I said that. I don't know what *came over* me. 影响了
   * He *came up with* some very interesting ideas. 提出
   * I *came across* an old friend of yours while I was abroad. 遇见
+
+### 0421
+* appear, seem
+  * Wayne Sleep is appearing in 'Song and Dance'. (= can be seen)
+  * He appeared from nowhere. (= came into a view)
+  * It appears/seems odd that he hasn't written to any of us. (= is or may be)
+* devise, device
+  * Can you devise a solution to this problem?
+  * An encephalograph is a device for measuring brain activity.
+* suspect, suspicious
+  * Police blew up the suspect package.
+  * If travellers look nervous, customs officers get suspicious.
+* memory, remembrance
+  * My memory is not as good as it used to be.
+  * This ring is the only remembrance I have of my grandmother.
+* history, story
+  * We often know little about the history of our own times.
+  * Climb into bed and I'll read you a bedtime story.
+* rob, steal
+  * I lost my address book when the man robbed me of my bag.
+  * The man who stole my handbag took my address book as well.
+* Note this use of *unlike*:
+  * *Unlike* Gary Cooper nad John Wayne he appeared in nothing but Westerns.
+
+### 0422
+* surely, certainly
+  * Surely you can ride a bike!
+  * I don't know how far it is to Edinburgh, but it's certainly a long way.
+  * extraordinary, outstanding

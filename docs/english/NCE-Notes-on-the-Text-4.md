@@ -145,3 +145,10 @@
 * be rooted in, 生根于。
 * join hands, 携手联合。
 * live by, 靠……过活。
+
+### 0422 Knowledge and progress 知识和进步
+* with the invention of writing, 短语中的 with 是“由于”的意思。
+* education in its turn added to libraries, 教育反过来也丰富了藏书。
+* a kind of compound interest law, 一种复利法则。compound interest law 有时也被称作“雪球法则”，即利上滚利，增长很快。
+* turn ... to account, 利用……。
+* Could any spectacle, ... to restore them? 这句话从形式上是个疑问句，但实质上起一个加强语气的陈述句的作用，这种疑问句常被称为修辞疑问句。
