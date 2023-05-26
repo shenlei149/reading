@@ -1621,4 +1621,31 @@ Note the spelling of the words in italics.
 * surely, certainly
   * Surely you can ride a bike!
   * I don't know how far it is to Edinburgh, but it's certainly a long way.
-  * extraordinary, outstanding
+* extraordinary, outstanding
+  * Fancy meeting you here! What an extraordinary coincidence! (= unusual, surprising)
+  * Sarah is a women of extraordinary ability.
+  * Sarah's ability is quite outstanding. (= exceptional, possibly unique)
+* spectacle, view
+  * The National Day parade was a magnificent spectacle.
+  * We had a really good view of the beach from where we stayed.
+
+### 0423
+* quite, quiet
+  * I'm quite happy at my new school.
+  * Please be quiet. I can't think with all that noise you're making.
+* wing, feather
+  * He has a good collection of butterflies with beautiful markings on their wings.
+  * Old-fashioned quill pens were made from strong goose feathers.
+* course, coarse
+  * The ship had been blown off course in the storm.
+  * He wore an old jacket made of coarse cloth.
+* Note how the words *sort* and *kind* can be used in the singular and in the plural:
+  * No two *sorts* (or *kinds*) of *birds* practise quite the same *sort* (or *kind*) of *flight*.
+* Explain the meaning of *rough* and *roughly* in these sentences:
+  * Two classes may be *roughly* seen. 大体上
+  * The surface of this road is very *rough*. 高低不平，崎岖
+  * *Roughly* six hundred people attended the meeting. 大约
+  * Last night the sea was very *rough*. 波涛汹涌
+* Note how *such as* may be used to introduce an example:
+  * Their humbler followers, *such as* partridges, ...
+

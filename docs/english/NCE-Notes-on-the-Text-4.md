@@ -152,3 +152,14 @@
 * a kind of compound interest law, 一种复利法则。compound interest law 有时也被称作“雪球法则”，即利上滚利，增长很快。
 * turn ... to account, 利用……。
 * Could any spectacle, ... to restore them? 这句话从形式上是个疑问句，但实质上起一个加强语气的陈述句的作用，这种疑问句常被称为修辞疑问句。
+
+### 0423 Bird flight 鸟的飞行方法
+* keep company with, 伴随着……。
+* The currents of air that the walls of the ship direct upwards, 沿着船体上升的气流。
+* steel-like muscles, that are a good part of the weight of the bird, 句中以 that 引导的从句是一个非限定性定语从句，修饰 muscles, 但用 that 引导非限定性定语从句是很罕见的。
+* in highest measure, 最大程度地。
+* It tires not nor does it boast of its power, but belongs to the air, travelling it may be ... adverse. 句中 tires not 是古英语或诗歌中使用的句式。boast of 中的 of = about；belong to the air 的意思是：与天空融为一体。travelling it may be 是倒装语序，这是为了强调 travelling 的生动逼真，自然语序是 it may be travelling ...; nesting home 意为 home for nesting; flown young 中的 flown 意为已会飞的。a medium （媒介）指 air。
+
+### 0424 Beauty 美
+* in moments of intense aesthetic experience, 在强烈地感受到美的时刻。
+* in some way higher, in some way 是“在某种程度上”的意思，higher 与前面
