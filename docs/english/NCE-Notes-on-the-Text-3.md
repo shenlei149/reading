@@ -406,3 +406,37 @@
 * against these figures, 与这些数字相比。
 
 ### 0348 The silent village 沉默的村庄
+* much-travelled world, 经常有游客往来的世界。
+* be inaccessible to ..., 是……难以到达的。
+* be cut off from ..., 与……隔绝。
+* Balkans, 巴尔干半岛，它位于欧洲东南部，包括阿尔巴尼亚、保加利亚、希腊、罗马尼亚东南部分、土耳其欧洲部分和前南斯拉夫各州。
+* descend on, 突然到来。
+* taking a path which led out of the town 是现在分词短语作时间状语，which 引导定语从句修饰 path。意即“走上了一条出镇的小路”。
+* (be) fast asleep, 熟睡，此处作定语，修饰 boatman。
+* the only sign of life being an ugly-looking black goat, 这是一个由名词和分词组成的独立主格结构，作状语，说明 seemed deserted。
+* be shy of ..., 作“对……畏缩”、“害怕……”解。
+* come to life, 苏醒过来，活跃起来。
+
+### 0349 The ideal servant 理想的仆人
+* air one's views on ..., 作“对……发表意见”讲。
+* be attached to, 喜爱，喜欢。
+* persist in doing sth., 坚持做某事。
+* free from dust, 一尘不染。
+* Aunt Harriet presided over an invisible army of servants ... 句中的 preside over 是“统辖”、“指挥”的意思。由于她雇用过许多仆人，人数之多已可以称作一只队伍（army）；而由于她不断解雇又不断雇用，因此这支队伍在一定程度上也就变得无形了。
+* refer to them as, 把他们称作……。
+* what was, ..., an enlightened policy, 算得上是一项开明政策。in that 是书面用语，作“因为”、“既然”讲。
+* While she always criticized ..., while 作“虽然”讲，引导让步状语从句；to the end of her days, 直到她去世前。
+
+### 0350 New Year resolutions 新年的决心
+* dos and don'ts, 要做的事和不要作的事。
+* year in year out, 年复一年。
+* a thousand and one, 许许多多。
+* beyond attainment, 做不到的，达不到的。
+* carry out, 实行，照办，执行。
+* slip back into our bad old ways, 滑回到那些坏的老习惯上去。
+* keep ... to oneself, 作“将……秘而不宣”，“保密”讲。
+* of an evening = in the evenings。
+* apply oneself to, 全力以赴地干。
+* It was this that betrayed me. 这是强调句型，被强调的部分 this 指 sat down ... in an exhausted condition.
+* fend off, 档回，避开。
+* doze off, 打瞌睡。
