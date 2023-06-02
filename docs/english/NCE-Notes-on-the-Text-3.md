@@ -440,3 +440,60 @@
 * It was this that betrayed me. 这是强调句型，被强调的部分 this 指 sat down ... in an exhausted condition.
 * fend off, 档回，避开。
 * doze off, 打瞌睡。
+
+### 0351 Predicating the future 预测未来
+* in the mid 1970s, 在 20 世纪 70 年代中叶。
+* so-called, 号称，所谓的。
+* Mainframe computers were very large indeed ... software. 在这句话中，现在分词短语 occupying 和 employing 以及过去分词短语 run 均作主语 mainframe computers 的修饰部分。
+* take over, 接管，接受。
+* home computer, 家用电脑。
+* a then small company, 那时候规模尚小的一个公司。
+* dismiss the idea that ..., 不考虑……这个想法。
+* the Internet, the worldwide system that ..., 后面的这个短语用来进一步说明名词 the Internet，是它的同位语，这种用法在科技类的文章中很常见。
+
+### 0352 Mud is mud 实事求是
+* a delicate shade of green, 浅绿色。
+* If you were to ask, 这里用 was/were 加动词不定式来表示过去预计发生并且发生了的事情。
+* come into the possession of, 占有，得到。
+* cure someone of ..., 治好某人的……。
+* on the spot, 当场。
+* put out, 烦恼，不安，不高兴。
+* out of stock, 脱销。
+* keep a straight face, 板着面孔，一本正经。
+
+### 0353 In the public interest 为了公众的利益
+* in the interest of, 符合……的利益。
+* in the belief that ..., 自以为……。
+* be qualified to do sth., 胜任做某事。
+* be subject to ..., 受……的控制，应服从……。
+* complaints large and small, 程度不同的怨言，large and small 作名词 complaints 的定语。这样两个意义相反的形容词并用是要置于被修饰的词之后。
+* in writing, 以书面形式。
+* in detail, 详细地。
+* on one's behalf, 代表某人。
+* in question, 当事的，所涉及的。
+* put an end to, 制止，结束。
+
+### 0354 Instinct or cleverness 是本能还是机智
+* do more harm than good, 害多益少。
+* wage war on, 对……开展。
+* does nothing to prevent, 不能阻止……。
+* go about ..., 做……。
+* stand in awe, 肃然起敬。
+
+### 0355 From the earth: Greeting 来自地球的问候
+* Milky Way, 银河。
+* Whether a planet can support life depends on ..., 一颗行星是否能支持生命取决于……。在这句话中，以 whether 引导的名词性从句作句子的主语。
+* up to, 直到。
+* earth-based telescopes, 放置在地球上的望远镜。
+* in the realms of science fiction, 在科幻小说中存在。
+* NASA, 这是国家航空和宇宙航空局的首字母缩写（也可作 N.A.S.A. 或 Nasa）。这个组织建于 1958 年，负责组织美国的航空宇航研究。它的巨大成功之一便是 1969 年 7 月 21 日把一个人（内尔•阿姆斯特朗，乘“阿波罗 11”号宇宙飞船）送上了月球。
+
+### 0356 Our neighbour, the river 河流，我们的邻居
+* Without it we could not make a living. 没有它我们就无法生存下去。without it 起非真实条件句的作用。make a living, 谋生。
+* hard by ..., 在……近旁。
+* in a heat wave, 在大热天。
+* stand to lose, 处于损失的境况之中。
+* put ... out of order, 使……出故障。
+* Noah's ark, 诺亚方舟。这是摘自《圣经•旧约》《创世纪》中的典故。诺亚是故事中上帝用洪水消灭人类后的新始祖；诺亚借助一方形大船，与他家属及每种动物雌雄各一逃脱了洪水之灾。
+
+### 0357 Back in the old country 重返故里
