@@ -497,3 +497,20 @@
 * Noah's ark, 诺亚方舟。这是摘自《圣经•旧约》《创世纪》中的典故。诺亚是故事中上帝用洪水消灭人类后的新始祖；诺亚借助一方形大船，与他家属及每种动物雌雄各一逃脱了洪水之灾。
 
 ### 0357 Back in the old country 重返故里
+* I had expected to be near my objective by now, 我本以为这时已经接近目的地了。“expect 的过去完成时+不定式的一般式”，表示过去想做而未做的事。
+* become (be) absorbed in ..., 作“专心致志于……”、“全神贯注于……”讲。
+* lack for nothing, 什么也不缺。
+* he made me promise to go on my own, 他要我答应一定单独回故乡一趟。promise 是不带 to 的动词不定式，作宾语补足语；on one's own 作“单独”、“靠自己的力量”解。
+* It was not that ... at all. 和下文的 But ... territory. 这两个句子实际用的使一个完整的句型：not that ... but that ... （不是因为……而是因为……）。
+
+### 0358 A spot of bother 一点儿小麻烦
+* with every step of the way home, 这里介词 with 引起的短语作状语，表示“随……（情况发生某种变化）”。
+* her thoughts were on lunch and a good rest, 她只想着午餐和好好休息。
+* reprimand sb. for ..., 因为……而训斥某人。
+* yet following her regular practice, 然而按照她的惯例。这时现在分词短语作方式状语，修饰 had shut。
+* as clear as daylight, 十分清楚。
+* it might be more prudent to have someone with her, 有人陪伴她可能更谨慎一些。it 是形式主语，不定式短语 to have someone with her 是真正的主语。
+* being careful to touch nothing 是现在分词短语作状语，修饰 went through。
+* skeleton key, 万能钥匙。
+
+### 0359 Collecting 收藏
