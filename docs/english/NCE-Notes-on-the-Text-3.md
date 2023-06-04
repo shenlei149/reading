@@ -514,3 +514,19 @@
 * skeleton key, 万能钥匙。
 
 ### 0359 Collecting 收藏
+* in the belief that, 这个介词短语在句子中作谓语动词 leave 的状语。
+* those very things, 这是那些东西，very 在这里起强调作用，可译作“正是那个（些）”，“正是所要的”。
+* for two other reasons, lack of physical and mental energy, ... and sentiment, 在这个句子中，lack of ... 和 sentiment 是两个并列的成分，作 reasons 的同位语，而 both of which ... 是 physical and mental energy 的非限定性定语从句。
+* beyond their true worth, 超过它们的实际价值。
+* to such an extent that, 达到了这样的程度，that 后面的从句作 extent 的同位语。
+* as just looking at one's treasures is always a joy, 因为欣赏自己收藏的珍品总会充满了乐趣。as 是连词，引导原因状语从句。
+* have something bearing on it, 与它有关。
+
+### 0360 Too early and too late 太早和太晚
+* Only in a sparsely-populated ... is it possible ..., 这是一个倒装句，因为 only 放在句首。
+* for the matter in hand, 为手中的事。
+* if late for a dinner party, 在以 if, when, though 等连词引导的从句中，当其谓语为 be 时，而主语又与主句的主语相同，从句往往可以将主语和谓语省去。上句 if 后就省略了 he is。
+* cut things fine, 把时间安排得不留余地。
+* The over-punctual can be as much a trial to others the unpunctual. 到得过早的人和迟到的人同样使人无法忍受。as much as, 和……一样。
+* half an hour too soon (=half an hour earlier), 早到半个小时。
+* in good time, 作“适当地”、“及时地”讲。
