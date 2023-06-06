@@ -162,4 +162,14 @@
 
 ### 0424 Beauty 美
 * in moments of intense aesthetic experience, 在强烈地感受到美的时刻。
-* in some way higher, in some way 是“在某种程度上”的意思，higher 与前面
+* in some way higher, in some way 是“在某种程度上”的意思，higher 与前面的 different and 是并列的，作 realm of existence 的定语。
+* yet do they convey a hint of beauty, 其中的 do 起强调作用，放在主语之前更具有强调的意义。
+* In some moods Natures shares it. 在某种状态下，大自然也具有这种力量。it 是指前面一句中 this power of suggesting a world beyond。
+
+### 0425 Non-auditory effects of noise 噪音的非听觉效应
+* the Services, 军队。
+* On turning eagerly to the text, one learns that ... 句中的 on 的意思是 on the occasion of, directly after （当时，随后）。
+* aircraft carrier, 航空母舰。
+* That does not prove that it does not exist; but it does mean that ... 句中出现的三个 does 的语法功能并不相同，前两个 does 是一般现在时的否定式使用的助动词，第三个 does 则是强调用法，有强化句意的作用。
+
+

@@ -1649,3 +1649,22 @@ Note the spelling of the words in italics.
 * Note how *such as* may be used to introduce an example:
   * Their humbler followers, *such as* partridges, ...
 
+### 0424
+* unable, enable
+  * I'll be unable to see you on Friday.
+  * Money from his grandfather enabled him to further his education in the United States.
+* rouse, raise
+  * If we're going to set out early, you'll have to rouse us at 6 in the morning.
+  * Will those who agree with me please raise their hands?
+* lie, lay
+  * Are you going to lie in bed all morning?
+  * Please lay the book open on the dest.
+* indefinable, undefined
+  * She felt a sudden indefinable sadness.
+  * The relationship between them was undefined, but she might have been his wife, I'd guess.
+* vulgar, common
+  * I wish you wouldn't use such vulgar expressions in your speech.
+  * In this block we have a common responsibility for maintaining the staircase.
+
+### 0425
+* regard, look at

@@ -1418,3 +1418,27 @@ Study these uses of *have*
 * Compare the expressions in italics in these two sentences:
   * Instead of saying: What is called 'modern civilization' is not the result of a balanced development of all man's nature, but of accumulated *knowledge which has been applied* to practical life.
   * We can say: What is called 'modern civilization' is not the result of a balanced development of all man's nature, but of accumulated *knowledge applied* to practical life.
+
+### 0424
+* Compare the uses of *must* in these two sentences:
+  * A young man sees a sunset and concludes that it *must be* the gateway to a world that lies beyond.
+  * If beauty means something we *must not seek* to interpret the meaning.
+* Compare the use of *it is* and *there is* in these sentences:
+  * *It is* difficult for any of us to resist the suggestion.
+  * *There is* no sky in June so blue ...
+* Compare these two sentences:
+  * Instead of saying: It is undeniable that all great art has this power of suggesting a world beyond.
+  * We can say: That all great art has this power of suggesting a world beyond is undeniable.
+
+### 0425
+* Compare these two sentences:
+  * Instead of saying: One allegation *that is often made* is that noise produces mental illness.
+  * We can say: One allegation *often made* is that noise produces mental illness.
+* Note the use of *yet* in these sentences:
+  * Has he come *yet*?
+  * I haven't seen him *yet*.
+  * She was *yet* another victim.
+* Compare these two sentences:
+  * Instead of saying: *When one turns* eagerly to the text, one learns that the lady was a typist.
+  * We can say: *On turning* eagerly to the text, one learns that the lady was a typist.
+
