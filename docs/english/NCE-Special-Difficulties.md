@@ -1668,3 +1668,43 @@ Note the spelling of the words in italics.
 
 ### 0425
 * regard, look at
+  * I don't regard a degree as a meal ticket for life.
+  * Just look at those children picking apples.
+* affect, effect
+  * This hay fever is seriously affecting my work.
+  * This hay fever is having a serious effect to my work.
+* plea, please
+  * The accused man entered a plea of Not Guilty.
+  * I only got married to please my parents.
+* objective, objection
+  * I need an objective opinion from someone who is not involved. (adjective)
+  * The objective of this meeting is to decide who will represent us on the Planning Committee. (noun)
+  * If no one has any objection, I'll declare the meeting closed.
+* confirm, assure
+  * I can confirm that door was locked. (= say it is true)
+  * I went back to assure myself that I really had locked the door. (= make myself confident)
+* Explain the meaning of the verbs and expressions in italics:
+  * It does mean that noise is less dangerous than, say, being *brought up* in an orphanage - which really is a mental health hazard. 养大，培养，教育
+  * The question was recently *brought up* in Parliament. 提出（问题等）
+  * The boxer was knocked out in the first round. It took a long time to *bring him round*. 恢复知觉
+  * The whole scene *brought back* the days of my children. 回忆起
+  * Their wonderful performance *brought down the house*. 博得全场喝彩
+  * Can you *bring to mind* what happened on the fourth of July? 想起
+  * Difficult conditions will sometimes *bring out* a man's best qualities. 显现，使……更加突出
+
+### 0426
+* favourable, favourite
+  * The new film received favourable reviews.
+  * What is your favourite dish?
+* alive, living
+  * Be careful! That lobster is alive.
+  * All living creatures need air and water.
+* avoid, prevent
+  * Avoid travelling during the rush hour.
+  * I can't prevent your going if you want to.
+* Explain the meaning of *due to* and *due* in these sentences:
+  * It is almost always *due to* some very special circumstances that traces of land animals survive. 由于
+  * The train is *due to* arrive in three minutes. 定于
+  * Give the man his *due*, even if you dislike him. 应得的
+
+

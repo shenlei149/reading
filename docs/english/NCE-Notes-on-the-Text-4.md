@@ -172,4 +172,7 @@
 * aircraft carrier, 航空母舰。
 * That does not prove that it does not exist; but it does mean that ... 句中出现的三个 does 的语法功能并不相同，前两个 does 是一般现在时的否定式使用的助动词，第三个 does 则是强调用法，有强化句意的作用。
 
-
+### 0426 The past life of the earth 地球上的昔日生命
+* 第 1 段中有两个由 it is ... 引导的强调句。一个是 It is animals and plants which lived in or near water whose remains are most likely to be preserved, 被强调部分是 animals and plants which lived in or near water。另一个强调句是 it is only in the seas and rivers, and sometimes lakes, ... that bodies and the like can be ..., 这一句中强调的是地点状语。
+* set in, 到来，开始。
+* whether it be plant or animal, dead or alive. 这是让步状语从句，用的是虚拟语气形式。
