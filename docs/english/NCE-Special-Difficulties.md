@@ -1706,5 +1706,23 @@ Note the spelling of the words in italics.
   * It is almost always *due to* some very special circumstances that traces of land animals survive. 由于
   * The train is *due to* arrive in three minutes. 定于
   * Give the man his *due*, even if you dislike him. 应得的
+  * Halifax lies *due* North from here. 正对着，朝着（副词）
+
+### 0427
+* Explain the meaning of *spread* in these sentences:
+  * The people watched this thing of beauty begin to *spread* her sails. 扬帆
+  * You should know better than to *spread* such rumours. 传播
+  * *Spread* some jam on your bread. 涂
+  * Help me to *spread* the tablecloth. 铺
+* Explain the meaning of *produce* in these sentences:
+  * They had laboured fro three years to *produce* this floating work of art. 制作，建成了
+  * The inspector asked me to *produce* my ticket. 出示
+  * Who *produced* this play? 制作
+  * This country does not *produce* enough wheat for its needs. 生产
+* Explain the meaning of the words in italics:
+  * All gun-ports were open and the muzzles *peeped* wickedly from them. 窥视
+  * I opened the door and *peered* into the darkness. 凝视
+  * I've been so busy, I haven't even *glanced* at today's newspapers. 看一眼
+  * I just *caught a glimpse* of a face at the window. 瞥见
 
 

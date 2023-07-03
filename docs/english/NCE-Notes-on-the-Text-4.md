@@ -176,3 +176,13 @@
 * 第 1 段中有两个由 it is ... 引导的强调句。一个是 It is animals and plants which lived in or near water whose remains are most likely to be preserved, 被强调部分是 animals and plants which lived in or near water。另一个强调句是 it is only in the seas and rivers, and sometimes lakes, ... that bodies and the like can be ..., 这一句中强调的是地点状语。
 * set in, 到来，开始。
 * whether it be plant or animal, dead or alive. 这是让步状语从句，用的是虚拟语气形式。
+
+### 0427 The 'Vasa' “瓦萨”号
+* the 'Vasa', “瓦萨号”战船。这艘船是以瑞典瓦萨王朝（1523-1654）创始人 Gustavus Vasa 的姓氏命名的。Gustavus Vasa（1496-1560）曾领导了反对丹麦统治的暴动，1523 年出任国王，使瑞典成为一个独立、统一、富强的国家。
+* the Thirty Years War, “三十年战争”。这是欧洲历史上的一场多国混战，具有政治和宗教色彩，是新教诸侯和天主教诸侯之间的连年战争（1618-1648），最后在 1648 年签订了《威斯特伐利亚条约》，以天主教诸侯的失败告终。
+* a riot of, 许多……，主要指色彩丰富。
+* with the water churned ..., her flags flying, pennants waving, sails filling ..., and the red and gold ... ablaze ... with 后有 5 个独立主格结构，均作方式状语，修饰动词 emerged。
+
+### 0428 Patients and doctors 病人与医生
+* the same as theirs, 这里的 theirs 是指 our forefathers'。
+* only too ready to provide, 非常乐意提供。在英语中 too ... to do ... 的结构通常表示否定，但如果在前面加上 only，就有“非常……能做”的意思。
