@@ -186,3 +186,15 @@
 ### 0428 Patients and doctors 病人与医生
 * the same as theirs, 这里的 theirs 是指 our forefathers'。
 * only too ready to provide, 非常乐意提供。在英语中 too ... to do ... 的结构通常表示否定，但如果在前面加上 only，就有“非常……能做”的意思。
+* dispose of, 处理。
+* It is recounted of Thomas Carlyle ..., 据说，托马斯•卡莱尔……（有下面这件事）。托马斯•卡莱尔是 19 世纪英国著名的散文作家和历史学家。
+* in all probability, 很可能。
+* put up with, 忍受。
+
+### 0429 The hovercraft 气垫船
+* the strangest of them being perhaps the hovercraft, 这是现在分词 being 的独立主格结构。
+* in between, 介乎……之间，这是一种组合介词。
+* a surface ship, 水面船只。
+* may well be, 很可能是。
+
+### 0430 Exploring the sea-floor 海底勘探

@@ -1442,3 +1442,10 @@ Study these uses of *have*
   * Instead of saying: *When one turns* eagerly to the text, one learns that the lady was a typist.
   * We can say: *On turning* eagerly to the text, one learns that the lady was a typist.
 
+### 0429
+* Note the form of the verbs in italics:
+  * His answer was to lift the vessel out of the water by *making* it *ride* on a cushion of air.
+* Compare these two sentences:
+  * Instead of saying: *It is quite likely that* the railway of the future will be the 'hovertrain'.
+  * We can say: The railway of the future *may (or might) well* be the 'hovertrain'.
+

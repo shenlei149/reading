@@ -1725,4 +1725,41 @@ Note the spelling of the words in italics.
   * I've been so busy, I haven't even *glanced* at today's newspapers. 看一眼
   * I just *caught a glimpse* of a face at the window. 瞥见
 
+### 0428
+* cease, seize
+  * It rained all day without ceasing.
+  * He seized her hand and dragged her into another room.
+* receive, take
+  * When did you receive that letter?
+  * He told me to take the keys from his pocket.
+* ask for, ask
+  * The school is asking for contributions towards a new swimming pool.
+  * 'What time did the train arrive?' he asked.
+* advice, advise
+  * She gave me some good advice about jobs.
+  * She advised me about applying for jobs.
+* prescribed, proscribed
+  * If these don't work, I may have to prescribe you something stronger.
+  * Gambling was proscribed by the new government.
+* Explain the meaning of the words and phrases in italics:
+  * The doctor *in charge of* the department is only too ready to provide them with with these requirements. 负责
+  * The soldiers *charged* at the enemy. 冲锋
+  * He was arrested and *charged* with murder. 指控
+  * How much did they *charge* you for installing this boiler? 收取
+
+### 0429
+* engineer, mechanic
+  * It is every engineer's dream to design a machine that will use water as fuel.
+  * Can I have word with the mechanic who serviced my car?
+* solution, solvent
+  * The ozone layer is depleting and there's no easy solution to this problem.
+  * Water is the commonest solvent.
+* Explain the meaning of the verbs in italics:
+  * He had *turned to* boat-building on the Norfolk Broads. 转向，转行
+  * Please *turn off* the tap. 关
+  * Aunt Matilda *turned up* unexpectedly last night. 出现
+  * The soldiers marched to the other side of the park, *turned about*, and marched back. 掉头
+* Note the use of the verb *ride* in this sentence:
+  * It crossed the Channel, *riding* smoothly over the waves. 航行
+
 
