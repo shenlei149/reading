@@ -198,3 +198,15 @@
 * may well be, 很可能是。
 
 ### 0430 Exploring the sea-floor 海底勘探
+* be confined to, 仅限于……。
+* shallow water, 浅水区。
+* open sea, 无边际的大海。
+* gave more than a passing thought to, 稍微想过。
+* H.M.S. 是 Her/His Majesty's Ship（英国皇家海军舰艇）的缩写。
+* at the disposal of, 交由……支配。
+* a relief map, 地形图。
+* with, superimposed upon it, the continents, together with the islands and other features of the oceans, 这是 with 引导的一个过去分词独立主格结构。因为逻辑主语太长，所以使用了倒装语序。superimposed upon it 是逻辑谓语部分。
+* continental shelf, 大陆架。
+* 1 in 30, 1/30。
+
+

@@ -1449,3 +1449,11 @@ Study these uses of *have*
   * Instead of saying: *It is quite likely that* the railway of the future will be the 'hovertrain'.
   * We can say: The railway of the future *may (or might) well* be the 'hovertrain'.
 
+### 0430
+* Compare these two sentences:
+  * Instead of saying: It was only in 1869 ... that a series of deep soundings was obtained in the Atlantic.
+  * We can say: It was not util 1869 ... that a series of deep soundings was obtained in the Atlantic.
+* Compare the uses of *since* in these two sentences:
+  * *Since* the sea covers the greater part of the earth's surface, form of the crust of the earth.
+  * I have not seen him *since* last week.
+
