@@ -1762,4 +1762,31 @@ Note the spelling of the words in italics.
 * Note the use of the verb *ride* in this sentence:
   * It crossed the Channel, *riding* smoothly over the waves. 航行
 
+### 0430
+* flat, level
+  * In front of the hotel is a perfectly flat sandy beach. (= smooth without hollows and bumps)
+  * You have to adjust it so that the front is level with the back. (= horizontal and in the same place)
+* disposal, disposition
+  * Waster paper is one of the biggest problems in rubbish disposal.
+  * This old house may be charming, but the disposition of the rooms is hardly ideal. (= the way they are placed)
+  * Verity has a sweet disposition. (= nature, temperament)
+* worthy, valuable
+  * Nothing particularly worthy of notice occurred during the two following days.
+  * I won't waster any more of your valuable time.
+* confirm, assure
+  * Overnight reports of an explosion were officially confirmed the next day.
+  * The police assured us that everything that could be done had been done.
+* rugged, ragged
+  * North Cornwall has a rugged coastline, with high cliffs.
+  * The begger slept on a pile of ragged blankets.
+* Explain the meaning of the word *feature* in these sentences:
+  * A burst of activity soon confirmed the existence of underwater *features* of considerable magnitude. 特征
+  * I never enjoy *feature* films. 故事片
+  * The present world tour of the President of the United States *is featured* prominently in all today's newspapers. 重要位置 (of a newspaper or magazine article, broadcast program, or show) made a special attraction
+  * I hardly recognized him when I saw him again: his *features* have changed with the years. 特征
+
+### 0431
+* appreciation, estimation
+  * I wish to express my appreciation of the numerous courtesies extended to me by the company.
+  * Your estimation of the time needed seems about right. (= approximate calculation, judgment)
 

@@ -209,4 +209,13 @@
 * continental shelf, 大陆架。
 * 1 in 30, 1/30。
 
+### 0431 The sculptor speaks 雕塑家的语言
+* form-blind, 这是作者仿照 colour-blind（色盲）生造的一个词，意指形盲。
+* in its full spatial completeness, 存在于空间的整个（形体）。
+* as it were, 可以说是。
+* whatever its size, 这是一个省略了 may be 的让步状语从句。
+* from all round itself, 从它的各个角度构想。
+* centre of gravity, 重心
+* apart from, 除了……外。
+
 

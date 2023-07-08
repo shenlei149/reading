@@ -1457,3 +1457,8 @@ Study these uses of *have*
   * *Since* the sea covers the greater part of the earth's surface, form of the crust of the earth.
   * I have not seen him *since* last week.
 
+### 0431
+* Compare these two sentences:
+  * Instead of saying: *When they have satisfied* the requirements of practical necessity, most people go no further.
+  * We can say: *Having satisfied* the requirements of practical necessity, most people go no further.
+
