@@ -218,4 +218,13 @@
 * centre of gravity, 重心
 * apart from, 除了……外。
 
+### 0432 Galileo reborn 伽利略的复生
+* something like, 多少，大约。
+* a problem child, problem 作定语，修饰 child。这是一种比喻修辞法，意思是“新出现的问题”。
+* a man who ... who ... who ... who ..., 这里一连用了 4 个定语从句，均用 who 引导，构成了排比结构，起加强语气的作用。
+* at the time, 当时。
+* use a telescope at the limit of its powers, 用望远镜的极限放大率。
 
+### 0433 Education 教育
+* Education, with its cycles ..., punctuated by textbooks ..., 这句话中的主语 Education 于 punctuated 并不是一种主谓关系，因此，这句话在语法上被称作单元句（独立主格）。
+* So much is certain, 有承上启下的作用：

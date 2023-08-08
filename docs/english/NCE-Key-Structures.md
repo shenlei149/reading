@@ -1462,3 +1462,8 @@ Study these uses of *have*
   * Instead of saying: *When they have satisfied* the requirements of practical necessity, most people go no further.
   * We can say: *Having satisfied* the requirements of practical necessity, most people go no further.
 
+### 0432
+* Compare these two sentences:
+  * Instead of saying: *Using* a telescope at the limit of its powers calls for long experience and intimate familiarity with one's instrument.
+  * We can say: *To use* a telescope at the limit of its powers calls for long experience and intimate familiarity with one's instrument.
+

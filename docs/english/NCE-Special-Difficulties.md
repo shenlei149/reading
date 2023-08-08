@@ -1789,4 +1789,56 @@ Note the spelling of the words in italics.
 * appreciation, estimation
   * I wish to express my appreciation of the numerous courtesies extended to me by the company.
   * Your estimation of the time needed seems about right. (= approximate calculation, judgment)
+* distinguish, perceive
+  * We have to distinguish carefully between fact and legend.
+  * I don't perceive any improvement in the economy.
+* depth, deeps
+  * What depth is this well?
+  * Up till now, we have known more about Space than about the deeps/depths of the oceans on this planet.
+* displace, replace
+  * Coal is being displaced by natural gas as a major source of energy.
+  * They are replacing the old windows with double glazing.
+* single, unique
+  * There is not a single public phone in the village.
+  * Each person's fingerprints are unique.
+* Explain the meaning of the word *form* in these sentences:
+  * It is more difficult than the arts which involve appreciation of flat *forms*. 形状
+  * A new golf club has just been *formed* in our district. 成立
+  * How many children are there in your *form*? 组织，班
+  * I don't feel like playing tennis. I haven't been in very good *form* lately. 状态
+  * There were not enough chairs to go round so we had to sit on *forms*. 长板凳
+  * Would you please fill up this *form*? 表格
+
+### 0432
+* plane, plain
+  * The problem of drawing this on paper is the problem of representing a three-dimensional object in a single plane.
+  * The mountain rises sharply from the plain.
+* popular, folk
+  * You can always hear a lot of popular songs on radio request programs.
+  * Some composers like Bartok made use of folk music.
+* sympathy, affection
+  * Those children need a lot more than sympathy now that they've lost their mother.
+  * His affection for his family is obvious.
+* blame, accuse
+  * Don't blame me for our missing the train. You didn't allow enough time.
+  * He was falsely accused of stealing.
+* refuse, deny
+  * I offered to pay him for his help but he refused.
+  * The secretary denies all knowledge of the missing letter.
+* scratch, scrape
+  * You're bound to get one or two scratches in the paintwork as soon as you begin using the car. (= lines that make the surface imperfect)
+  * We listened to the scrape of heavy furniture being dragged across the floor upstairs. (= the process of one thing being pushed across the another roughly)
+* Explain the meaning of the verb *settle* in these sentences:
+  * Have you *settled down* in your new house yet? 安顿
+  * I *settled down* in an armchair to read a book. 坐
+  * I shall *settle* my account next week. 结算，结账
+  * We must *settle* this problem once for all. 解决
+  * His ancestors *settled* in Boston in eighteen fifties. 定居
+* Explain the verbs in italics:
+  * To use a telescope *calls for* long experience. 需要
+  * I'll *call on* you on my way home from work. 拜访
+  * I'll *call* you *up* at the office tomorrow morning. 打电话
+  * It's impossible to have a party tomorrow. Why don't we *call* the whole thing *off*? 取消，终止
+  * May I leave this suitcase here? I'll *call for* it later. 过来取
+  * I think you'd better *call in* a doctor. 请来
 
