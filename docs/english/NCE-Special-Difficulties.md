@@ -1842,3 +1842,26 @@ Note the spelling of the words in italics.
   * May I leave this suitcase here? I'll *call for* it later. 过来取
   * I think you'd better *call in* a doctor. 请来
 
+### 0433
+* opportunity, chance
+  * Our holiday gave us a chance/an opportunity of getting fit.
+  * Book now, or you won't have a chance of getting a seat.
+  * We met by chance at London Airport.
+* potential, potent
+  * Think of him as a potential friend rather than an alarming stranger.
+  * The film is full of potent images of war.
+* imaginable, imaginative
+  * Posters were plastered on every imaginable surface.
+  * Congratulations on finding such an imaginative solution to the problem.
+* tribe, race
+  * The Seringa tribe will be wiped out by the construction of the new dam.
+  * Global warming poses a threat to the survival of the human race.
+* compulsory, necessary
+  * In China, education is compulsory between the ages of 6 and 15.
+  * Is it necessary to wear a tie?
+* Explain the meaning of the words in italics:
+  * Our spiritual *outlook* would be different. 面貌
+  * He's usually such a quiet person. I can't account for this *outburst*, can you? （尤指愤怒情绪的）爆发
+  * There was an *outbreak* of dysentery among the troops. （尤指疾病、危险或不快之事的）发作，暴发
+  * One unexpected *outcome* of the new policy has been a fall in prices. 结果
+

@@ -1467,3 +1467,7 @@ Study these uses of *have*
   * Instead of saying: *Using* a telescope at the limit of its powers calls for long experience and intimate familiarity with one's instrument.
   * We can say: *To use* a telescope at the limit of its powers calls for long experience and intimate familiarity with one's instrument.
 
+### 0434
+* Compare the uses of *enough* in these two sentences:
+  * Parents are ... often *foolish enough* to let the adolescents see that they are annoyed.
+  * Have you had *enough tea*, or would you like some more?

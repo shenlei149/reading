@@ -227,4 +227,12 @@
 
 ### 0433 Education 教育
 * Education, with its cycles ..., punctuated by textbooks ..., 这句话中的主语 Education 于 punctuated 并不是一种主谓关系，因此，这句话在语法上被称作单元句（独立主格）。
-* So much is certain, 有承上启下的作用：
+* So much is certain, 有承上启下的作用：一方面回答了前一段最后一句的提问，另一方面开始列举没有教育给社会文明带来的影响。
+* be fashioned after, 按……做成。
+* without a script, 没有文字的。
+
+### 0434 Adolescence 青春期
+* on the part of, 在……一边。
+* they have brought this on themselves, 他们是咎由自取。
+* stand up to, 经得起。
+* face up to, 正视。
