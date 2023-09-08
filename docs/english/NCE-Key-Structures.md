@@ -1471,3 +1471,8 @@ Study these uses of *have*
 * Compare the uses of *enough* in these two sentences:
   * Parents are ... often *foolish enough* to let the adolescents see that they are annoyed.
   * Have you had *enough tea*, or would you like some more?
+* Compare these two sentences:
+  * Instead of saying: *The thing* the child cannot forgive is the parents' refusal to admit these charges.
+  * We can say: *What* the child cannot forgive is the parents' refusal to admit these charges.
+
+

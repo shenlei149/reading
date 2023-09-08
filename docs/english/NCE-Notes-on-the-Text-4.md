@@ -236,3 +236,8 @@
 * they have brought this on themselves, 他们是咎由自取。
 * stand up to, 经得起。
 * face up to, 正视。
+
+### 0435 Space odyssey 太空探索
+* the comparable speed from the Moon, 从月球护法的相应的速度，这里是指摆脱月球引力所需达到的速度。
+* the Apollo astronauts, 指 1969 年 7 月 20 日美国“阿波罗 11 号”宇宙飞船第一次载人登月球。
+* the Grand Canyon, 指位于美国亚利桑那州西北部的科罗拉多大峡谷。

@@ -1865,3 +1865,50 @@ Note the spelling of the words in italics.
   * There was an *outbreak* of dysentery among the troops. （尤指疾病、危险或不快之事的）发作，暴发
   * One unexpected *outcome* of the new policy has been a fall in prices. 结果
 
+### 0434
+* enough, fairly
+  * The water is warm enough to swim in.
+  * The water is fairly warm.
+* loss, lose
+  * Our company made a big loss last year.
+  * Try not to lose your ticket.
+* descent, decent
+  * The pilot managed an emergency descent and landed in a field.
+  * Decent citizens have nothing to fear from this legislation.
+* belief, loyalty
+  * Try to have more belief in your own ability.
+  * Family loyalty makes it impossible for him to say anything negative about his relations.
+* grow up, grow
+  * What do you want to do when you grow up?
+  * Livia grows all her own vegetables.
+* hurt, pain
+  * I'm sorry if I hurt your feeling.
+  * I banged against the table and hurt my knee.My knee hurts.
+  * I had such a pain in the stomach after eating oysters.
+* refusal, denial
+  * A journalist's refusal to identify his source of information has landed him in prison before now.
+  * He gave the statement an unqualified denial.
+  * The journalist's denial that he had handled stolen documents was not believed at the inquiry.
+
+### 0435
+* industrial, industrious
+  * Japan is an industrial nation.
+  * The Japanese people are very industrious.
+* supplying, providing
+  * Who supplies you with fresh vegetables?
+  * Our parents provided us with everything we needed while we were growing up.
+* less, lesser
+  * His new novel had less success than expected.
+  * This is a lesser problem compared with pollution.
+* bound, bounds
+  * A great black dog came bounding out towards us.
+  * There are no bounds to his ambition.
+* bind, bound for
+  * Don't bind that so tight. A bandage bound as tight as that will restrict the patient's circulation.
+  * Where are you bound for? - I'm off to Scotland for a week.
+* fly, flow
+  * It's hard to imagine that anyone could fly some of the old planes you see in museums.
+  * Originally, the river flowed several miles north of this point.
+* idea, ideal
+
+
