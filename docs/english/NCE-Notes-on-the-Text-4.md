@@ -241,3 +241,18 @@
 * the comparable speed from the Moon, 从月球护法的相应的速度，这里是指摆脱月球引力所需达到的速度。
 * the Apollo astronauts, 指 1969 年 7 月 20 日美国“阿波罗 11 号”宇宙飞船第一次载人登月球。
 * the Grand Canyon, 指位于美国亚利桑那州西北部的科罗拉多大峡谷。
+
+### 0436 The cost of government 政府的开支
+* economic resources, 经济资源。
+* stay in business, 维持营业。
+* be analogous to ..., 与……类似。
+* as falls within their sphere, 属于他们分内的。
+* keep someone in line, 控制住某人。
+* keep them in order, 管理他们。
+* be in the interests of ..., 符合……的利益。
+
+### 0437 The process of ageing 衰老过程
+* at its most vigorous, 生命力最旺盛的时候。
+* with the passing of time, 随着时间的流失。
+* It is one of the most unpleasant discoveries ... that ..., that ..., and that ..., 3 个以 that 引导的从句是 discoveries 的同位语。
+* a wound watch, 上紧了发条的表。

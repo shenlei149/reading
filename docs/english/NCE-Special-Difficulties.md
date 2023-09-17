@@ -1910,5 +1910,26 @@ Note the spelling of the words in italics.
   * It's hard to imagine that anyone could fly some of the old planes you see in museums.
   * Originally, the river flowed several miles north of this point.
 * idea, ideal
+  * Whose idea was it that we should invite him?
+  * You'll find an ideal place for a picnic on the other side of the lake.
+* at least, at last
+  * There isn't much news about the missing climbers, but at least we know they're safe.
+  * After days of anxiety, at last we learnt the climbers were safe.
+
+### 0436
+* earnings, profits
+  * The foreign earnings of the company this year are down because of the high exchange value of the dollar. (= money from work or trade)
+  * Our profits figure for the current year will be sharply reduced by provision for bad debts arising from war in Africa. (= money earned from trade after all costs have been deducted)
+* watch, follow
+  * I'm watching the game on TV.
+  * The dog followed me all the way home.
+  * Sorry! The phone rang, and I haven't quite followed what you were saying. (i.e. with the mind: understood)
+* check, control
+  * Check the tyres before you leave.
+  * The state no longer controls the price of grain.
+* Explain the meaning of the words in italics:
+  * And it should not be forgotten how small those resources are in a poor and *backward* country. 落后的国家
+  * The train had to go *backwards* for half a mile. 倒退
+  * She is concerned with the care of *backward* children. 落后/迟钝
 
 
