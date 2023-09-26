@@ -256,3 +256,8 @@
 * with the passing of time, 随着时间的流失。
 * It is one of the most unpleasant discoveries ... that ..., that ..., and that ..., 3 个以 that 引导的从句是 discoveries 的同位语。
 * a wound watch, 上紧了发条的表。
+
+### 0438 Water and the traveller 水和旅行者
+* keep to, 局限于。
+* Ice is only as safe as the water from which it is made. 冰块只有当制造它的水安全时才是安全的。
+* know about, 知道……的情况，了解。

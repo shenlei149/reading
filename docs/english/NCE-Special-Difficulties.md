@@ -1932,4 +1932,34 @@ Note the spelling of the words in italics.
   * The train had to go *backwards* for half a mile. 倒退
   * She is concerned with the care of *backward* children. 落后/迟钝
 
+### 0437
+* infant, baby
+  * The State provides a programme of health checks for all infants up to a year old. (Infant is only used in official contexts.)
+  * We were inoculated against diphtheria when we were babies.
+* imperceptible, unperceived
+  * The changes, as first so small as to be imperceptible, become more obvious as time passes.
+  * So much money was involved that it was impossible for the forgeryto remain unperceived.
+* alive, living
+  * It was a surprise to learn that he had just died, since I hadn't realized he was still alive!
+  * Until August 1997, the oldest living person was a French woman from Arles aged a hundred and twenty-two.
+* Explain the meaning of the verbs in italics:
+  * ... we shall undergo a progressive loss of our vigour ... however well we *look after* ourselves ... 照顾
+  * *Look out!* There's a bus coming! 注意！当心！
+  * I am *looking forward to* the summer holidays. 期待
+  * Everybody *looks on* him as a leader. 视为
+  * If there are any words in the passage you don't understand, *look* them *up* in the dictionary. 查找
+  * Business was very slack before Christmas, but things are *looking up* now. 好转
+  * I shall certainly *look up* all my old friends when I go back home. 拜访
+  * Why don't you *look in* next week. I'm sure he'll be back by then. 短暂而随意地访问一个地方或人，顺便看望，看看
+* Explain the meaning of the verbs in italics:
+  * ... mechanical systems ... *run out* of energy ... 耗尽
+  * My new car hasn't been *run in* yet. 磨合
+  * That little boy was nearly *run over* by a bus. 撞倒，碾过
+  * He *ran through* all the money he had inherited in less than a year. 花光，用完，耗尽
+  * While on holiday in Spain, we *ran into* out next-door neighbours. 遇到
+  * Look at that lamp-post. It looks as if a car *ran into* it. 撞
+* Explain the meaning of the verbs in italics:
+  * ... an illness which at twelve would *knock* us *over*, at eighty can *knock* us *out* ... 击倒，这里指病倒了；击败，出局，这里指病逝。
+  * There's so much work to do in the office these days, I never *knock off* before six o'clock. 下班
+
 
