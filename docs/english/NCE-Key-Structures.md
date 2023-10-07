@@ -1475,4 +1475,8 @@ Study these uses of *have*
   * Instead of saying: *The thing* the child cannot forgive is the parents' refusal to admit these charges.
   * We can say: *What* the child cannot forgive is the parents' refusal to admit these charges.
 
+### 0439
+* Instead of saying: I never heard of anyone *who made* a 'skeleton', as we were taught at school.
+* We can say: I have never heard of *anyone making* a 'skeleton', as we were taught at school.
+
 

@@ -261,3 +261,23 @@
 * keep to, 局限于。
 * Ice is only as safe as the water from which it is made. 冰块只有当制造它的水安全时才是安全的。
 * know about, 知道……的情况，了解。
+
+### 0439 What every writer wants 作家之所需
+* where they are going, 他们要写什么，怎么写。
+* set pen to paper, 开始写作。
+* pass for, “被当作”，但常指蒙骗、假冒。
+* to my certain knowledge, 据我所知。
+* nothing but, 仅，只。
+* like adolescents they stand before the mirror, and still cannot fathom the exact outline of the vision before them. 他们如同少年，站在镜前，不能辨认出自身的真面目。此句话出自古希腊的一则神话：有一漂亮少年，他热恋上了水中自身的映像，最后憔悴而死，化为水仙花。
+* in the sight of, 从……角度来看。
+
+### 0440 Waves 海浪
+* back to its starting point again, 又返回出发点。
+* be subject to, 受……的支配，服从于……。
+
+### 0441 Training elephants 训练大象
+* be some unavoidable circumstance, 由于某些不可避免的情况。
+* with a grain of salt, 有保留地。
+* a very firm hand, 一个强有力的人。
+* with the aid of, 在……的帮助下。
+* This is supposed, 据说。

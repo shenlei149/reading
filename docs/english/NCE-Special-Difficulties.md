@@ -1962,4 +1962,33 @@ Note the spelling of the words in italics.
   * ... an illness which at twelve would *knock* us *over*, at eighty can *knock* us *out* ... 击倒，这里指病倒了；击败，出局，这里指病逝。
   * There's so much work to do in the office these days, I never *knock off* before six o'clock. 下班
 
+### 0439
+* destination, destiny
+  * Passengers flying on to other destinations in Europe first clear their baggage at this airport.
+  * Surely you don't believe someone can tell your destiny by looking at a pack of cards or a crystal ball.
+* indescribable, undescribed
+  * When they reached the top of the hill, they saw a scene of indescribable beauty.
+  * Stephen's journey back home is undescribed in the novel.
+* capture, arrest
+  * Captured by the enemy, the soldiers were in danger of being shot.
+  * He was arrested by the police for theft.
+* misunderstood, not understood
+  * That is not what I meant, He must have misunderstood or misheard me.
+  * Apparently this is not understood by all the students.
+* draft, draught
+  * It is said that he completed the first draft of the play within two days.
+  * Can you close that window a bit, please, on account of the draught. (= cold air current)
+* judgement, criticism
+  * Find out everything you can, then make a judgement based on the facts.
+  * Young people deeply resent any criticism of their friends by their parents.
+* The words in italics in the following sentences are used metaphorically. What is their literal meaning?
+  * He adds a *brushstroke* and another, and it is gone, ... （尤指绘画的）笔法，手法。这里描绘朦胧的形象。
+  * Sometimes the *yeast* within a writer outlives a book he has written. 酵母。这里指写作的兴奋。
+  * Like adolescents they stand before the mirror and still cannot *fathom* the exact outline of the vision before them. 弄清；理解。这里指*辨认*自己。
+  * When he *flirts* with fame, he is taking time off from living with himself ... 挑逗。这里指沽名钓誉。
+
+### 0441
+* train, educate
+  * You need to be very patient when you train dogs.
+
 
