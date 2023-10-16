@@ -1990,5 +1990,26 @@ Note the spelling of the words in italics.
 ### 0441
 * train, educate
   * You need to be very patient when you train dogs.
+  * The best investment any country can make in its future is to educate its children.
+* apart from, except
+  * Apart from you/Except for you, everyone has help in some way.
+  * We're open every day apart from /except Saturday.
+* degree, rank
+  * I think that's true to a degree.
+  * What rank was your father when he ws in the army?
+* afterwards, after
+  * We had dinner first. Afterwards, we went to a show.
+  * Come and see me after work.
+
+### 0442
+* device, devise
+  * The juice extractor is a practical household device.
+  * He has devised a scheme for earning more money.
+* travel, trip
+  * She travels to London at least three times month.
+  * I'm just back from a business trip.
+* adopted, adapted
+  * The company has persuaded the workers to adopt more flexible working practices so as to increase efficiency.
+  * Our Geology teacher has adapted an old washing-machine so he can use it to polish gem-stones.
 
 

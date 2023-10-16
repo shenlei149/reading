@@ -281,3 +281,14 @@
 * a very firm hand, 一个强有力的人。
 * with the aid of, 在……的帮助下。
 * This is supposed, 据说。
+
+### 0442 Recording an earthquake 记录地震
+* stand up on end, 竖立着。
+* the ideal to be aimed at, 理想的目标。
+* I could in time ..., 我最终能够……。
+* help us a little further, 帮助我们进一步搞清这个问题。
+* with the hand ... hold the string ..., 这是一个祈使句，谓语动词是 hold，with the hand held high in the air 是介词短语作方式状语。
+* to and fro, 来回地。
+
+### 0443 Are there strangers in space? 宇宙中有外星人吗？
+* that given a planet ... certain to start, 这是一个宾语从句，作动词 conclude 的宾语，其中 given a planet .. our
