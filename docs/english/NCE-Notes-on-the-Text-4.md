@@ -291,4 +291,25 @@
 * to and fro, 来回地。
 
 ### 0443 Are there strangers in space? 宇宙中有外星人吗？
-* that given a planet ... certain to start, 这是一个宾语从句，作动词 conclude 的宾语，其中 given a planet .. our
+* that given a planet ... certain to start, 这是一个宾语从句，作动词 conclude 的宾语，其中 given a planet .. our own, 过去分词短语作条件状语，given 与 if 的意思相近，这个过去分词短语可译成“如果一个行星与我们所在的行星大致相同的话”。
+* is best left unsaid, 最好不去说（它）。
+* come up against, 遇到。
+
+### 0444 Patterns of culture 文化的模式
+* The inner workings of our own brains, 这一部分是 feel 的宾语，为了强调而把宾语提前了，to be uniquely worthy of investigation 是宾语补足语。
+* the other way around, 正好相反。
+* taken the world over, 是过去分词短语，作 Traditional custom 的定语，taken 前省略了 it is，意为：被全世界所接受的。
+* go behind these stereotypes, 摆脱这些旧框框。
+* his very concepts, 其中的 very 是形容词，用于加强语气。
+* have reference to, 参照……，与……有关。
+* as against ... is as ... against ..., 与……相比较就如同……与……相比。
+* be taken up into, 被接纳进。
+* first and foremost, 首先。
+* the thousandth part, 等于 the thousandth part of the customs。
+* let us say, 譬如说。
+
+### 0445 Of men and galaxies 人和星系
+* make a very poor show, 出丑。
+* I stand alone, 仅我一人。
+* the last creature to compete with man, 其中的 last 有“极不可能的”意思。
+* The Holy Office knew this full well when it caused heretics to be burned in days gone by. the Holy Office 是指罗马天主教的宗教法庭；full well 中的 full 是副词，有 very 的意思；gone by 作 days 的定语，整个词组的意思是“过去的日子”。

@@ -2012,4 +2012,38 @@ Note the spelling of the words in italics.
   * The company has persuaded the workers to adopt more flexible working practices so as to increase efficiency.
   * Our Geology teacher has adapted an old washing-machine so he can use it to polish gem-stones.
 
+### 0443
+* planet, star
+  * Live images of the robotic vehicle, Sojourner, have been relayed from the planet Mars to our T.V. screens in seconds.
+  * There must be other stars, like our own sun, with orbiting planets similar to Earth.
+* estimated, esteemed
+  * The cost of repair has been estimated at $45.
+  * German mechanical engineering is highly esteemed world-wide.
+* natural, physical
+  * It's quite natural for a boy's voice to break when he is about 14.
+  * Boxers take a lot of physical punishment.
+* unsaid, untold
+  * Some things are better left unsaid.
+  * The floods have caused untold misery to hundreds of thousands of farmers this year.
+* search for, search
+  * The whole village has been searching for the missing boy.
+  * The security guards are searching each passenger.
+
+### 0444
+* custom, habit
+  * Sending birthday cards is not a very old custom.
+  * Overeating can easily become a bad habit.
+* aspect, view
+  * Why don't we consider the wider aspects of the problem?
+  * There's an excellent view from my window.
+* proportion, percentage
+  * The amount of work to be done seems to expand in proportion to the amount of time available to do it.
+  * The percentage of income taken in tax has stayed the same now for four years.
+* unintelligible, unintelligent
+  * The nurses found what he said unintelligible, but his wife could understand him well enough.
+  * People with gross physical disabilities are noe necessarily unintelligent as well.
+* controversial, argumentative
+  * Euthanasia, even voluntary euthanasia, must always be a controversial subject.
+  * It's hard to teach someone who is habitually argumentative, because they are thinking of how to disgrace instead of paying attention.
+
 
