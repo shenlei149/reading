@@ -331,3 +331,9 @@
 * cater for, 迎合……。
 * be wary of, 提防……。
 * Boy Scout, 童子军。
+
+### 0448 Planning a share portfolio 规划股份投资
+* go about, 从事，做。
+* Periwigs, 是一个假想中公司的名字。
+* the basics, 这里指基本情况，基本要素。
+* If you recognize yourself in this description, 如果你觉得你的情况是这样的话。

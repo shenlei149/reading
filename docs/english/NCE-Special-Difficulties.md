@@ -2067,4 +2067,13 @@ Note the spelling of the words in italics.
 * total, whole
   * The total bill came to $894.
   * You can't give an opinion unless you've read the whole book.
+* shun, avoid
+  * He was shunned by his former friends.
+  * You should avoid being late for work again.
+* worship, warship
+  * Religious leaders have always denounced the worship of money as the root of all evil.
+  * The Spanish warships sent to conquer Britain in the 16th century were wrecked by an exceptionally violent storm.
+* by contrast, opposite to
+  * This new manager is really competent, especially by contrast with his predecessor.
+  * This new manager is the complete opposite to what you would expect.
 
