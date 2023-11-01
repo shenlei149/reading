@@ -313,3 +313,21 @@
 * I stand alone, 仅我一人。
 * the last creature to compete with man, 其中的 last 有“极不可能的”意思。
 * The Holy Office knew this full well when it caused heretics to be burned in days gone by. the Holy Office 是指罗马天主教的宗教法庭；full well 中的 full 是副词，有 very 的意思；gone by 作 days 的定语，整个词组的意思是“过去的日子”。
+
+### 0446 Hobbies 业余爱好
+* catch hold of, 抓住……；let ... go, 放掉……。
+* lay one's hands on, 得到……，抓到……。
+* Fortune's favoured children 中的 Fortune 是指“命运女神”。
+
+### 0447 The great escape 大逃亡
+* it is far from ..., 远不是……。
+* twenty pound's worth of space, 价值 20 镑的空地，其中 worth 是名词。
+* hub to hub with, 轮毂与……轮毂相接。
+* the Splendide and the Bellavista, 两大酒店的名字。
+* say boo to a maitre dhotel, 对酒店的经理表示不满。say boo to a maitre dhotel, 是从 not say boo to a goose（非常胆小，不敢得罪）演变而来的。在这个成语中，a goose 常被人们幽默地换成其他字眼。（TODO，这里是法语，需要重写）
+* Granted, ... but ... （虽然……但是……）这种句型中的 Granted 总放在句首，意思是 Yes，相当于一个连接副词的作用。
+* in the shape of, 以……形式出现的。
+* be to hand, 垂手而得。
+* cater for, 迎合……。
+* be wary of, 提防……。
+* Boy Scout, 童子军。

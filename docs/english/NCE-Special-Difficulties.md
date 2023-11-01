@@ -2046,4 +2046,25 @@ Note the spelling of the words in italics.
   * Euthanasia, even voluntary euthanasia, must always be a controversial subject.
   * It's hard to teach someone who is habitually argumentative, because they are thinking of how to disgrace instead of paying attention.
 
+### 0446
+* late, lately
+  * The train arrived late.
+  * We haven't seen you lately.
+* hardly, hard
+  * He's so old now, he hardly works at all.
+  * I'll pass the exam if I work hard.
+* alternative, alternating
+  * That's what we must do then, unless you have an alternative suggestion.
+  * I visit my parents on alternating weekends.
+
+### 0447
+* initial, primary
+  * The lawyer charged 50 dollars for the initial consultation.
+  * The safety of our passengers is our primary concern.
+* hire, rent
+  * I want to hire a car for my trip to London.
+  * We've rented a villa in the south of France for the summer.
+* total, whole
+  * The total bill came to $894.
+  * You can't give an opinion unless you've read the whole book.
 
