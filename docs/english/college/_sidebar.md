@@ -2,3 +2,4 @@
 - [English](/english/)
 - [College English](/english/college/)
   - [Some Strategies for Learning English](/english/college/001.md)
+  - [How to Improve Your Study Habits](/english/college/002.md)
