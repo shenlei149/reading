@@ -1,6 +1,7 @@
 - [Home](/)
 - [如何阅读一本书](/How-to-Read-a-Book.md)
-- [English](/english/)
 - [哲学](/philosophy/)
+- [心理](/psychology/)
 - [教育](/edu/)
+- [English](/english/)
 - [时间线](/timeline/)
