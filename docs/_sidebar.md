@@ -3,5 +3,6 @@
 - [哲学](/philosophy/)
 - [心理](/psychology/)
 - [教育](/edu/)
+- [科普](/popular-science/)
 - [English](/english/)
 - [时间线](/timeline/)
