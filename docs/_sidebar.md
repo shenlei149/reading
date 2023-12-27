@@ -5,5 +5,6 @@
 - [教育](/edu/)
 - [科普](/popular-science/)
 - [文学](/literature/)
+- [其他](/miscellaneous/)
 - [English](/english/)
 - [时间线](/timeline/)
