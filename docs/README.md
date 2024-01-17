@@ -1,3 +1,5 @@
+> The job of your life is to know yourself.
+
 阅读一本书，需要回到下面几个基础问题。
 * 整体来说，这本书到底在谈什么？
   * 主题是什么
