@@ -4,3 +4,4 @@
   - [人类简史](/popular-science/sapiens.md)
   - [怎样解题](/popular-science/how_to_solve_it.md)
   - [思考的乐趣](/popular-science/matrix67.md)
+  - [可能与不可能的边界](/popular-science/p_np.md)
