@@ -192,23 +192,20 @@ Study these pairs of sentences. Pay close attention to the words in italics:
 * I have been staying at this hotel for three weeks.
 
 ### 0206 A, The and Some
-### *A* and *Some*. 不定冠词和表示不确定数量的 some
-We can say:
-* a pen, some pens; a book, some books; a picture, some pictures; a glass of milk, some milk; a bag of flour, some flour; a bar of soap, some soap.
-
-We can also use some nouns without *a* or *some* in general statements. 在表示一种笼统概念的陈述句中也可以省略 a 或 some。
-  * Yesterday I bought *a book*. *Books* are not very expensive.
-  * I have just drunk *a glass of milk*. *Milk* is very refreshing.
-  * Mrs. Jones bought *a bag of flour*, *a bag of sugar* and *some tea*.
-  * She always buys *flour, sugar* and *tea* at the grocer's.
-
-### *A* and *The*. 不定冠词和定冠词
-Read this paragraph. Pay close attention to the words *a* and *the*:
-* *A* man is walking towards me. *The* man is carrying a parcel. *The* parcel is full of meat. *The* man has just bought some meat. *A* dog is following *the* man. *The* dog is looking at *the* parcel.
-
-### Names. 姓名
-We cannot put *a* and *the* in front of names. 姓名前不能用不定冠词或定冠词。
-* John lives in England. He has a house in London. His house is in Duke Street. Last year he went to Madrid. John likes Spain very much. He goes there every summer.
+1. *A* and *Some*. 不定冠词和表示不确定数量的 some
+  * We can say:
+    * a pen, some pens; a book, some books; a picture, some pictures; a glass of milk, some milk; a bag of flour, some flour; a bar of soap, some soap.
+  * We can also use some nouns without *a* or *some* in general statements. 在表示一种笼统概念的陈述句中也可以省略 a 或 some。
+    * Yesterday I bought *a book*. *Books* are not very expensive.
+    * I have just drunk *a glass of milk*. *Milk* is very refreshing.
+    * Mrs. Jones bought *a bag of flour*, *a bag of sugar* and *some tea*.
+    * She always buys *flour, sugar* and *tea* at the grocer's.
+2. *A* and *The*. 不定冠词和定冠词
+  * Read this paragraph. Pay close attention to the words *a* and *the*:
+  * *A* man is walking towards me. *The* man is carrying a parcel. *The* parcel is full of meat. *The* man has just bought some meat. *A* dog is following *the* man. *The* dog is looking at *the* parcel.
+3. Names. 姓名
+  * We cannot put *a* and *the* in front of names. 姓名前不能用不定冠词或定冠词。
+  * John lives in England. He has a house in London. His house is in Duke Street. Last year he went to Madrid. John likes Spain very much. He goes there every summer.
 
 ### 0230 A, The, Some and Any
 * a. *Some* and *Any*.  
@@ -333,26 +330,24 @@ Read these sentences carefully.
   | My jacket *isn't like* yours. | My jacket is *different from* yours. |
 
 ### 0209 When did you arrive? I arrived at 10 o'clock
-Read these sentences carefully. Pay close attention to the phrases in italics. We can use phrases like these to answer questions beginning with *When*.  
+Read these sentences carefully. Pay close attention to the phrases in italics. We can use phrases like these to answer questions beginning with *When*.
+
 我们可以用这些表示时间的短语来回答以 When 开头的疑问句
 
-### Phrases with *at* 带 at 的短语
-I always leave home *at 8 o'clock*. I begin work *at 9 o'clock*. I work all day and often get home late *at night*.
-
-### Phrases with *in* 带 in 的短语
-I'm going out now. I'll be back *in ten minutes* or *in half an hour*.  
-The Second World War began *in 1939* and ended *in 1945*.  
-Many tourists come here *in summer*. They usually come *in July* and *in August*. It is very quiet here *in winter*. The hotels are often empty *in January, February* and *in March*.  
-I'll see you *in the morning*. I can't see you *in the afternoon* or *in the evening*.
-
-### Phrases with *on* 带 on 的短语
-I shall see him *on Wednesday*. I'm not free *on Tuesday or Thursday*.  
-My brother will arrive from Germany *on April 27th*. He will return *on May 5th*.
-
-### Other phrases 其他短语
-* The shops are open *from 9 till 5*.  
-* It rained heavily *during the night*.  
-* He will not arrive *until 10 o'clock*.
+* Phrases with *at* 带 at 的短语
+  * I always leave home *at 8 o'clock*. I begin work *at 9 o'clock*. I work all day and often get home late *at night*.
+* Phrases with *in* 带 in 的短语
+  * I'm going out now. I'll be back *in ten minutes* or *in half an hour*.  
+  * The Second World War began *in 1939* and ended *in 1945*.  
+  * Many tourists come here *in summer*. They usually come *in July* and *in August*. It is very quiet here *in winter*. The hotels are often empty *in January, February* and *in March*.  
+  * I'll see you *in the morning*. I can't see you *in the afternoon* or *in the evening*.
+* Phrases with *on* 带 on 的短语
+  * I shall see him *on Wednesday*. I'm not free *on Tuesday or Thursday*.  
+  * My brother will arrive from Germany *on April 27th*. He will return *on May 5th*.
+* Other phrases 其他短语
+  * The shops are open *from 9 till 5*.  
+  * It rained heavily *during the night*.  
+  * He will not arrive *until 10 o'clock*.
 
 ### 0233 Where did he go? He went to the cinema.
 Read these sentences carefully. Pay close attention to the words in italics. We can often use phrases like these to answer questions beginning with *Where* or *Which direction*.  
@@ -398,18 +393,22 @@ Read these sentences carefully. Pay close attention to the words in italics. We 
   * The woman *with the brown handbag and long umbrella* is a famous novelist.
 
 ### 0210 It was made in Germany in 1681. （一般过去时中的）被动语态
-### 主动 vs. 被动
-Who built this bridge?  
-Prisoners of war built this bridge in 1942.  
-When was this bridge?  
-This bridge was built in 1942.  
-In the first question we want to know *who* built the bridge. In the second question wa want to learn about *the bridge*.  
-第一个问题中我们想知道是谁建了这座桥，第二个问题中我们想弄清有关桥的一些情况。因此，第一句使用了主动语态，第二句运用了被动语态。  
-We can still say *who* built it. We can say:  
-我们也可以讲清是什么人修建的这座桥，用“by+动作执行者”的结构来表示。  
-This bridge was built *by prisoners of war* in 1942.
+* 主动 vs. 被动
+  * Who built this bridge?  
+  * Prisoners of war built this bridge in 1942.  
+  * When was this bridge?  
+  * This bridge was built in 1942.  
+  * In the first question we want to know *who* built the bridge. In the second question wa want to learn about *the bridge*.  
+第一个问题中我们想知道是谁建了这座桥，第二个问题中我们想弄清有关桥的一些情况。因此，第一句使用了主动语态，第二句运用了被动语态。
 
-### Who, What or Which
+* We can still say *who* built it.
+
+We can say:
+* This bridge was built *by prisoners of war* in 1942.
+
+我们也可以讲清是什么人修建的这座桥，用“by+动作执行者”的结构来表示。
+
+* Who, What or Which
 The first sentence in each pair tell us about *a person*. The second sentence tells us about a thing.  
 第一个句子回答是谁的问题，第二个句子回答什么或哪一个的问题。  
 *Workmen are building* a new road outside my house.  
